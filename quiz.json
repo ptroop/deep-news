@@ -1,338 +1,314 @@
 [
   {
-    "question": "An institutional options trading desk notices that Nifty is moving in a historically tight, range-bound channel. To capitalize on this low-volatility environment while managing risk, the desk executes a 'calendar spread' (buying a longer-dated option and selling a shorter-dated option with the same strike price). Which of the following best describes the primary source of profitability and the risk profile for this position?",
+    "question": "According to recent reports, India's credit card spending crossed the Rs 2 trillion threshold for the second consecutive month in June. From a macroeconomic and monetary policy transmission perspective, how should a commercial bank's asset liability committee (ALCO) interpret this persistent trend in unsecured retail credit expansion?",
     "options": [
-      "The strategy profits from the acceleration of time decay (theta) in the shorter-dated short option relative to the longer-dated long option, and is exposed to a sudden spike in implied volatility.",
-      "The strategy profits from the acceleration of time decay (theta) in the shorter-dated short option relative to the longer-dated long option, and is exposed to a sudden sharp price move in either direction.",
-      "The strategy profits from the slower time decay of the shorter-dated short option, and is exposed to a gradual, range-bound consolidation of the underlying index.",
-      "The strategy profits from directional price movements of the underlying index, and achieves maximum profitability when the underlying index breaks out of its range before the near-term option expires."
+      "It signals a structural decline in systemic liquidity, requiring the bank to immediately lower its marginal cost of funds-based lending rate (MCLR) to attract corporate borrowers.",
+      "It indicates robust consumer demand but heightens risk-weighted asset requirements, prompting the bank to optimize capital allocation by pricing in higher risk premiums on retail loans.",
+      "It suggests that household savings are shifting entirely to long-term bank deposits, which will naturally compress the bank's net interest margins (NIM).",
+      "It implies that the central bank is highly likely to cut cash reserve ratios (CRR) to encourage further unsecured lending to maintain credit momentum."
     ],
     "answerIndex": 1,
-    "explanation": "A calendar spread (specifically a long calendar spread) involves selling a near-term option and buying a longer-term option of the same strike. It is a market-neutral strategy that profits from the differential in time decay (theta) between the two maturities: the near-term option's time value decays exponentially faster than that of the longer-term option. The maximum profit is realized if the underlying index stays exactly at the strike price at the near-term option's expiration. The primary risk is a sharp directional breakout in either direction, which moves the underlying away from the sweet spot of the strike price and collapses the spread's value. The core concept tested is option Greeks (Theta and Vega) and spread construction. Option A is incorrect because a calendar spread actually benefits from a spike in implied volatility (long Vega). Options C and D are incorrect because they mischaracterize the decay dynamics and directional exposure. \n\nExam Takeaway: Calendar spreads exploit the non-linear acceleration of theta decay in near-term options compared to longer-term options, but remain highly vulnerable to sudden directional breakouts.",
+    "explanation": "Persistent high growth in unsecured retail credit, such as credit card spending, indicates strong consumption but also elevates systemic risk. Under regulatory frameworks (like those of the RBI), rapid expansion in unsecured lending typically leads to higher risk-weighted asset (RWA) allocations. ALCOs must respond by raising risk premiums on these loans to protect capital adequacy ratios. Option A is incorrect because tight liquidity and high risk do not justify lowering MCLR. Option C is incorrect as high credit card spend usually correlates with lower immediate discretionary savings, not a surge in long-term deposits. Option D is incorrect because central banks typically tighten macroprudential norms rather than lowering CRR during credit spikes. Concept: Risk Management and Capital Allocation. Exam Takeaway: Rapid growth in unsecured retail credit increases risk-weighted assets, requiring banks to adjust loan pricing and capital preservation strategies.",
     "type": "news"
   },
   {
-    "question": "India's Q4 GDP growth reached 7.8% despite ongoing geopolitical tensions in West Asia. However, corporate strategists warn that persistent global supply chain disruptions could still impact local firms. For an Indian manufacturer reliant on imported inputs, which of the following operational shifts represents the most strategically sound response to mitigate these geopolitical risks while sustaining growth?",
+    "question": "Jindal Steel reported a 43% drop in Q1 profit to Rs 845 crore despite experiencing revenue growth. From a corporate finance and accounting perspective, which of the following scenarios is the most plausible explanation for this divergence between top-line and bottom-line performance?",
     "options": [
-      "Shifting entirely to domestic suppliers immediately, regardless of cost differentials, to eliminate currency exposure.",
-      "Transitioning from a Just-In-Time (JIT) inventory model to a Just-In-Case (JIC) model with diversified sourcing hubs.",
-      "Increasing short-term debt to hoard raw materials for a multi-year horizon to hedge against future price hikes.",
-      "Freezing all capital expenditure (CapEx) and shifting focus to high-yield short-term financial investments."
+      "A significant decrease in raw material costs and operating leverage, which inflated gross margins.",
+      "A sharp rise in input costs and interest expenses that outpaced the revenue growth, compressing operating and net margins.",
+      "An increase in non-operating, one-time extraordinary gains that artificially depressed operating profits.",
+      "A shift in accounting policy from FIFO to LIFO in a highly deflationary environment, which artificially inflated ending inventory values."
     ],
     "answerIndex": 1,
-    "explanation": "When global supply chains face systemic geopolitical disruptions (such as West Asia tensions), relying on a pure Just-In-Time (JIT) model introduces severe stockout risks. Transitioning to a Just-In-Case (JIC) model by building strategic safety buffers and diversifying sourcing hubs (e.g., utilizing emerging routes like Oman or Tanzania) balances supply continuity with operational flexibility. Option A is incorrect because abrupt domestic substitution without considering cost and quality can destroy competitive advantage. Option C is incorrect because hoarding multi-year inventory with debt severely damages working capital efficiency and introduces high carrying costs. Option D is incorrect because freezing CapEx halts the firm's growth momentum in a rapidly expanding economy. The core concept tested is supply chain risk management. \n\nExam Takeaway: Geopolitical instability requires supply chains to pivot from pure cost-efficiency (JIT) to resilience and geographic redundancy (JIC).",
+    "explanation": "When revenue increases but net profit drops significantly, it indicates severe margin compression. This is typically driven by escalating operating expenses (such as raw material inflation, energy costs, or supply chain bottlenecks) and higher finance costs (interest expenses) that erode the top-line gains. Option A is incorrect because lower input costs would increase profits. Option C is incorrect because extraordinary gains would increase, not decrease, net profit. Option D is incorrect because LIFO in a deflationary environment would actually lower the cost of goods sold (COGS) and increase net profit, not decrease it. Concept: Margin Analysis and Cost Structure. Exam Takeaway: Revenue growth without corresponding profit growth indicates escalating operating and financial leverage pressures that compress margins.",
     "type": "news"
   },
   {
-    "question": "Maruti is targeting a 25-30% growth in SUV sales in FY27, driven by new model launches. From a strategic marketing and product portfolio perspective, which of the following best describes the market dynamics Maruti is leveraging, and the primary risk of this aggressive product push?",
+    "question": "With shipping freight rates expected to rise by up to 50% on routes connecting India and West Asia due to regional congestion, how should an Indian export manager restructure their supply chain strategy to mitigate the impact of rising storage and transit costs?",
     "options": [
-      "Maruti is leveraging market penetration in a shrinking segment, risking price wars with established niche players.",
-      "Maruti is leveraging a structural consumer shift toward high-margin utility vehicles, risking the cannibalization of its entry-level hatchback dominance.",
-      "Maruti is leveraging cost leadership in electric vehicles, risking severe regulatory penalties if traditional SUV sales drop.",
-      "Maruti is leveraging brand dilution to capture low-income buyers, risking its reputation among premium corporate clients."
-    ],
-    "answerIndex": 1,
-    "explanation": "Maruti's aggressive focus on the SUV segment is a strategic response to the structural shift in Indian consumer preferences toward larger, high-margin utility vehicles (SUVs) over entry-level hatchbacks. However, the primary risk of this product-line expansion is the cannibalization of Maruti's own dominant market share in the hatchback segment, as well as increased capital allocation away from its legacy core. Option A is incorrect because the SUV segment is growing, not shrinking. Option C is incorrect because the headline focuses on general SUV sales (primarily ICE/hybrid), not cost leadership in EVs. Option D is incorrect because moving into SUVs premiumizes the brand rather than diluting it with low-income buyers. The core concept tested is product portfolio strategy and cannibalization. \n\nExam Takeaway: Expanding into high-margin adjacent segments can offset stagnation in legacy core products, but risks cannibalizing existing volume.",
-    "type": "news"
-  },
-  {
-    "question": "Amid West Asia conflicts, India's trade routes are shifting, with Oman becoming a major import partner for energy and Singapore rising as the third-largest export destination. For an Indian multinational corporate treasurer, how do these shifting trade corridors fundamentally alter corporate risk management policies?",
-    "options": [
-      "They eliminate the need for US Dollar hedging because trade is now diversified across regional currencies.",
-      "They increase reliance on singular shipping channels, reducing the overall need for maritime cargo insurance.",
-      "They necessitate a dynamic multi-currency hedging framework and a re-evaluation of geopolitical risk premiums in supply chain financing.",
-      "They require the company to relocate its treasury headquarters to Singapore to avoid domestic corporate tax."
+      "Transition from a 'Just-in-Case' inventory model to an aggressive 'Just-in-Time' (JIT) model to eliminate local warehousing entirely.",
+      "Shift from Free on Board (FOB) origin terms to Cost and Freight (CFR) terms to absorb all shipping volatility and gain pricing power.",
+      "Explore alternative multimodal transport corridors and establish regional distribution hubs to buffer against localized port delays.",
+      "Increase reliance on spot freight markets rather than long-term contract rates to capture short-term price drops."
     ],
     "answerIndex": 2,
-    "explanation": "As trade routes diversify to new partners like Oman, Singapore, and Tanzania, the corporate treasury faces exposure to a wider basket of currencies and differing regional regulatory environments. This requires a transition from simple USD-centric hedging to a dynamic, multi-currency hedging framework and a reassessment of geopolitical risk premiums in supply chain financing. Option A is incorrect because the USD remains the dominant global invoicing currency, so USD hedging remains critical. Option B is incorrect because shifting routes often increases, rather than decreases, the complexity and necessity of maritime insurance. Option D is incorrect because relocating headquarters is an extreme, impractical tax-avoidance measure not directly driven by trade route diversification. The core concept tested is international financial risk management. \n\nExam Takeaway: Shifting trade corridors require corporate treasuries to adapt their hedging models to a wider array of regional currencies and geopolitical risk variables.",
+    "explanation": "When facing severe port congestion and rising freight rates on specific routes, relying purely on spot markets or JIT inventory increases stockout risks and cost volatility. Exploring alternative multimodal corridors and regional hubs helps diversify route risks and stabilize supply chains. Option A is incorrect because JIT is highly vulnerable to shipping delays. Option B is incorrect because shifting to CFR forces the exporter to bear the rising freight costs, which worsens profitability. Option D is incorrect because spot markets are highly volatile during crises, making long-term contracted rates or alternative routes a safer hedge. Concept: Supply Chain Risk Management. Exam Takeaway: Mitigating geopolitical and port congestion risks requires route diversification and strategic buffering rather than lean JIT operations.",
     "type": "news"
   },
   {
-    "question": "The National Financial Reporting Authority (NFRA) recently issued its first technology guidance warning auditors of AI-related risks. From an accounting and audit risk perspective, which of the following represents the most critical challenge when an audit firm relies on AI-driven automated analytical procedures to verify revenue recognition?",
+    "question": "With crude oil prices threatening to surge to $150 per barrel due to the escalating conflict in the Middle East and a potential closure of the Strait of Hormuz, India is facing severe macroeconomic pressure. From a balance of payments and monetary policy perspective, how would the Reserve Bank of India (RBI) most likely respond to manage the dual shock of currency depreciation and imported inflation?",
     "options": [
-      "AI models may lack explainability ('black box' risk), making it difficult for auditors to document the underlying logic and satisfy professional skepticism requirements.",
-      "AI models will automatically increase the detection risk to an unacceptable level, forcing auditors to completely abandon substantive testing.",
-      "AI tools are unable to process unstructured data, making them ineffective for verifying complex sales contracts.",
-      "The use of AI-driven procedures automatically violates the fundamental accounting principle of historical cost measurement."
+      "Aggressively cut the repo rate to stimulate domestic demand and offset the drag of high energy costs.",
+      "Intervene in the foreign exchange market by selling USD from foreign exchange reserves while simultaneously conducting open market operations (OMOs) to sterilize liquidity if needed.",
+      "Lower the Cash Reserve Ratio (CRR) to inject cheap liquidity into the banking system to support oil importing firms.",
+      "Implement capital controls to completely ban foreign portfolio investors (FPIs) from withdrawing equity capital."
+    ],
+    "answerIndex": 1,
+    "explanation": "When oil prices spike, India's current account deficit widens, causing rupee depreciation and imported inflation. The RBI manages this by selling USD from its reserves to stabilize the rupee. Since selling USD sucks rupee liquidity out of the banking system, the RBI may use sterilization techniques (like OMO purchases) to neutralize the liquidity impact. Cutting rates or lowering CRR would worsen inflation and accelerate capital flight. Banning FPI outflows is an extreme measure that would destroy market credibility. The core concept tested is central bank intervention and balance of payments management. Exam Takeaway: Spiking oil prices trigger imported inflation and currency depreciation, prompting central banks to defend the currency via FX reserves while managing domestic liquidity.",
+    "type": "news"
+  },
+  {
+    "question": "Foreign Portfolio Investors (FPIs) pulled out over Rs 27,000 crore from Indian equities in May, bringing the 2026 outflows to a staggering Rs 2.2 lakh crore amid global growth concerns and geopolitical volatility. If an Indian multinational firm is planning to raise dollar-denominated debt via External Commercial Borrowings (ECBs) during such a period of sustained capital flight from emerging markets, what is the most likely impact on its financing?",
+    "options": [
+      "The credit spreads over the benchmark risk-free rate (e.g., SOFR) will narrow due to lower global demand for credit.",
+      "The cost of hedging the foreign exchange risk using forward contracts will decrease due to rupee appreciation expectations.",
+      "The all-in-cost of borrowing will rise as global investors demand higher risk premiums for emerging market exposures.",
+      "The domestic credit rating of the firm will automatically upgrade because it is seeking international funding."
+    ],
+    "answerIndex": 2,
+    "explanation": "Sustained capital flight from emerging markets like India signals risk-off sentiment globally. During such periods, global investors demand higher risk premiums, which widens credit spreads for emerging market corporate issuers. Consequently, the all-in-cost of borrowing via ECBs increases. Hedging costs would also rise, not fall, because the rupee is under depreciation pressure. Credit ratings are based on financial health and sovereign risk, not the act of seeking international funding. The core concept tested is the pricing of international debt and risk premiums. Exam Takeaway: Global risk-off sentiment and emerging market capital flight increase both credit spreads and hedging costs for cross-border corporate borrowings.",
+    "type": "news"
+  },
+  {
+    "question": "Fitch has warned that the poor financial health of state electricity distribution companies (discoms) poses significant business risks for power traders. From a corporate finance and credit risk perspective, how does the weak financial position of these monopoly buyers affect the working capital cycle and valuation of independent power producers (IPPs)?",
+    "options": [
+      "It shortens the Days Sales Outstanding (DSO) because discoms prioritize payments to avoid legal penalties.",
+      "It increases the Cash Conversion Cycle (CCC) of IPPs, requiring them to secure costly short-term working capital loans and lowering their Free Cash Flow to Firm (FCFF).",
+      "It decreases the Weighted Average Cost of Capital (WACC) of IPPs because debt becomes cheaper when customer risk is high.",
+      "It increases the asset turnover ratio of IPPs since they can write off overdue receivables as tax-deductible expenses."
+    ],
+    "answerIndex": 1,
+    "explanation": "Weak discoms delay payments to power producers, which significantly inflates the Days Sales Outstanding (DSO) and elongates the Cash Conversion Cycle (CCC). To sustain operations, IPPs must take on expensive short-term working capital debt. This interest burden and delayed cash generation reduce Free Cash Flow to the Firm (FCFF) and lower corporate valuation. WACC would increase, not decrease, because lenders and equity holders will demand higher returns to compensate for the counterparty default risk. The core concept tested is working capital management and credit risk. Exam Takeaway: Counterparty payment delays elongate the cash conversion cycle, forcing reliance on expensive short-term debt and reducing firm valuation.",
+    "type": "news"
+  },
+  {
+    "question": "A financial analyst wants to compute the present value of a company's projected free cash flows using a discount rate that reflects the blended cost of both debt and equity. Which discount rate is most appropriate for this DCF valuation?",
+    "options": [
+      "Cost of Equity (Ke)",
+      "Weighted Average Cost of Capital (WACC)",
+      "Pre-tax Cost of Debt (Kd)",
+      "Risk-Free Rate (Rf)"
+    ],
+    "answerIndex": 1,
+    "explanation": "To value the entire firm (Enterprise Value), we discount the Free Cash Flow to Firm (FCFF) using the Weighted Average Cost of Capital (WACC), which represents the blended opportunity cost for all capital providers (both debt and equity). Cost of equity is only used for Free Cash Flow to Equity (FCFE). Exam Takeaway: Use WACC to discount FCFF, and Cost of Equity to discount FCFE.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, you need to extract the exact matching price of a product ID from a large horizontal dataset where product IDs are listed in the top row. Which function is most efficient for this specific layout?",
+    "options": [
+      "VLOOKUP",
+      "HLOOKUP",
+      "INDEX without MATCH",
+      "CONCATENATE"
+    ],
+    "answerIndex": 1,
+    "explanation": "HLOOKUP (Horizontal Lookup) searches for a value in the top row of a table or an array and returns a value in the same column from a row you specify. VLOOKUP is used for vertical columns, while HLOOKUP is designed specifically for horizontal rows. Exam Takeaway: Use HLOOKUP for horizontal data arrays and VLOOKUP for vertical ones.",
+    "type": "apti"
+  },
+  {
+    "question": "If a company's Net Profit Margin is 10%, its Asset Turnover is 1.5, and its Equity Multiplier is 2.0, what is its Return on Equity (ROE) using the DuPont Analysis framework?",
+    "options": [
+      "15%",
+      "20%",
+      "30%",
+      "12%"
+    ],
+    "answerIndex": 2,
+    "explanation": "According to the DuPont framework, Return on Equity (ROE) is calculated as Net Profit Margin multiplied by Asset Turnover multiplied by the Equity Multiplier. Therefore, ROE = 0.10 * 1.5 * 2.0 = 0.30 or 30%. Exam Takeaway: DuPont analysis breaks down ROE into profitability, asset efficiency, and financial leverage.",
+    "type": "apti"
+  },
+  {
+    "question": "Under SEBI's insider trading regulations, if an executive of a listed company possesses Material Non-Public Information (MNPI), which of the following actions is legally permitted?",
+    "options": [
+      "Trading shares through a relative's account to avoid detection",
+      "Recommending the stock to an institutional investor without trading yourself",
+      "Abstaining from all trading activities in the company's stock until the information is made public",
+      "Selling shares immediately to cut potential losses before the public announcement"
+    ],
+    "answerIndex": 2,
+    "explanation": "SEBI's Prohibition of Insider Trading (PIT) regulations prohibit any insider from trading in securities of a listed company while in possession of Unpublished Price Sensitive Information (UPSI/MNPI). Abstaining from trading until the info is public is the only legal course of action. Exam Takeaway: Possession of unpublished price sensitive information legally bars insiders from executing or advising on trades.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following Excel keyboard shortcuts is universally used to toggle absolute, relative, and mixed cell referencing (adding or removing '$' signs) while editing a formula?",
+    "options": [
+      "F2",
+      "F4",
+      "F9",
+      "Ctrl + Shift + L"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pressing F4 while a cell reference is selected in the Excel formula bar cycles through absolute reference ($A$1), mixed reference with absolute row (A$1), mixed reference with absolute column ($A1), and relative reference (A1). Exam Takeaway: Use the F4 shortcut to quickly lock or unlock cell references in Excel financial models.",
+    "type": "apti"
+  },
+  {
+    "question": "When analyzing a company's balance sheet, which of the following constitutes a 'Current Liability'?",
+    "options": [
+      "Accounts Receivable",
+      "Prepaid Expenses",
+      "Accounts Payable",
+      "Retained Earnings"
+    ],
+    "answerIndex": 2,
+    "explanation": "Accounts Payable represents short-term obligations to suppliers for goods or services purchased on credit, which are expected to be settled within one year. This makes it a current liability. Accounts Receivable and Prepaid Expenses are current assets, while Retained Earnings is equity. Exam Takeaway: Current liabilities are obligations a company must settle within one operating cycle or one year.",
+    "type": "apti"
+  },
+  {
+    "question": "Under the Reserve Bank of India (RBI) guidelines, if the central bank wants to inject liquidity quickly into the banking system to address a temporary cash crunch, which policy action will it take?",
+    "options": [
+      "Increase the Cash Reserve Ratio (CRR)",
+      "Conduct a Reverse Repo operation",
+      "Conduct a Repo operation",
+      "Increase the Statutory Liquidity Ratio (SLR)"
+    ],
+    "answerIndex": 2,
+    "explanation": "A Repo (Repurchase Option) operation involves the RBI buying government securities from commercial banks with an agreement to sell them back, thereby injecting immediate liquidity into the banking system. Raising CRR or SLR sucks liquidity out, while Reverse Repo absorbs excess liquidity. Exam Takeaway: Repo operations inject liquidity into the banking system, while Reverse Repo operations absorb it.",
+    "type": "apti"
+  },
+  {
+    "question": "A firm's current assets are $500,000 and its current liabilities are $250,000. If the firm uses $50,000 cash to pay off $50,000 of its accounts payable, what happens to its Current Ratio?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains exactly the same",
+      "It drops to zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "The initial Current Ratio is $500k / $250k = 2.0. After paying off $50k of liabilities with cash, current assets become $450k and current liabilities become $200k. The new Current Ratio is $450k / $200k = 2.25. Since the ratio was initially greater than 1.0, an equal reduction in both numerator and denominator increases the ratio. Exam Takeaway: Paying off short-term debt with cash improves the current ratio if the starting ratio is greater than 1.0.",
+    "type": "apti"
+  },
+  {
+    "question": "In corporate finance, what is the 'Terminal Value' in a Discounted Cash Flow (DCF) model designed to capture?",
+    "options": [
+      "The historical value of the firm's assets prior to the projection period",
+      "The value of the firm's cash flows beyond the explicit projection period, assuming stable long-term growth",
+      "The liquidation value of the firm's physical property, plant, and equipment",
+      "The total interest payments paid over the life of the firm's outstanding debt"
+    ],
+    "answerIndex": 1,
+    "explanation": "Terminal Value represents the present value of all future cash flows beyond the explicit forecast period (typically 5-10 years), assuming the business will continue to operate as a going concern at a stable growth rate indefinitely. Exam Takeaway: Terminal Value accounts for the majority of a company's total value in a DCF model.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following best describes the 'Acid-Test Ratio' (Quick Ratio) and how it differs from the Current Ratio?",
+    "options": [
+      "It includes inventory because inventory is the most liquid asset.",
+      "It excludes inventory and prepaid expenses because they cannot be quickly converted to cash.",
+      "It is calculated by dividing non-current assets by current liabilities.",
+      "It measures long-term solvency rather than short-term liquidity."
+    ],
+    "answerIndex": 1,
+    "explanation": "The Acid-Test (Quick) Ratio is a more stringent measure of liquidity than the Current Ratio. It excludes inventory and prepaid expenses from current assets because inventory takes time to sell and prepaid expenses cannot be converted back into cash to pay current debts. Exam Takeaway: The Quick Ratio is a more conservative liquidity measure than the Current Ratio because it excludes less liquid current assets like inventory.",
+    "type": "apti"
+  },
+  {
+    "question": "If you are auditing a company's financial statements and notice that 'Depreciation Expense' has increased on the Income Statement, what is the direct impact on the company's operating cash flow, assuming no other changes?",
+    "options": [
+      "Operating cash flow decreases because depreciation is an expense.",
+      "Operating cash flow increases because depreciation is a non-cash expense that provides a tax shield.",
+      "Operating cash flow remains completely unchanged because depreciation does not affect taxes.",
+      "Operating cash flow becomes negative immediately."
+    ],
+    "answerIndex": 1,
+    "explanation": "Depreciation is a non-cash expense. While it reduces net income on the income statement, it reduces the taxes paid (tax shield). When calculating cash flow from operations, depreciation is added back to net income, resulting in an overall increase in cash flow due to lower taxes paid. Exam Takeaway: Non-cash expenses like depreciation reduce taxable income, thereby increasing operating cash flow through tax savings.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, if you want to find the relative position of an item in a range (e.g., finding that 'Product B' is the 3rd item in a list), which function should you use?",
+    "options": [
+      "VLOOKUP",
+      "INDEX",
+      "MATCH",
+      "FIND"
+    ],
+    "answerIndex": 2,
+    "explanation": "The MATCH function searches for a specified item in a range of cells and then returns the relative position of that item in the range. Unlike INDEX which returns the value at a position, MATCH returns the position number itself. Exam Takeaway: MATCH returns the numerical index/position of an item, whereas INDEX returns the actual value at that index.",
+    "type": "apti"
+  },
+  {
+    "question": "Under SEBI's regulations for Listed Companies, what is the maximum timeline within which a company must disclose 'material events' or information to the stock exchanges after they occur?",
+    "options": [
+      "Within 24 hours",
+      "Within 7 working days",
+      "Within 30 days",
+      "At the end of the financial quarter"
     ],
     "answerIndex": 0,
-    "explanation": "Auditors must maintain professional skepticism and document their audit evidence. When using AI-driven tools for substantive analytical procedures, the 'black box' nature of complex machine learning models poses a significant risk. If the auditor cannot explain or document the logic the AI used to identify or verify revenue patterns, they cannot satisfy auditing standards regarding the sufficiency and appropriateness of audit evidence. Option B is incorrect because AI does not inherently make detection risk unacceptable if properly controlled. Option C is incorrect because modern AI excels at processing unstructured data. Option D is incorrect as AI usage does not affect the historical cost measurement principle. Exam Takeaway: Auditor reliance on AI tools introduces 'black box' risks that threaten compliance with professional standards requiring documented, explainable audit evidence and professional skepticism.",
-    "type": "news"
+    "explanation": "Under SEBI (Listing Obligations and Disclosure Requirements) Regulations, listed entities must disclose to the stock exchanges all material events or information as soon as reasonably possible and not later than 24 hours from the occurrence of the event. Exam Takeaway: Listed companies must disclose material events to stock exchanges within 24 hours to maintain market transparency.",
+    "type": "apti"
   },
   {
-    "question": "According to reports, India has settled $15 billion in imports, driven by Russian oil purchases, using Indian Rupees (INR). From a macroeconomic and central banking perspective, what is the primary long-term structural implication of expanding such bilateral local currency settlement mechanisms?",
+    "question": "An investor purchases a 5-year, 8% coupon-bearing corporate bond at par value. If market interest rates suddenly rise to 10% shortly after the purchase, what will happen to the market price of this bond?",
     "options": [
-      "It completely eliminates the domestic banking system's dependence on international SWIFT connectivity for all global transactions.",
-      "It reduces the transaction demand for US Dollars, potentially lowering hedging costs and conserving foreign exchange reserves during global shocks.",
-      "It guarantees a permanent trade surplus for India with its major bilateral importing partners.",
-      "It forces the Reserve Bank of India (RBI) to abandon its inflation-targeting framework to stabilize the exchange rate."
+      "The bond's price will rise above par.",
+      "The bond's price will fall below par.",
+      "The bond's price will remain exactly at par.",
+      "The bond's coupon rate will automatically adjust to 10%."
     ],
     "answerIndex": 1,
-    "explanation": "By settling large-scale import bills (such as Russian oil) in Rupees (INR) rather than US Dollars (USD), India reduces its transactional demand for USD. This de-dollarization of trade helps conserve foreign exchange reserves and mitigates the pressure on the INR during global liquidity squeezes, reducing overall hedging costs for importers. Option A is incorrect because bilateral trade does not eliminate overall SWIFT dependence for other global trade. Option C is incorrect because local currency settlement does not alter structural trade imbalances or guarantee a surplus. Option D is incorrect because bilateral settlement does not compromise the RBI's inflation-targeting mandate. Exam Takeaway: Bilateral local currency trade settlements help emerging market economies conserve USD reserves and mitigate exchange rate volatility during global macroeconomic shocks.",
-    "type": "news"
+    "explanation": "Bond prices and market interest rates have an inverse relationship. When interest rates rise, newly issued bonds offer higher yields (10%), making the existing 8% bond less attractive. To compete, the price of the existing bond must fall below par to offer a comparable yield to maturity. Exam Takeaway: When interest rates rise, existing fixed-rate bond prices fall.",
+    "type": "apti"
   },
   {
-    "question": "The government is considering keeping a Rs 7,500 crore outlay for IT hardware manufacturing under the Production Linked Incentive (PLI) scheme, with foreign firms required to invest Rs 500 crore over 4 years and domestic firms Rs 20 crore over 5 years. From a corporate strategy and supply chain perspective, how does this asymmetric threshold structure affect the competitive dynamics of the domestic IT hardware ecosystem?",
+    "question": "Which of the following Excel formulas will sum the values in cells C1:C10 only if the corresponding cells in A1:A10 contain 'East' and the cells in B1:B10 contain 'Apples'?",
     "options": [
-      "It acts as a high barrier to entry that prevents foreign firms from achieving economies of scale, forcing them out of the Indian market entirely.",
-      "It encourages domestic firms to specialize in low-value assembly, while foreign firms are discouraged from bringing advanced technological IP.",
-      "It lowers the capital expenditure barrier for domestic players to foster local manufacturing capability, while leveraging foreign MNC capital to build a deep component ecosystem.",
-      "It eliminates the need for domestic firms to build local supply chains, as foreign firms are forced to source 100% of their components locally from day one."
+      "SUMIF(A1:B10, \"East\", C1:C10)",
+      "SUMIFS(C1:C10, A1:A10, \"East\", B1:B10, \"Apples\")",
+      "SUM(C1:C10, A1:A10=\"East\", B1:B10=\"Apples\")",
+      "DSUM(C1:C10, \"East\", \"Apples\")"
     ],
-    "answerIndex": 2,
-    "explanation": "The asymmetric investment thresholds under the PLI scheme are strategically designed to lower the entry barrier for cash-constrained domestic manufacturers (Rs 20 crore over 5 years), enabling them to scale up. Concurrently, the higher threshold for foreign MNCs (Rs 500 crore over 4 years) ensures that global giants commit significant capital to build high-capacity manufacturing facilities and deep local component ecosystems. Option A is incorrect because foreign firms can easily meet the Rs 500 crore threshold given their scale. Option B is incorrect as the scheme incentivizes high-value manufacturing. Option D is incorrect because local sourcing requirements are phased, not immediate or total. Exam Takeaway: Asymmetric PLI thresholds allow emerging domestic players to build capacity while attracting large-scale foreign capital to establish a robust domestic supply chain.",
-    "type": "news"
+    "answerIndex": 1,
+    "explanation": "The SUMIFS function is designed to sum cells in a range based on multiple criteria. The syntax is SUMIFS(sum_range, criteria_range1, criteria1, criteria_range2, criteria2, ...). SUMIF only supports a single criterion. Exam Takeaway: Use SUMIFS when you need to sum data based on multiple conditional criteria.",
+    "type": "apti"
   },
   {
-    "question": "Kaynes shares recently plunged 43% from their October peak, trading nearly 26% below their 200-day Simple Moving Average (SMA), leading analysts to suggest a potential contrarian 'mean-reversion' recovery. From a business analytics and quantitative trading perspective, what is the primary risk of executing a long position based solely on a mean-reversion signal under these conditions?",
+    "question": "In the context of the Banking Sector, what does the 'Net Interest Margin' (NIM) measure?",
     "options": [
-      "The stock may experience a 'falling knife' scenario where deteriorating underlying business fundamentals shift the long-term intrinsic value downward, rendering the historical SMA irrelevant.",
-      "Mean-reversion strategies are mathematically impossible to execute when a stock trades below its 200-day SMA.",
-      "The 200-day SMA is a leading indicator that automatically guarantees a trend reversal within 5 trading sessions.",
-      "A high tracking error relative to the benchmark index will automatically trigger a regulatory trading halt by SEBI."
+      "The ratio of bad loans to total loans disbursed by a bank.",
+      "The difference between interest income generated and interest paid out, relative to the bank's interest-earning assets.",
+      "The bank's total non-interest operating expenses divided by its net revenues.",
+      "The percentage of deposits that must be kept with the central bank."
+    ],
+    "answerIndex": 1,
+    "explanation": "Net Interest Margin (NIM) is a key profitability metric for banks. It is calculated as (Interest Income - Interest Expense) divided by Average Interest-Earning Assets. It reflects how efficiently a bank is earning returns on its investment and loan portfolio relative to its funding costs. Exam Takeaway: NIM measures a bank's core lending profitability relative to its asset base.",
+    "type": "apti"
+  },
+  {
+    "question": "If a company has a Debt-to-Equity ratio of 0.5x, total assets of $150,000, and no current liabilities, what is the company's total Debt?",
+    "options": [
+      "$50,000",
+      "$75,000",
+      "$100,000",
+      "$30,000"
     ],
     "answerIndex": 0,
-    "explanation": "The primary risk of buying a stock solely because it is far below its historical moving average (mean-reversion) is the 'falling knife' or value trap risk. If the company's structural earnings power, competitive position, or industry dynamics have permanently deteriorated, the intrinsic value of the company shifts downward, and the stock price may continue to fall or stagnate rather than revert to its old average. Option B is incorrect because mean-reversion is a valid strategy, though risky. Option C is incorrect because SMAs are lagging, not leading indicators, and guarantee nothing. Option D is incorrect as tracking errors do not trigger regulatory trading halts. Exam Takeaway: Quantitative mean-reversion strategies must be backed by fundamental analysis to ensure a price drop is temporary and not a structural downward shift in intrinsic value.",
-    "type": "news"
+    "explanation": "Accounting Equation: Assets = Liabilities (Debt) + Equity. Let Equity be E. Since Debt-to-Equity is 0.5, Debt = 0.5E. Therefore, Assets = 0.5E + E = 1.5E. Given Assets = $150,000, we have 1.5E = 150,000, which means E = $100,000. Thus, Debt = 0.5 * $100,000 = $50,000. Exam Takeaway: Leverage ratios must always align with the fundamental accounting equation (Assets = Liabilities + Equity).",
+    "type": "apti"
   },
   {
-    "question": "An analyst wants to quickly find the internal rate of return (IRR) for a project with irregular, non-periodic cash flows occurring at specific dates. Which Excel function is best suited for this task?",
+    "question": "Under the Reserve Bank of India (RBI) framework, what is the primary purpose of the 'Marginal Standing Facility' (MSF)?",
     "options": [
-      "IRR",
-      "MIRR",
-      "XIRR",
-      "RATE"
+      "To provide long-term infrastructure loans to public sector undertakings.",
+      "To allow commercial banks to borrow overnight funds from the RBI in an emergency by dipping into their SLR portfolio at a penal rate.",
+      "To regulate the listing of foreign institutional investors in Indian stock markets.",
+      "To manage the retail inflation index through direct price controls on consumer goods."
+    ],
+    "answerIndex": 1,
+    "explanation": "The Marginal Standing Facility (MSF) is a window for banks to borrow overnight funds from the RBI in emergency situations when interbank liquidity dries up completely. Banks can pledge government securities within the limits of their Statutory Liquidity Ratio (SLR) portfolio, paying a slightly higher (penal) interest rate than the standard Repo rate. Exam Takeaway: MSF acts as an emergency overnight safety valve for commercial banks experiencing acute liquidity stress.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following transactions would be classified under 'Cash Flow from Investing Activities' in a standard Cash Flow Statement?",
+    "options": [
+      "Issuance of new equity shares to institutional investors",
+      "Payment of cash dividends to existing shareholders",
+      "Purchase of manufacturing equipment and machinery",
+      "Collection of cash from customers for services rendered"
     ],
     "answerIndex": 2,
-    "explanation": "While the standard IRR function assumes that cash flows occur at equal, periodic intervals, the XIRR function is specifically designed to handle cash flows that occur at irregular dates. MIRR calculates the modified internal rate of return with finance and reinvestment rates, and RATE finds the interest rate per period of an annuity. Using the correct time-adjusted formula is vital for accurate project evaluation. Exam Takeaway: Use XIRR in Excel for non-periodic, real-world cash flows to ensure precise timing valuation.",
+    "explanation": "Investing activities include transactions involving the acquisition and disposal of long-term assets (like property, plant, and equipment) and other investments. Issuing shares and paying dividends are financing activities, while collecting cash from customers is an operating activity. Exam Takeaway: Capex and asset purchases are classified under Cash Flow from Investing Activities.",
     "type": "apti"
   },
   {
-    "question": "A retail company is analyzing its working capital. If the Days Sales Outstanding (DSO) is 45 days, Days Inventory Outstanding (DIO) is 60 days, and Days Payable Outstanding (DPO) is 40 days, what is the company's Cash Conversion Cycle (CCC)?",
+    "question": "In Excel, which of the following formulas will calculate the straight-line depreciation of an asset that has an initial cost of $10,000, a salvage value of $1,000, and a useful life of 5 years?",
     "options": [
-      "145 days",
-      "65 days",
-      "25 days",
-      "105 days"
+      "DDB(10000, 1000, 5, 1)",
+      "SLN(10000, 1000, 5)",
+      "SYD(10000, 1000, 5, 1)",
+      "PMT(0.05, 5, -10000)"
     ],
     "answerIndex": 1,
-    "explanation": "The Cash Conversion Cycle is calculated using the formula: CCC = DIO + DSO - DPO. Plugging in the numbers: 60 + 45 - 40 = 65 days. This metric measures the time it takes for a company to convert its investments in inventory and other resources into cash flows from sales. Exam Takeaway: A shorter Cash Conversion Cycle indicates a more efficient working capital management process.",
-    "type": "apti"
-  },
-  {
-    "question": "Under the Reserve Bank of India (RBI) rules, if a commercial bank's credit-to-deposit (CD) ratio rises excessively, what macroprudential concern is the regulator most likely to flag to prevent systemic risk?",
-    "options": [
-      "Sovereign default risk",
-      "Liquidity mismatch and over-extension of credit",
-      "Deflationary pressures",
-      "Excessive capital adequacy ratio (CAR)"
-    ],
-    "answerIndex": 1,
-    "explanation": "An excessively high credit-to-deposit ratio indicates that a bank is lending out a very high proportion of its deposits. The RBI monitors this closely because it signals potential liquidity mismatches, leaving banks vulnerable if there is a sudden surge in deposit withdrawals or a spike in non-performing assets. Exam Takeaway: The CD ratio is a crucial liquidity metric monitored by regulators to ensure banks do not overextend their lending books relative to stable deposits.",
-    "type": "apti"
-  },
-  {
-    "question": "When building a 3-statement financial model, which of the following represents the correct linkage between the Income Statement and the Balance Sheet?",
-    "options": [
-      "Operating income increases Cash directly",
-      "Net income flows into Retained Earnings under Shareholder's Equity",
-      "Depreciation is added directly to Share Capital",
-      "Interest expense reduces Long-Term Debt on the liability side"
-    ],
-    "answerIndex": 1,
-    "explanation": "Net income from the bottom of the Income Statement flows directly into Retained Earnings on the Balance Sheet (after subtracting any dividends paid). Operating income does not directly translate to cash due to non-cash items and working capital adjustments, while depreciation affects accumulated depreciation and interest expense is an income statement item that does not directly reduce principal debt. Exam Takeaway: Retained Earnings acts as the primary balance sheet link to the profitability captured on the Income Statement.",
-    "type": "apti"
-  },
-  {
-    "question": "In the context of corporate valuation, if a company's Cost of Debt is 6%, its Cost of Equity is 12%, its Debt-to-Equity ratio is 1:1, and the corporate tax rate is 25%, what is its Weighted Average Cost of Capital (WACC)?",
-    "options": [
-      "9.0%",
-      "8.25%",
-      "7.5%",
-      "6.75%"
-    ],
-    "answerIndex": 1,
-    "explanation": "With a Debt-to-Equity ratio of 1:1, the weights of debt and equity are each 50% (0.50). The formula for WACC is: (Weight of Equity * Cost of Equity) + (Weight of Debt * Cost of Debt * (1 - Tax Rate)). Applying the values: (0.50 * 12%) + (0.50 * 6% * (1 - 0.25)) = 6% + 2.25% = 8.25%. Exam Takeaway: Always remember to apply the after-tax cost of debt when calculating WACC because interest payments are tax-deductible.",
-    "type": "apti"
-  },
-  {
-    "question": "Under SEBI's regulations for Mutual Funds, what is the primary objective of introducing 'stress testing' requirements for small-cap and mid-cap mutual fund schemes?",
-    "options": [
-      "To guarantee a minimum return to retail investors during market downturns",
-      "To assess how quickly a fund manager can liquidate portfolio assets to meet sudden redemption pressures",
-      "To limit the maximum expense ratio that a fund can charge",
-      "To mandate that all small-cap funds convert into large-cap funds"
-    ],
-    "answerIndex": 1,
-    "explanation": "SEBI introduced stress testing for small and mid-cap funds to evaluate their liquidity profile. Since small and mid-cap stocks can become highly illiquid during market panics, these tests estimate how many days it would take a fund manager to liquidate 25% or 50% of the portfolio to meet sudden, heavy redemption requests from investors. Exam Takeaway: Stress testing ensures mutual funds maintain adequate liquidity to handle sudden market redemptions without causing market distortion.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following Excel formulas will return the current date and time, updating automatically whenever the worksheet is recalculated?",
-    "options": [
-      "=TODAY()",
-      "=DATE()",
-      "=NOW()",
-      "=TIME()"
-    ],
-    "answerIndex": 2,
-    "explanation": "=NOW() returns both the current date and the exact time, updating dynamically on recalculation. =TODAY() only returns the current date without the time. =DATE() and =TIME() require specific year/month/day or hour/minute/second arguments to construct a static value. Exam Takeaway: Use the NOW() function when your financial model or report requires a real-time timestamp.",
-    "type": "apti"
-  },
-  {
-    "question": "If a manufacturing company's Operating Leverage is high, what does this imply about its cost structure and financial performance?",
-    "options": [
-      "The company has a high proportion of variable costs, making its profits very stable",
-      "Small changes in sales volume will lead to large percentage changes in operating income",
-      "The company relies heavily on debt financing rather than equity",
-      "The company will have a low break-even point"
-    ],
-    "answerIndex": 1,
-    "explanation": "High operating leverage occurs when a company has a high proportion of fixed costs relative to variable costs. This means that once the fixed costs are covered, a large percentage of each additional dollar of sales flows directly to operating income, making profits highly sensitive to sales volume changes. Debt financing refers to financial leverage, not operating leverage. Exam Takeaway: High operating leverage acts as a double-edged sword, magnifying both gains and losses based on sales volatility.",
-    "type": "apti"
-  },
-  {
-    "question": "What is the primary economic rationale behind a central bank raising the Cash Reserve Ratio (CRR)?",
-    "options": [
-      "To encourage commercial banks to increase lending to boost economic growth",
-      "To inject liquidity into the banking system to lower interest rates",
-      "To absorb excess liquidity from the banking system to control inflation",
-      "To reduce the tax burden on commercial banks"
-    ],
-    "answerIndex": 2,
-    "explanation": "When a central bank (like the RBI) raises the Cash Reserve Ratio (CRR), commercial banks are required to keep a larger proportion of their deposits as cash reserves with the central bank. This reduces the amount of cash available for banks to lend, contracting credit supply and helping to cool down inflationary pressures. Exam Takeaway: Raising the CRR is a contractionary monetary policy tool used to suck liquidity out of the economy and curb inflation.",
-    "type": "apti"
-  },
-  {
-    "question": "In an Excel financial model, what does the formula =IFERROR(VLOOKUP(A1, B:C, 2, FALSE), \"Not Found\") do?",
-    "options": [
-      "It searches for the value of A1 in column B and returns the corresponding value from column C, displaying 'Not Found' if an error occurs",
-      "It checks if cell A1 contains an error and replaces it with the text 'Not Found'",
-      "It compares column B and column C to see if they match cell A1",
-      "It deletes any cells in column B that contain errors and labels them 'Not Found'"
-    ],
-    "answerIndex": 0,
-    "explanation": "The VLOOKUP searches for the value of A1 in the leftmost column of the range B:C (which is column B) and returns the value in the second column (column C). If the value is not found or if any other error occurs (like #N/A), the IFERROR function intercepts the error and returns the custom text \"Not Found\" instead of an ugly Excel error code. Exam Takeaway: Combining IFERROR with lookup functions prevents broken error codes from disrupting the visual presentation of a financial model.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following transactions will result in an increase in Cash Flow from Operations (CFO) on the Cash Flow Statement?",
-    "options": [
-      "Selling a piece of manufacturing equipment for cash",
-      "An increase in Accounts Receivable during the fiscal year",
-      "An increase in Accounts Payable during the fiscal year",
-      "Issuing new corporate bonds to institutional investors"
-    ],
-    "answerIndex": 2,
-    "explanation": "An increase in Accounts Payable means the company has delayed payments to its suppliers, effectively preserving cash. Therefore, it is added back as a positive source of cash in the Operating Activities section. Selling equipment is an investing activity, issuing bonds is a financing activity, and an increase in Accounts Receivable is a use of cash (subtracted from CFO). Exam Takeaway: Delays in paying short-term liabilities (higher payables) temporarily boost operational cash flow.",
-    "type": "apti"
-  },
-  {
-    "question": "Under SEBI's guidelines for Initial Public Offerings (IPOs), what is the purpose of the 'Green Shoe Option'?",
-    "options": [
-      "To mandate that the issuing company invests in eco-friendly and sustainable initiatives",
-      "To allow underwriters to issue additional shares to stabilize the stock price post-listing",
-      "To provide retail investors with a guaranteed refund if the stock price falls below the issue price",
-      "To bypass the standard listing requirements for technology startups"
-    ],
-    "answerIndex": 1,
-    "explanation": "The Green Shoe Option, also known as an over-allotment option, allows underwriters to sell more shares than originally planned by the company. This mechanism is used to stabilize the post-listing price of the stock if demand is highly volatile, protecting the stock from falling sharply immediately after it starts trading. Exam Takeaway: The Green Shoe Option is a price-stabilizing mechanism used during IPOs to manage post-listing market volatility.",
-    "type": "apti"
-  },
-  {
-    "question": "If a corporate borrower has a high Interest Coverage Ratio, what does this indicate to a commercial credit analyst?",
-    "options": [
-      "The borrower has a high risk of defaulting on its upcoming interest payments",
-      "The borrower generates ample operating profit to cover its interest obligations comfortably",
-      "The borrower has a very high debt-to-equity ratio",
-      "The borrower is utilizing aggressive tax avoidance strategies"
-    ],
-    "answerIndex": 1,
-    "explanation": "The Interest Coverage Ratio (EBIT / Interest Expense) measures how easily a company can pay interest on its outstanding debt. A higher ratio indicates strong profitability relative to debt service requirements, representing lower default risk for lenders. Exam Takeaway: A high interest coverage ratio provides comfort to lenders that the borrower has a robust cushion to service its debt.",
-    "type": "apti"
-  },
-  {
-    "question": "In corporate finance, what is the 'Free Cash Flow to Equity' (FCFE) primarily used to value?",
-    "options": [
-      "The total value of the firm's operations, including debt and equity",
-      "The value of the firm's equity portion only",
-      "The liquidation value of the company's fixed assets",
-      "The net present value of the firm's tax shields"
-    ],
-    "answerIndex": 1,
-    "explanation": "Free Cash Flow to Equity (FCFE) represents the cash available to equity shareholders after all operating expenses, reinvestment needs, and debt principal payments/borrowings are accounted for. Discounting FCFE at the Cost of Equity yields the value of the firm's equity directly, whereas discounting FCFF (Free Cash Flow to Firm) yields the total Enterprise Value. Exam Takeaway: Use FCFE to value equity directly, and use FCFF when valuing the entire business enterprise.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following represents a primary difference between a Forward Contract and a Futures Contract?",
-    "options": [
-      "Forward contracts are traded on public exchanges, while futures contracts are traded over-the-counter (OTC)",
-      "Forward contracts are highly standardized, while futures contracts are fully customizable",
-      "Futures contracts are marked-to-market daily, while forward contracts are settled only at maturity",
-      "Forward contracts have zero credit risk, while futures contracts carry high counterparty default risk"
-    ],
-    "answerIndex": 2,
-    "explanation": "Futures contracts are highly standardized, traded on regulated exchanges, and marked-to-market daily to minimize default risk. Forward contracts, on the other hand, are private, customized agreements between two parties traded over-the-counter (OTC), and they settle only at the end of the contract term, which introduces higher counterparty risk. Exam Takeaway: Daily mark-to-market settlement is the key risk-mitigation mechanism that distinguishes exchange-traded futures from OTC forwards.",
-    "type": "apti"
-  },
-  {
-    "question": "In Excel, which of the following error messages indicates that a formula refers to a cell that has been deleted or pasted over?",
-    "options": [
-      "#VALUE!",
-      "#REF!",
-      "#NAME?",
-      "#DIV/0!"
-    ],
-    "answerIndex": 1,
-    "explanation": "The #REF! error occurs when Excel encounters an invalid cell reference. This typically happens when columns, rows, or individual cells that were referenced in a formula are deleted or overwritten. #VALUE! indicates incorrect data types, #NAME? indicates a misspelled function or named range, and #DIV/0! indicates division by zero. Exam Takeaway: Always trace #REF! errors immediately, as they indicate broken formulas caused by structural changes in your sheet.",
-    "type": "apti"
-  },
-  {
-    "question": "If the Federal Reserve or the RBI increases interest rates, what is the typical immediate impact on the bond prices of existing fixed-rate corporate bonds?",
-    "options": [
-      "Existing bond prices will rise because they offer safer returns",
-      "Existing bond prices will fall because their fixed coupon rates become less attractive compared to new market rates",
-      "Existing bond prices will remain completely unaffected",
-      "Existing bond prices will fluctuate wildly but always return to their par value within 24 hours"
-    ],
-    "answerIndex": 1,
-    "explanation": "There is an inverse relationship between interest rates and bond prices. When market interest rates rise, newly issued bonds offer higher coupon rates. Consequently, existing bonds with lower, older coupon rates become less attractive, causing their market prices to fall so that their yield matches the new market rate. Exam Takeaway: Interest rate hikes depress the market value of existing fixed-rate bonds.",
-    "type": "apti"
-  },
-  {
-    "question": "Which financial statement is prepared to show a company's financial position at a specific point in time, rather than over a period of time?",
-    "options": [
-      "Income Statement",
-      "Statement of Cash Flows",
-      "Balance Sheet",
-      "Statement of Retained Earnings"
-    ],
-    "answerIndex": 2,
-    "explanation": "The Balance Sheet is a snapshot of a company's assets, liabilities, and equity at a specific calendar date (e.g., as of March 31). In contrast, the Income Statement and Cash Flow Statement measure activities and performance over a specified duration or period of time (e.g., for the year ended March 31). Exam Takeaway: The Balance Sheet is a point-in-time snapshot, whereas the Income Statement is a period-of-time summary.",
-    "type": "apti"
-  },
-  {
-    "question": "What does a Debt Service Coverage Ratio (DSCR) of less than 1.0x imply about a commercial borrower's financial health?",
-    "options": [
-      "The company has sufficient operating income to cover all its debt obligations",
-      "The company does not generate enough operating cash flow to meet its scheduled principal and interest payments",
-      "The company is completely debt-free",
-      "The company's equity value is higher than its enterprise value"
-    ],
-    "answerIndex": 1,
-    "explanation": "A DSCR of less than 1.0x (e.g., 0.8x) means that the company's operating income is insufficient to cover its debt servicing commitments (interest + principal payments). This is a major red flag for lenders, indicating that the borrower may need to draw down cash reserves, sell assets, or seek external funding to avoid default. Exam Takeaway: A DSCR below 1.0x indicates a cash flow deficit relative to mandatory debt service obligations.",
-    "type": "apti"
-  },
-  {
-    "question": "In Excel, if you want to sum values in a range based on multiple, different criteria across different columns, which function should you use?",
-    "options": [
-      "SUMIF",
-      "SUMIFS",
-      "DSUM",
-      "SUMPRODUCT"
-    ],
-    "answerIndex": 1,
-    "explanation": "The SUMIFS function is designed to add values in a range that meet multiple criteria. While SUMIF can only handle a single criterion, SUMIFS can support up to 127 criteria ranges. SUMPRODUCT can also accomplish this but is less efficient and more complex to write for basic multi-criteria summing. Exam Takeaway: Use SUMIFS as the standard, go-to function for multi-criteria summing in financial models.",
+    "explanation": "The SLN function in Excel calculates the straight-line depreciation of an asset for one period. The syntax is SLN(cost, salvage, life). In this case, SLN(10000, 1000, 5) returns $1,800 per year. DDB is for double-declining balance, and SYD is for sum-of-years' digits. Exam Takeaway: Use the SLN function in Excel to quickly compute straight-line depreciation for financial models.",
     "type": "apti"
   }
 ]

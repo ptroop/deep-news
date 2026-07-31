@@ -1,338 +1,326 @@
 [
   {
-    "question": "A recent study highlights that India is losing an estimated $174 billion due to foreign investment restrictions and market distortions. From a Macroeconomics and International Finance perspective, what is the primary structural mechanism through which these investment barriers and distortions lower long-run GDP growth?",
+    "question": "A leading Indian wealth management firm's report notes that while 'old economy' sectors still drive 83% of Indian wealth, 'new-economy' creators are rapidly closing the gap. From a Corporate Finance and Investment Strategy perspective, if an asset manager shifts portfolio allocation from mature 'old economy' firms to high-growth 'new economy' startups, what is the most likely structural impact on the portfolio's aggregate cash flow profile?",
     "options": [
-      "By artificially lowering the domestic cost of capital, which leads to overinvestment in non-productive state-owned enterprises.",
-      "By restricting the inflow of foreign capital, which limits total factor productivity (TFP) growth, reduces technology spillovers, and inflates the domestic cost of capital.",
-      "By forcing a balance of payments surplus that causes persistent currency depreciation, making imported raw materials unaffordable.",
-      "By causing an immediate contraction in the domestic monetary base as the central bank is forced to sterilize excessive capital outflows."
-    ],
-    "answerIndex": 1,
-    "explanation": "Foreign investment restrictions and market distortions stifle long-run economic growth primarily by raising the domestic cost of capital and blocking access to international technology, managerial practices, and global supply chains. This limits Total Factor Productivity (TFP) growth, which is the ultimate driver of long-term economic expansion. Restricting foreign equity inflows prevents efficient capital allocation, leaving domestic firms with higher borrowing costs and fewer cross-border joint ventures that facilitate knowledge spillovers. Option A is incorrect because restrictions raise, not lower, the cost of capital. Option C is incorrect because restrictions typically lead to capital scarcity, not persistent surpluses. Option D is incorrect because sterilization is used to manage inflows, not outflows. Exam Takeaway: Foreign investment barriers drag down long-run GDP growth by elevating the cost of capital and choking off technology and productivity spillovers.",
-    "type": "news"
-  },
-  {
-    "question": "In the June 2026 quarter, Adani Ports & Special Economic Zone reported a consolidated net profit increase of 9.23%. From a Corporate Finance and Valuation perspective, if an infrastructure operator experiences steady net income growth while its capital expenditure (CapEx) for expanding port berths is fully funded by debt, what is the most direct immediate impact on its Free Cash Flow to Firm (FCFF) and Free Cash Flow to Equity (FCFE)?",
-    "options": [
-      "Both FCFF and FCFE will increase by the exact same amount because debt financing does not impact cash flow calculations.",
-      "FCFF will decrease due to the high CapEx, while FCFE will remain unchanged or increase because the CapEx is offset by net borrowing inflows.",
-      "FCFF will increase due to higher operational profits, while FCFE will decrease because of the increased interest obligations on the new debt.",
-      "Both FCFF and FCFE will decrease because the cash outflow for CapEx is always subtracted in full from both metrics regardless of financing source."
-    ],
-    "answerIndex": 1,
-    "explanation": "Free Cash Flow to Firm (FCFF) represents cash available to all capital providers and is calculated as EBIT*(1-t) + D&A - CapEx - Change in Working Capital. Because CapEx is subtracted, the expansion project reduces FCFF regardless of how it is financed. Free Cash Flow to Equity (FCFE) represents cash available to shareholders and is calculated as FCFF - Interest*(1-t) + Net Borrowing. Since the CapEx is fully funded by new debt, the net borrowing inflow offsets the CapEx outflow, leaving FCFE relatively insulated or higher due to increased operating profits. Option A and D are incorrect because they ignore the differing treatments of leverage. Option C is incorrect because it misidentifies the direction of the changes. Exam Takeaway: Debt-financed capital expenditure reduces FCFF immediately but is neutralized in FCFE by net borrowing inflows.",
-    "type": "news"
-  },
-  {
-    "question": "Larsen & Toubro (L&T) secured a major engineering, procurement, and construction (EPC) contract worth up to Rs 10,000 crore from Kuwait Oil Company for crude export infrastructure. From a Corporate Risk Management and Strategy perspective, which of the following contract structures would most effectively mitigate L&T's exposure to commodity price volatility and foreign exchange risks in this multi-year cross-border project?",
-    "options": [
-      "A fixed-price, lump-sum contract denominated entirely in Kuwaiti Dinar (KWD) with no inflation indexing.",
-      "A cost-reimbursable contract with a fixed percentage fee, denominated in Indian Rupees (INR) with foreign exchange hedging managed solely by the client.",
-      "A cost-plus incentive fee contract with currency-linked escalation clauses and systematic forward cover on key imported inputs.",
-      "A unit-rate contract denominated in US Dollars (USD) where L&T absorbs all material cost increases in exchange for tax exemptions."
+      "An increase in immediate dividend yield and a compression of the terminal value multiple.",
+      "A decrease in near-term capital expenditure requirements and lower operating leverage.",
+      "A shift of cash flow realization toward the terminal value horizon and higher sensitivity to the cost of capital.",
+      "A reduction in the duration of equity and lower sensitivity to macroeconomic interest rate shocks."
     ],
     "answerIndex": 2,
-    "explanation": "A cost-plus incentive fee contract with currency-linked escalation clauses directly protects the contractor from commodity price shocks by passing through volatile material costs, while aligning performance incentives. Incorporating systematic forward cover on imported inputs mitigates foreign exchange volatility. Option A is incorrect because a fixed-price lump-sum contract exposes the contractor to maximum inflation and commodity price risk. Option B is incorrect because relying on the client to manage forex hedging leaves the contractor vulnerable to execution mismatches. Option D is incorrect because absorbing material cost increases defeats the purpose of mitigating commodity price risk. Exam Takeaway: Multi-year cross-border infrastructure projects require cost-escalation clauses and proactive hedging to mitigate commodity and currency risks.",
+    "explanation": "Shifting allocation from mature 'old economy' firms (which typically generate stable, immediate operating cash flows and pay out dividends) to high-growth 'new economy' startups shifts the portfolio's cash flow profile. Startups reinvest heavily, resulting in low or negative near-term free cash flows, meaning their valuation is heavily weighted toward long-term terminal value. In financial theory, this increases the 'duration' of the equity portfolio, making the present value of these cash flows highly sensitive to changes in the discount rate (cost of capital). Option A is incorrect because dividend yields will drop. Option B is incorrect because new-economy firms often have high operating leverage. Option D is incorrect because equity duration increases, making it more sensitive to interest rate shocks. Concept tested: Duration of equity and cash flow profiling. Exam Takeaway: High-growth assets delay cash flow realization, increasing valuation sensitivity to the discount rate.",
     "type": "news"
   },
   {
-    "question": "India's Q4 GDP growth hit an impressive 7.8%, pushing fiscal year growth to 7.7%, driven by robust private investment and consumption. From a Macroeconomics and Monetary Policy perspective, if an economy is growing above its potential output level with strong private demand, what is the most likely policy response from the Reserve Bank of India (RBI) to prevent overheating and anchor inflation expectations?",
+    "question": "The GST Network (GSTN) has deferred the implementation of mandatory 'Ship-To GSTIN' reporting and voluntary e-Way Bill closure. From an Operations and Supply Chain Management perspective, what is the primary operational risk that this deferral temporarily mitigates for large-scale multi-state distributors?",
     "options": [
-      "Implement expansionary monetary policy by lowering the repo rate and reducing the Cash Reserve Ratio (CRR).",
-      "Maintain a hawkish stance by keeping policy rates elevated or raising them, alongside conducting open market sales of government securities to absorb excess liquidity.",
-      "Adopt a dovish stance by purchasing government bonds through open market operations to drive down long-term yields.",
-      "Implement moral suasion to force commercial banks to lower lending rates to further stimulate capital expenditure."
+      "The risk of immediate upward pressure on raw material procurement costs due to tariff hikes.",
+      "The risk of supply chain bottlenecks and transit delays caused by ERP non-compliance and system integration mismatches.",
+      "The risk of inventory obsolescence resulting from a sudden shift in consumer demand channels.",
+      "The risk of increased working capital lock-up due to a mandatory rise in statutory cash reserve ratios."
     ],
     "answerIndex": 1,
-    "explanation": "When an economy exhibits strong growth that potentially exceeds its non-accelerating inflation rate of unemployment (NAIRU), the central bank's primary concern shifts to preventing demand-pull inflation and economic overheating. A hawkish stance (neutral-to-tight monetary policy) characterized by high policy rates and liquidity absorption via open market sales of government securities helps temper credit growth and stabilize inflation expectations. Options A, C, and D describe expansionary policies, which would exacerbate inflation risks in a high-growth environment. Exam Takeaway: To counter potential overheating in a high-growth economy, central banks deploy contractionary monetary policies, including elevated policy rates and liquidity absorption.",
+    "explanation": "Mandatory 'Ship-To GSTIN' reporting requires tight alignment between a company's ERP billing systems, logistics partners, and the government's tax portal. Forcing this transition without adequate testing often leads to system mismatches, blocking the generation of e-Way bills and halting shipments. Deferring the rollout allows businesses and software providers to iron out integration issues, preventing severe transit delays and supply chain bottlenecks. Option A is incorrect because GST compliance rules do not alter physical raw material tariffs. Option C is incorrect as administrative tax reporting rules do not alter consumer demand. Option D is incorrect because GSTN changes do not dictate banking reserve ratios. Concept tested: Supply chain compliance and operational risk management. Exam Takeaway: Abrupt regulatory system transitions can cause severe physical supply chain bottlenecks if IT infrastructure is not fully integrated.",
     "type": "news"
   },
   {
-    "question": "The World Bank recently raised India's FY27 economic growth forecast to 6.6%, citing expected benefits from new free trade agreements (FTAs) and reduced US tariffs, despite warning of weak external demand from global conflicts. From a Macroeconomics and Strategy perspective, how do FTAs primarily help a developing country like India sustain high GDP growth when global demand is sluggish?",
+    "question": "Due to ongoing conflicts in West Asia, India's trade map is shifting, with Oman emerging as a major energy import partner and Singapore becoming the third-largest export destination. From a Macroeconomics and Trade Strategy perspective, what is the primary economic implication of these shifting trade corridors on India's balance of payments?",
     "options": [
-      "By guaranteeing fixed export prices for domestic manufacturers, insulating them from global price volatility.",
-      "By lowering trade barriers to improve market access, allowing domestic firms to capture larger market shares in partner countries despite shrinking global demand.",
-      "By eliminating the need for foreign exchange reserves, as all bilateral trade under FTAs is settled in domestic currency.",
-      "By automatically pegging the domestic currency to the partner country's currency to stabilize import costs."
+      "An automatic elimination of the structural trade deficit due to geographic diversification.",
+      "Higher transaction and transit costs that may widen the current account deficit, offset by strategic supply chain resilience.",
+      "A complete insulation of domestic fuel prices from global Brent crude price shocks.",
+      "A mandatory appreciation of the Indian Rupee driven by a sudden surplus in the capital account."
     ],
     "answerIndex": 1,
-    "explanation": "Free trade agreements (FTAs) lower tariffs and non-tariff barriers between signatory nations. When global demand is weak, overall trade volumes contract; however, preferential market access allows exporters in FTA-partner nations to underprice competitors from non-FTA countries, capturing a larger share of the remaining market. Option A is incorrect because FTAs do not guarantee fixed prices. Option C is incorrect because FTAs do not eliminate the need for foreign exchange reserves. Option D is incorrect because FTAs do not mandate currency pegs. Exam Takeaway: FTAs act as strategic cushions during global downturns by enhancing relative cost competitiveness and market share in partner nations.",
+    "explanation": "Rerouting trade to bypass high-risk conflict zones (such as the Red Sea or Strait of Hormuz) typically involves longer shipping routes, higher freight rates, and increased insurance premiums. While this diversification builds strategic resilience and secures energy inputs from partners like Oman, the elevated logistics costs exert structural pressure on the current account deficit. Option A is incorrect because changing partners does not automatically eliminate a structural trade deficit. Option C is incorrect because domestic fuel prices remain linked to global benchmarks like Brent crude. Option D is incorrect because these shifts do not guarantee capital account surpluses or currency appreciation. Concept tested: Trade logistics, route diversification, and Balance of Payments. Exam Takeaway: Geopolitical rerouting of trade corridors enhances supply security but typically increases structural transaction costs.",
     "type": "news"
   },
   {
-    "question": "KPIT reported a 32% drop in quarterly profit despite a 9% increase in revenue, citing auto industry headwinds. From a Corporate Finance and Accounting perspective, which of the following operational scenarios is the most likely driver of this divergence between revenue growth and profitability?",
+    "question": "Hyundai Motor India reported a 35% drop in Q1 net profit, citing an export hit and a supplier fire. From an Operations and Risk Management perspective, which of the following strategies would have most effectively mitigated the bottom-line impact of the supplier fire?",
     "options": [
-      "An increase in deferred tax assets which temporarily suppressed cash flows.",
-      "A decline in working capital requirements leading to higher free cash flows.",
-      "A significant increase in fixed operating costs and staff expenses that outpaced the marginal revenue gains.",
-      "A shift from FIFO to LIFO inventory valuation during a period of falling raw material prices."
+      "Implementing a strict Just-In-Time (JIT) inventory system with a single-source supplier to minimize holding costs.",
+      "Developing a dual-sourcing strategy with geographically distributed suppliers alongside business interruption insurance.",
+      "Increasing the pricing of finished vehicles to offset the volume drop, assuming perfectly elastic demand.",
+      "Hedging the foreign exchange exposure of export receivables using long-dated forward contracts."
+    ],
+    "answerIndex": 1,
+    "explanation": "A supplier fire represents a classic single-point-of-failure risk in a supply chain. To mitigate this, operations managers use dual-sourcing or multi-sourcing strategies, ensuring that alternative, qualified suppliers in different geographic regions can step in. Combining this with business interruption insurance helps recover lost profits during the disruption. Option A is incorrect because JIT and single-sourcing actually amplify vulnerability to supplier disruptions. Option C is incorrect because if demand is elastic, raising prices will drastically reduce sales volume, worsening the profit drop. Option D is incorrect because FX hedging does not address the physical supply disruption of parts. Concept tested: Supply chain resilience and operational risk mitigation. Exam Takeaway: Single-source supply chains are highly vulnerable to operational disruptions; dual-sourcing and insurance are critical mitigants.",
+    "type": "news"
+  },
+  {
+    "question": "The World Bank recently raised India's FY27 economic growth forecast to 6.6%, citing expected benefits from new free trade agreements (FTAs) and reduced US tariffs. However, it also warned that external demand may weaken due to global conflicts. From a Macroeconomics and Strategy perspective, how do FTAs primarily help a developing country like India sustain high GDP growth when global demand is sluggish?",
+    "options": [
+      "By establishing absolute monopoly pricing power for domestic exporters in foreign markets.",
+      "By lowering trade barriers to improve export competitiveness, diversify markets, and attract efficiency-seeking Foreign Direct Investment (FDI).",
+      "By mandating that partner countries purchase fixed quotas of domestic industrial goods regardless of market demand.",
+      "By artificially pegging the domestic currency's exchange rate to the partner country's currency to prevent volatility."
+    ],
+    "answerIndex": 1,
+    "explanation": "Free Trade Agreements (FTAs) eliminate or reduce tariffs on traded goods and services, which materially enhances the cost-competitiveness of a country's exports in partner markets. This price advantage helps cushion the impact of overall sluggish global demand by allowing exporters to capture a larger share of the partner's market. Additionally, FTAs reduce non-tariff barriers, simplify customs procedures, and provide a stable legal framework, which attracts efficiency-seeking Foreign Direct Investment (FDI) as multinational corporations seek to build regional supply chains. Options A, C, and D are incorrect because FTAs do not grant monopoly pricing, mandate purchasing quotas, or peg exchange rates. Concept: Macroeconomic benefits of trade liberalization. Exam Takeaway: FTAs sustain growth during global slowdowns by improving relative export competitiveness and attracting supply-chain FDI.",
+    "type": "news"
+  },
+  {
+    "question": "Mahindra & Mahindra (M&M) reported a strong Q1 performance with profit after tax (PAT) rising 34% to Rs 5,455 crore and revenue growing 28% to Rs 58,188 crore. From an Accounting and Financial Analysis perspective, if a firm's net profit grows at a faster rate than its revenue, what does this trend most directly indicate about the firm's operational structure?",
+    "options": [
+      "The firm is experiencing negative operating leverage, where fixed costs rise faster than variable costs.",
+      "The firm has successfully expanded its asset base, leading to an automatic drop in asset turnover.",
+      "The firm is benefiting from positive operating leverage or expanding operating profit margins due to cost efficiencies.",
+      "The firm's interest expenses and tax rates must have increased proportionally to revenue."
     ],
     "answerIndex": 2,
-    "explanation": "A drop in net profit despite rising revenue indicates operating deleverage or a sharp rise in operating expenses. If fixed costs (such as R&D, employee costs, or capacity expansion) rise faster than revenue, operating margins contract, causing net income to drop. Option A is incorrect because deferred tax assets do not directly reduce operating or net profit in this manner. Option B is incorrect because working capital changes affect cash flow, not net profit. Option D is incorrect because falling prices under LIFO would actually increase profits, not decrease them. Exam Takeaway: Rising revenues can mask severe margin erosion if fixed overheads or employee costs scale up disproportionately.",
+    "explanation": "When net profit growth outpaces revenue growth, it indicates that the company's operating expenses did not grow as fast as its top line. This is a classic manifestation of positive operating leverage, where fixed operating costs are spread over a larger revenue base, or it reflects an expansion in operating profit margins due to cost efficiencies and improved pricing power. Option A is incorrect because negative operating leverage would cause profits to grow slower than revenue (or shrink). Option B describes asset utilization, not the relationship between revenue and profit growth. Option D is incorrect because higher interest and tax rates would depress net profit growth relative to revenue growth. Concept: Operating leverage and margin expansion. Exam Takeaway: Profit growing faster than revenue indicates expanding margins or positive operating leverage.",
     "type": "news"
   },
   {
-    "question": "With India's electricity demand surging due to AI data centers, while coal reserves dwindle, grid operators are facing severe reliability tests. From an Operations and Risk Management perspective, which of the following strategies represents the most effective structural solution to manage grid stability against the high-load, continuous power demands of AI data centers?",
+    "question": "Brookfield is investing $600 million in solar, wind, and storage projects. From a Corporate Finance and Risk Management perspective, why is the inclusion of 'storage projects' (battery energy storage systems) critical for a large-scale renewable energy infrastructure portfolio?",
     "options": [
-      "Relying entirely on run-of-the-river hydroelectric power to match the baseline load.",
-      "Implementing behind-the-meter battery energy storage systems (BESS) combined with captive renewable generation and grid-interactive smart controls.",
-      "Mandating that data centers operate only during peak solar hours when solar output is at its maximum.",
-      "Converting all existing coal-fired thermal plants to run on open-cycle gas turbines without backup fuel."
+      "Storage projects eliminate the need for any transmission infrastructure, allowing off-grid operations.",
+      "Storage mitigates the intermittency risk of wind and solar, transforming non-dispatchable power into dispatchable capacity to capture higher peak-period tariffs.",
+      "Storage assets are exempt from regulatory oversight and grid-connection compliance standards.",
+      "Storage guarantees a fixed, risk-free rate of return that is completely uncorrelated with market electricity prices."
     ],
     "answerIndex": 1,
-    "explanation": "AI data centers require uninterrupted, high-uptime baseline power (24/7). Merely relying on intermittent solar or run-of-the-river hydro (which is seasonal) is insufficient. Behind-the-meter battery storage (BESS) coupled with captive renewable generation allows data centers to buffer intermittent green energy and discharge it continuously, reducing strain on the main grid. Option A is incorrect due to seasonal variations in water flow. Option C is operationally impossible for data centers that require continuous uptime. Option D is economically unviable and risky due to gas supply volatility. Exam Takeaway: High-density, continuous industrial loads like AI data centers require integrated storage and smart-grid solutions to mitigate grid-level supply shocks.",
+    "explanation": "Wind and solar power generation are inherently intermittent (non-dispatchable) because they depend on weather and time of day. This creates operational and financial risks, such as grid curtailment or selling power at low or negative prices during overproduction. Integrating battery energy storage systems (BESS) allows the operator to store excess electricity and sell it when demand and tariffs are high, turning intermittent power into dispatchable capacity. Option A is incorrect because utility-scale storage still requires grid transmission. Option C is incorrect as storage is heavily regulated. Option D is incorrect because storage returns depend on electricity price spreads and market dynamics. Concept: Intermittency risk mitigation in infrastructure. Exam Takeaway: Storage assets mitigate renewable energy intermittency, enabling developers to capture premium peak-period pricing.",
     "type": "news"
   },
   {
-    "question": "Traders are increasingly utilizing 'calendar spreads' on Nifty options as the index moves within a tight range. From a Risk Management and Trading Strategy perspective, what is the primary structural objective of executing a long calendar spread (buying a longer-dated option and selling a shorter-dated option with the same strike)?",
+    "question": "A company wants to evaluate its operational efficiency independent of its financing choices and non-cash expenses. Which of the following metrics is most appropriate for this analysis?",
     "options": [
-      "To profit from a rapid, directional breakout in the underlying index price.",
-      "To exploit the accelerating time decay (theta) of the near-month short option relative to the far-month long option while keeping directional risk low.",
-      "To eliminate all transaction costs and regulatory levies associated with derivatives trading.",
-      "To leverage a massive surge in short-term implied volatility relative to long-term volatility."
+      "Net Income",
+      "EBITDA",
+      "Gross Profit",
+      "Earnings Per Share (EPS)"
     ],
     "answerIndex": 1,
-    "explanation": "A long calendar spread is a range-bound strategy. It exploits the property that near-term options decay (lose value due to time decay, or theta) at a faster rate than longer-term options. By selling the near-month option and buying the far-month option, the trader collects rapid premium decay from the short position while the long position retains its value better, provided the index stays within a tight range. Option A is incorrect because a breakout would hurt the position. Option C is incorrect as transaction costs still apply. Option D is incorrect because a spike in short-term volatility would hurt the short option. Exam Takeaway: Calendar spreads are designed to harvest theta decay in low-volatility, range-bound markets.",
-    "type": "news"
-  },
-  {
-    "question": "An analyst wants to extract the specific transaction date from a long text string in cell A2 like 'TXN-9021-20231115-CONF'. If the date is always 8 characters long and starts at the 10th character, which Excel formula should be used?",
-    "options": [
-      "LEFT(A2, 8)",
-      "MID(A2, 10, 8)",
-      "RIGHT(A2, 8)",
-      "FIND(\"2023\", A2, 8)"
-    ],
-    "answerIndex": 1,
-    "explanation": "The MID function is designed to return a specific number of characters from a text string, starting at the position you specify. LEFT and RIGHT only extract from the absolute beginning or end of a string. MID(A2, 10, 8) correctly targets the 10th character and pulls out the 8-character date string. Exam Takeaway: Use MID for extracting fixed-length substrings from the middle of structured text fields.",
+    "explanation": "EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is highly useful because it strips out the effects of financing decisions (interest), government jurisdictions (taxes), and non-cash accounting treatments (depreciation and amortization). This allows analysts to compare the pure operating performance of different companies. Net Income and EPS are heavily affected by capital structure and tax rates, while Gross Profit does not account for selling, general, and administrative expenses. Exam Takeaway: EBITDA serves as a capital-structure-neutral proxy for operating cash generation before capital expenditures.",
     "type": "apti"
   },
   {
-    "question": "If a company's Operating Cash Flow (OCF) is $50,000, Capital Expenditures (CapEx) are $15,000, and Dividends Paid are $5,000, what is the Free Cash Flow to the Firm (FCFF) assuming no interest expenses or tax adjustments are needed for this simple baseline?",
+    "question": "In corporate valuation, if a company's Return on Invested Capital (ROIC) is consistently lower than its Weighted Average Cost of Capital (WACC), what does this imply about the company's growth?",
     "options": [
-      "$30,000",
-      "$35,000",
-      "$45,000",
-      "$50,000"
+      "Growth is creating economic value.",
+      "Growth is destroying economic value.",
+      "The company's Enterprise Value is automatically zero.",
+      "The company has no debt in its capital structure."
     ],
     "answerIndex": 1,
-    "explanation": "Free Cash Flow to the Firm (FCFF) in its simplest operational form is calculated as Operating Cash Flow minus Capital Expenditures ($50,000 - $15,000 = $35,000). Dividends are a distribution to equity holders and are not subtracted when calculating FCFF, which represents cash available to all capital providers. Exam Takeaway: FCFF measures cash flow before discretionary equity distributions like dividends.",
+    "explanation": "When a company's ROIC is less than its WACC, it means the return it generates on its capital is less than the cost of securing that capital. In this scenario, expanding the business or growing revenues actually destroys shareholder value, as each unit of new capital costs more than it earns. Growth only adds value when ROIC exceeds WACC. Exam Takeaway: Growth is a double-edged sword; it only creates value when the return on capital exceeds the cost of capital.",
     "type": "apti"
   },
   {
-    "question": "Under SEBI's Prohibition of Insider Trading (PIT) Regulations, who is designated as the primary compliance officer responsible for setting forth policies, monitoring trades, and implementing the code of conduct?",
+    "question": "An analyst needs to dynamically sum sales data in Excel from a moving range where the starting and ending cells change based on user inputs. Which combination of Excel functions is best suited for creating this dynamic range?",
     "options": [
-      "The Chief Financial Officer (CFO)",
-      "The Company Secretary (CS)",
-      "The Managing Director (MD)",
-      "The Statutory Auditor"
+      "SUM and VLOOKUP",
+      "SUM and OFFSET",
+      "SUM and CONCATENATE",
+      "SUM and PMT"
     ],
     "answerIndex": 1,
-    "explanation": "Under SEBI guidelines, the Company Secretary (CS) of a listed entity is traditionally appointed as the Compliance Officer for Insider Trading regulations. They are responsible for tracking trading windows, pre-clearing trades of designated persons, and reporting directly to the Board of Directors. Exam Takeaway: The Company Secretary acts as the vital regulatory bridge between SEBI compliance mandates and corporate operations.",
+    "explanation": "The OFFSET function returns a reference to a range that is a specified number of rows and columns from a starting cell. By nesting OFFSET inside a SUM function, the analyst can dynamically alter the height, width, or starting point of the range to be summed based on input cells. VLOOKUP only returns single values, CONCATENATE joins text strings, and PMT calculates loan payments. Exam Takeaway: Use SUM combined with OFFSET or INDEX to construct highly dynamic, flexible ranges in financial models.",
     "type": "apti"
   },
   {
-    "question": "In a standard corporate balance sheet, where would you find 'Accumulated Depreciation' and how does it affect the total asset value?",
+    "question": "Under SEBI's Listing Obligations and Disclosure Requirements (LODR) Regulations, listed entities must disclose material events or information to the stock exchanges. What is the standard general timeline mandated for such disclosures after the occurrence of the event?",
     "options": [
-      "Under Liabilities; it increases total liabilities.",
-      "Under Shareholders' Equity; it increases total equity.",
-      "As a contra-asset account; it reduces the gross value of Property, Plant, and Equipment (PP&E).",
-      "Under Operating Expenses; it directly reduces cash balance."
+      "Within 24 hours",
+      "Within 48 hours",
+      "Within 7 days",
+      "Within 30 days"
+    ],
+    "answerIndex": 0,
+    "explanation": "SEBI's LODR regulations mandate that listed entities must disclose to the stock exchanges all material events or information as soon as reasonably possible, and not later than 24 hours from the occurrence of the event (with even tighter timelines of 30 minutes for outcomes of board meetings). This ensures timely dissemination of price-sensitive information to public investors. Exam Takeaway: Prompt disclosure within 24 hours under SEBI LODR prevents information asymmetry in the public markets.",
+    "type": "apti"
+  },
+  {
+    "question": "If a corporate borrower wants to hedge against rising interest rates on a floating-rate loan, which financial derivative contract should they enter into?",
+    "options": [
+      "Buy an Interest Rate Floor",
+      "Sell an Interest Rate Swap",
+      "Pay-Fixed, Receive-Floating Interest Rate Swap",
+      "Pay-Floating, Receive-Fixed Interest Rate Swap"
     ],
     "answerIndex": 2,
-    "explanation": "Accumulated Depreciation is a contra-asset account presented on the asset side of the balance sheet. It accumulates the depreciation expense taken over time and is subtracted from gross PP&E to report net PP&E. It does not represent a liability or a direct cash outflow. Exam Takeaway: Contra-assets reduce the carrying value of associated assets on the balance sheet.",
+    "explanation": "To hedge against rising interest rates, the borrower wants to convert their floating-rate liability into a fixed-rate liability. By entering a pay-fixed, receive-floating interest rate swap, the floating payments they receive from the swap counterparty will offset the floating interest they owe to their lender, leaving them with a predictable, fixed interest obligation. Exam Takeaway: A pay-fixed swap converts floating-rate debt to fixed-rate debt, neutralizing interest rate hike risks.",
     "type": "apti"
   },
   {
-    "question": "When the Reserve Bank of India (RBI) conducts an 'Open Market Operation' (OMO) sale of government securities, what is the intended direct impact on banking system liquidity and short-term interest rates?",
+    "question": "Which of the following transactions will lead to an increase in a company's Cash Flow from Operating Activities (CFO) under the indirect method?",
     "options": [
-      "Liquidity increases; interest rates fall.",
-      "Liquidity decreases; interest rates rise.",
-      "Liquidity increases; interest rates rise.",
-      "Liquidity remains unchanged; interest rates fall."
-    ],
-    "answerIndex": 1,
-    "explanation": "When the RBI sells government securities in the open market, commercial banks buy these securities by paying cash to the RBI. This sucks out excess liquidity from the banking system. With less money available to lend, short-term interest rates tend to rise. Exam Takeaway: OMO sales are a contractionary monetary policy tool used to mop up excess liquidity.",
-    "type": "apti"
-  },
-  {
-    "question": "A company has a Current Ratio of 2.5 and a Quick Ratio of 1.0. If its current liabilities are $100,000 and it has no prepaid expenses, what is the total value of its inventory?",
-    "options": [
-      "$50,000",
-      "$100,000",
-      "$150,000",
-      "$250,000"
+      "An increase in Accounts Receivable",
+      "An increase in Inventory",
+      "An increase in Accounts Payable",
+      "A decrease in Accrued Liabilities"
     ],
     "answerIndex": 2,
-    "explanation": "Current Assets = Current Ratio * Current Liabilities = 2.5 * $100,000 = $250,000. Quick Assets (excluding inventory) = Quick Ratio * Current Liabilities = 1.0 * $100,000 = $100,000. Since Quick Assets exclude inventory, Inventory = Current Assets - Quick Assets = $250,000 - $100,000 = $150,000. Exam Takeaway: The gap between the Current Ratio and Quick Ratio is primarily driven by the size of inventory holdings.",
+    "explanation": "Under the indirect method, we start with Net Income and adjust for non-cash items and changes in working capital. An increase in Accounts Payable means the company is delaying payments to its suppliers, thereby conserving cash. Consequently, an increase in a current liability like Accounts Payable is added back to Net Income, increasing operating cash flow. Increases in operating assets (Receivables, Inventory) represent cash outflows. Exam Takeaway: Increasing current liabilities or decreasing current assets acts as a source of cash in the operating cash flow section.",
     "type": "apti"
   },
   {
-    "question": "In Excel, which keyboard shortcut allows a financial modeler to toggle between relative, absolute, and mixed cell referencing (adding or removing the dollar signs '$')?",
+    "question": "In the context of monetary policy transmission, if the Reserve Bank of India (RBI) increases the Cash Reserve Ratio (CRR), what is the immediate impact on commercial banks?",
     "options": [
-      "F2",
-      "F4",
-      "F9",
-      "Ctrl + Shift + L"
+      "Banks have more surplus funds to lend, lowering interest rates.",
+      "Banks must keep a higher proportion of their deposits with the RBI, reducing lendable liquidity.",
+      "Banks' cost of borrowing from the RBI decreases.",
+      "Banks are forced to buy more government bonds under statutory requirements."
     ],
     "answerIndex": 1,
-    "explanation": "Pressing the F4 key while editing a cell formula cycles through the different referencing states: absolute ($A$1), mixed row ($A1), mixed column (A$1), and relative (A1). F2 is used to edit a cell, F9 evaluates formula segments, and Ctrl+Shift+L toggles filters. Exam Takeaway: Mastering F4 is essential for rapid and accurate financial formula construction.",
+    "explanation": "The Cash Reserve Ratio (CRR) is the share of a bank's total deposits that it must maintain with the RBI in the form of liquid cash. Raising the CRR locks up more bank funds with the central bank without earning interest, directly reducing the volume of cash available for banks to lend to borrowers. This tightens systemic liquidity and puts upward pressure on interest rates. Exam Takeaway: Raising the CRR is a contractionary monetary tool used by the RBI to suck excess liquidity out of the banking system.",
     "type": "apti"
   },
   {
-    "question": "If a company's Cost of Equity is 12%, its after-tax Cost of Debt is 6%, and its Capital Structure is made up of 60% Equity and 40% Debt, what is its Weighted Average Cost of Capital (WACC)?",
+    "question": "An analyst is building a financial model and wants to ensure that a cell input is restricted to a pre-defined list of department names to prevent spelling errors. Which Excel feature should be used?",
     "options": [
-      "8.4%",
-      "9.0%",
-      "9.6%",
-      "10.2%"
-    ],
-    "answerIndex": 2,
-    "explanation": "WACC is calculated as (Weight of Equity * Cost of Equity) + (Weight of Debt * Cost of Debt). Here, WACC = (0.60 * 12%) + (0.40 * 6%) = 7.2% + 2.4% = 9.6%. Exam Takeaway: WACC represents the hurdle rate that a firm must clear to satisfy both debt and equity investors.",
-    "type": "apti"
-  },
-  {
-    "question": "Under SEBI's Mutual Fund regulations, what is the primary structural reason why a mutual fund's assets must be held by an independent 'Custodian' rather than the Asset Management Company (AMC) itself?",
-    "options": [
-      "To maximize the investment returns of the fund.",
-      "To ensure that the AMC cannot misuse or directly abscond with investor securities.",
-      "To reduce the tax liability of the mutual fund scheme.",
-      "To guarantee a minimum fixed return to retail investors."
+      "Conditional Formatting",
+      "Data Validation",
+      "What-If Analysis",
+      "Goal Seek"
     ],
     "answerIndex": 1,
-    "explanation": "SEBI mandates a three-tier structure for mutual funds: Sponsor, Trustee, and AMC, with an independent Custodian holding the physical and electronic gold or securities. This segregation of duties ensures that the fund managers at the AMC only make investment decisions but do not have direct physical custody of the assets, preventing fraud. Exam Takeaway: Separation of investment management and asset custody is a cornerstone of investor protection.",
+    "explanation": "Excel's Data Validation tool allows users to set specific rules on what data can be entered into a cell. By selecting the 'List' option in Data Validation, the analyst can restrict inputs to a specific range or a comma-separated list of approved names, creating a dropdown menu. Conditional Formatting changes cell appearance, while Goal Seek and What-If Analysis are used for scenario testing. Exam Takeaway: Data Validation is essential for maintaining model integrity by standardizing user inputs.",
     "type": "apti"
   },
   {
-    "question": "Which of the following items is classified under 'Cash Flows from Investing Activities' in a company's cash flow statement?",
+    "question": "Which of the following financial ratios is the best indicator of a firm's long-term solvency and ability to meet its interest obligations from its core operating profits?",
     "options": [
-      "Cash paid to buy back treasury shares",
-      "Cash received from customers for services rendered",
-      "Cash paid to purchase new manufacturing equipment",
-      "Cash received from issuing long-term corporate bonds"
+      "Current Ratio",
+      "Asset Turnover Ratio",
+      "Interest Coverage Ratio",
+      "Price-to-Earnings Ratio"
     ],
     "answerIndex": 2,
-    "explanation": "Investing activities relate to the acquisition and disposal of long-term assets and other investments not included in cash equivalents. Buying manufacturing equipment (CapEx) is an investing outflow. Share buybacks and bond issuances are financing activities; customer receipts are operating activities. Exam Takeaway: Capital expenditure is always captured under Investing Activities.",
+    "explanation": "The Interest Coverage Ratio (EBIT divided by Interest Expense) measures how many times a company can pay its interest expenses using its operating profits (EBIT). A higher ratio indicates robust solvency and lower default risk, whereas a low ratio suggests the company is burdened by debt. The Current Ratio measures short-term liquidity, Asset Turnover measures efficiency, and P/E is a valuation metric. Exam Takeaway: The Interest Coverage Ratio is a vital solvency metric that lenders use to assess credit risk.",
     "type": "apti"
   },
   {
-    "question": "If you need to find the internal rate of return for a series of non-periodic, irregular cash flows occurring at specific dates, which Excel formula is the most appropriate?",
+    "question": "When a company repurchases its own shares from the open market (share buyback), how does this transaction impact its Balance Sheet?",
     "options": [
-      "IRR",
-      "MIRR",
-      "XIRR",
+      "Cash increases and Shareholder's Equity increases.",
+      "Cash decreases and Shareholder's Equity decreases.",
+      "Cash decreases and Total Liabilities increase.",
+      "Cash increases and Treasury Stock decreases."
+    ],
+    "answerIndex": 1,
+    "explanation": "A share buyback involves using corporate cash to purchase outstanding shares. Cash (an asset) decreases on the asset side of the balance sheet. To keep the balance sheet in balance, Shareholder's Equity also decreases by the same amount (specifically through an increase in treasury stock or a reduction in common stock and retained earnings). Liabilities are unaffected. Exam Takeaway: Share buybacks reduce both total assets (cash) and total equity, which can artificially boost return metrics like ROE.",
+    "type": "apti"
+  },
+  {
+    "question": "Under SEBI guidelines, what is the primary objective of the 'Alternative Investment Fund' (AIF) classification in India?",
+    "options": [
+      "To regulate standard retail mutual funds.",
+      "To govern privately pooled investment vehicles for sophisticated or high-net-worth investors.",
+      "To manage foreign exchange reserves of the country.",
+      "To oversee the clearing and settlement of equity trades on stock exchanges."
+    ],
+    "answerIndex": 1,
+    "explanation": "SEBI established the AIF regulations to govern privately pooled investment funds (such as venture capital, private equity, hedge funds, and debt funds) that raise capital from institutional or high-net-worth individuals (HNIs). These are distinct from mutual funds, which cater to retail investors and have different regulatory limits. Exam Takeaway: SEBI AIF regulations provide a structured framework for non-traditional, private investment pools targeting sophisticated investors.",
+    "type": "apti"
+  },
+  {
+    "question": "If a company has a high operating leverage, what does this indicate about its cost structure?",
+    "options": [
+      "The company has a high proportion of variable costs relative to fixed costs.",
+      "The company has a high proportion of fixed costs relative to variable costs.",
+      "The company is funded primarily through debt capital.",
+      "The company's cost of goods sold is entirely zero."
+    ],
+    "answerIndex": 1,
+    "explanation": "Operating leverage refers to the sensitivity of operating income (EBIT) to changes in sales volume. A firm with high operating leverage has a cost structure dominated by fixed costs rather than variable costs. Once the fixed costs are covered, a large percentage of any additional revenue flows directly to operating profit, resulting in high profit volatility when sales fluctuate. Financial leverage, on the other hand, relates to debt. Exam Takeaway: High operating leverage amplifies both profit gains during upturns and losses during downturns due to heavy fixed costs.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following correctly describes the concept of 'Net Working Capital'?",
+    "options": [
+      "Total Assets minus Total Liabilities",
+      "Current Assets minus Current Liabilities",
+      "Cash plus Short-term Investments",
+      "Operating Income minus Capital Expenditures"
+    ],
+    "answerIndex": 1,
+    "explanation": "Net Working Capital (NWC) is calculated as Current Assets minus Current Liabilities. It represents the operational liquidity available to a business to support its day-to-day operations. A positive NWC indicates the company can easily cover its short-term obligations, while negative NWC might signal potential short-term liquidity distress. Exam Takeaway: Net Working Capital measures a firm's operational efficiency and short-term financial health.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, if you want to find the relative position of an item in a range that matches a specified value, which function should you use?",
+    "options": [
+      "VLOOKUP",
+      "INDEX",
+      "MATCH",
+      "HLOOKUP"
+    ],
+    "answerIndex": 2,
+    "explanation": "The MATCH function searches for a specified item in a range of cells and returns the relative position of that item (e.g., 3rd row or 5th column). While VLOOKUP and HLOOKUP retrieve values from a table, and INDEX retrieves a value at a specific position, MATCH is specifically designed to locate and return the index position itself. Exam Takeaway: Combining INDEX and MATCH provides a more powerful and flexible lookup mechanism than VLOOKUP.",
+    "type": "apti"
+  },
+  {
+    "question": "What is the primary difference between a company's Book Value and its Market Value?",
+    "options": [
+      "Book Value is forward-looking, while Market Value is historical.",
+      "Book Value is based on historical accounting records, while Market Value reflects current investor expectations.",
+      "Book Value is always higher than Market Value for every company.",
+      "Book Value includes debt, while Market Value excludes all liabilities."
+    ],
+    "answerIndex": 1,
+    "explanation": "Book Value is an accounting metric representing the net asset value of a company based on historical cost accounting (Total Assets minus Total Liabilities). Market Value (Market Cap) is the total value of the company's outstanding shares as priced by the stock market, reflecting current investor expectations, intangible assets, brand equity, and future growth potential. Exam Takeaway: Market Value captures future expectations and intangibles, whereas Book Value is grounded in historical accounting.",
+    "type": "apti"
+  },
+  {
+    "question": "Under the Reserve Bank of India (RBI) guidelines, what is the 'Liquidity Adjustment Facility' (LAF) primarily used for?",
+    "options": [
+      "To allow banks to borrow and lend money to manage daily liquidity mismatches.",
+      "To regulate the long-term capital adequacy of commercial banks.",
+      "To manage the direct transfer of subsidies to rural bank accounts.",
+      "To facilitate foreign exchange trading between Indian and global banks."
+    ],
+    "answerIndex": 0,
+    "explanation": "The Liquidity Adjustment Facility (LAF) is a monetary policy tool used by the RBI that allows commercial banks to borrow money through repo agreements or park excess funds with the RBI through reverse repo agreements. This helps banks manage day-to-day liquidity mismatches and helps the RBI control short-term interest rates in the economy. Exam Takeaway: The LAF is the primary mechanism through which the RBI manages daily systemic liquidity and implements its policy rate.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following best describes the 'Terminal Value' in a Discounted Cash Flow (DCF) valuation model?",
+    "options": [
+      "The present value of cash flows during the explicit forecast period.",
+      "The estimated value of a company's cash flows beyond the explicit forecast period, assuming stable growth.",
+      "The final cash flow received when a company is liquidated today.",
+      "The total amount of debt a company must pay off at maturity."
+    ],
+    "answerIndex": 1,
+    "explanation": "Terminal Value represents the present value of all future cash flows of a business beyond the explicit forecast period (which is typically 5 to 10 years). It assumes the company will continue to grow at a stable, sustainable rate indefinitely (perpetual growth method) or will be sold at a multiple of earnings (exit multiple method). It often accounts for a major portion of the total DCF valuation. Exam Takeaway: Terminal Value captures the infinite life of a business beyond the near-term forecast horizon.",
+    "type": "apti"
+  },
+  {
+    "question": "If an analyst wants to quickly find the interest payment portion of a specific loan payment period in Excel, which function should they use?",
+    "options": [
+      "PMT",
+      "PPMT",
+      "IPMT",
       "RATE"
     ],
     "answerIndex": 2,
-    "explanation": "The XIRR function in Excel is designed specifically to calculate the internal rate of return for a schedule of cash flows that are not necessarily periodic. Standard IRR assumes equal time intervals between all cash flows. Exam Takeaway: Always use XIRR for real-world financial transactions where cash flows occur on exact, irregular dates.",
+    "explanation": "The IPMT function in Excel calculates the interest payment for a given period of an investment or loan based on periodic, constant payments and a constant interest rate. PMT calculates the total payment (principal + interest), PPMT calculates the principal payment portion, and RATE calculates the interest rate per period. Exam Takeaway: Use IPMT to isolate the interest component of a loan amortization schedule for any specific period.",
     "type": "apti"
   },
   {
-    "question": "In the context of the Indian banking system, what is the primary purpose of the RBI's 'Marginal Standing Facility' (MSF)?",
+    "question": "Under SEBI's Insider Trading regulations, which of the following actions is strictly prohibited for a 'connected person' who possesses Unpublished Price Sensitive Information (UPSI)?",
     "options": [
-      "To provide long-term loans to agricultural startups.",
-      "To allow commercial banks to borrow overnight funds from the RBI in an emergency by dipping into their SLR quota.",
-      "To regulate the foreign exchange rate of the Indian Rupee directly.",
-      "To offer high-interest savings accounts to retail depositors."
+      "Publishing research reports based on publicly available annual reports.",
+      "Trading in the securities of the company to which the UPSI relates.",
+      "Attending the company's annual general meeting.",
+      "Voting on routine shareholder resolutions."
     ],
     "answerIndex": 1,
-    "explanation": "The Marginal Standing Facility (MSF) is a window for banks to borrow overnight from the RBI against government securities at a premium rate. Crucially, banks can use their Statutory Liquidity Ratio (SLR) securities up to a certain limit to meet emergency liquidity shortages. Exam Takeaway: MSF acts as an emergency safety valve for banks facing sudden overnight liquidity shocks.",
+    "explanation": "SEBI's Prohibition of Insider Trading (PIT) regulations strictly forbid any person (especially connected persons like employees, directors, or advisors) who has access to Unpublished Price Sensitive Information (UPSI) from trading in the securities of that company. Doing so violates fair market practices and investor protection principles. Exam Takeaway: Possessing UPSI legally debars an individual from trading in those securities until the information is made public.",
     "type": "apti"
   },
   {
-    "question": "If a stock has a Beta of 1.5, the Risk-Free Rate is 5%, and the Expected Market Return is 11%, what is the expected return of the stock using the Capital Asset Pricing Model (CAPM)?",
+    "question": "What is the economic implication when a country's currency undergoes a significant depreciation in the foreign exchange market?",
     "options": [
-      "11.0%",
-      "14.0%",
-      "16.5%",
-      "21.5%"
+      "Its exports become cheaper and more competitive abroad, while imports become more expensive.",
+      "Its exports become more expensive, while imports become cheaper.",
+      "The country's foreign debt denominated in domestic currency automatically decreases.",
+      "The central bank is forced to lower interest rates to stop capital flight."
     ],
-    "answerIndex": 1,
-    "explanation": "CAPM formula: Expected Return = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). Applying the numbers: 5% + 1.5 * (11% - 5%) = 5% + 1.5 * 6% = 5% + 9% = 14%. Exam Takeaway: CAPM quantifies the systematic risk premium required by investors for holding volatile assets.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following financial metrics is considered 'capital structure neutral', meaning it allows you to compare the operating performance of companies with different levels of debt?",
-    "options": [
-      "Net Income",
-      "Earnings Per Share (EPS)",
-      "EBITDA",
-      "Return on Equity (ROE)"
-    ],
-    "answerIndex": 2,
-    "explanation": "EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is capital structure neutral because it excludes interest expense (which depends on debt levels) and taxes. Net Income, EPS, and ROE are all heavily influenced by the amount of leverage a company uses. Exam Takeaway: EBITDA is widely used in valuation multiples to compare pure operating profitability across peer groups.",
-    "type": "apti"
-  },
-  {
-    "question": "If a company has an Asset Turnover ratio of 1.5 and Net Sales of $300,000, what is the average value of its Total Assets?",
-    "options": [
-      "$150,000",
-      "$200,000",
-      "$450,000",
-      "$600,000"
-    ],
-    "answerIndex": 1,
-    "explanation": "Asset Turnover is calculated as Net Sales divided by Average Total Assets. Rearranging the formula: Average Total Assets = Net Sales / Asset Turnover = $300,000 / 1.5 = $200,000. Exam Takeaway: Asset Turnover measures how efficiently a company utilizes its assets to generate top-line revenue.",
-    "type": "apti"
-  },
-  {
-    "question": "Under SEBI's SAST (Substantial Acquisition of Shares and Takeovers) Regulations, what is the trigger threshold of shareholding/voting rights that mandates an acquirer to make a public 'Open Offer' to the minority shareholders of a listed Indian company?",
-    "options": [
-      "10%",
-      "25%",
-      "51%",
-      "75%"
-    ],
-    "answerIndex": 1,
-    "explanation": "According to SEBI's Takeover Code, an acquirer who intends to acquire shares or voting rights that take their total holding to 25% or more of the target company must make a public announcement for an open offer. This protects minority shareholders by offering them an exit route. Exam Takeaway: The 25% threshold is the regulatory trigger for mandatory open offers in Indian capital markets.",
-    "type": "apti"
-  },
-  {
-    "question": "In a corporate valuation context, what is the relationship between the Enterprise Value (EV) and Equity Value of a company that has $10 million in cash and $40 million in total debt?",
-    "options": [
-      "Enterprise Value = Equity Value + $50 million",
-      "Enterprise Value = Equity Value - $30 million",
-      "Enterprise Value = Equity Value + $30 million",
-      "Enterprise Value = Equity Value + $40 million"
-    ],
-    "answerIndex": 2,
-    "explanation": "Enterprise Value (EV) is calculated as Equity Value + Debt - Cash. Plugging in the values: EV = Equity Value + $40 million - $10 million = Equity Value + $30 million. Net debt is $30 million, which increases EV relative to Equity Value. Exam Takeaway: Enterprise Value represents the theoretical cost to acquire the entire business, taking on its net debt.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following Excel errors occurs when a formula refers to a cell that has been deleted (usually via deleting rows or columns that were part of the calculation)?",
-    "options": [
-      "#VALUE!",
-      "#REF!",
-      "#NAME?",
-      "#N/A"
-    ],
-    "answerIndex": 1,
-    "explanation": "The #REF! error stands for 'Reference' and is displayed when Excel encounters an invalid cell reference, which most commonly happens when cells, rows, or columns referenced in a formula are deleted. Exam Takeaway: Protect model integrity by avoiding hard deletions; clear contents instead to prevent cascading #REF! errors.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following transactions will immediately increase a company's Net Working Capital (defined as Current Assets minus Current Liabilities)?",
-    "options": [
-      "Collecting cash from an outstanding accounts receivable",
-      "Purchasing inventory using cash",
-      "Issuing long-term debt to obtain cash",
-      "Paying off accounts payable using cash"
-    ],
-    "answerIndex": 2,
-    "explanation": "Issuing long-term debt increases cash (a current asset) while increasing long-term liabilities (which does not affect current liabilities). Therefore, Net Working Capital increases. Collecting receivables or buying inventory with cash just swaps one current asset for another, keeping Net Working Capital unchanged. Paying payables reduces both cash and payables by the same amount, leaving the net difference unchanged. Exam Takeaway: Long-term financing inflows directly boost short-term liquidity and working capital.",
-    "type": "apti"
-  },
-  {
-    "question": "Under the RBI's Liberalised Remittance Scheme (LRS), what is the maximum amount that resident individuals are allowed to freely remit outward per financial year for permitted current or capital account transactions?",
-    "options": [
-      "USD 50,000",
-      "USD 100,000",
-      "USD 250,000",
-      "USD 500,000"
-    ],
-    "answerIndex": 2,
-    "explanation": "Under the LRS rules set by the RBI, all resident individuals, including minors, are allowed to freely remit up to USD 250,000 per financial year for any permissible current or capital account transaction (such as study abroad, travel, or foreign investments). Exam Takeaway: The USD 250,000 annual limit is the cornerstone of capital account liberalization for retail Indian residents.",
+    "answerIndex": 0,
+    "explanation": "When a domestic currency depreciates (loses value against foreign currencies), foreign buyers need less of their own currency to purchase the country's goods, making exports cheaper and more competitive. Conversely, it takes more domestic currency to buy foreign goods, making imports more expensive, which can lead to imported inflation. Exam Takeaway: Currency depreciation boosts export competitiveness but increases the cost of imports and foreign-denominated debt.",
     "type": "apti"
   }
 ]

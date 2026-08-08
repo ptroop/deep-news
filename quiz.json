@@ -1,338 +1,362 @@
 [
   {
-    "question": "The Indian government is mulling a 0.25% to 0.35% fee on high-value UPI payments. From a corporate finance and treasury perspective, if this fee is implemented, how would it most likely alter the cash management and transaction routing strategies of large enterprise-to-enterprise (B2B) merchants?",
+    "question": "The US economy recently shed 23,000 jobs, yet its official unemployment rate dropped to 4.1% because the labor force shrank. From a macroeconomic perspective, how should an investment analyst interpret this specific combination of data points?",
     "options": [
-      "They would aggressively shift high-value collections to RTGS or NEFT, which feature flat, cap-based transaction fees.",
-      "They would replace electronic payments with physical cash pools to entirely bypass commercial banking channels.",
-      "They would consolidate all high-value invoices into a single micro-payment structure to fall below the fee threshold.",
-      "They would rely exclusively on credit cards, which offer lower merchant discount rates for high-value transactions."
+      "It represents a healthy, self-correcting labor market where productivity gains are offsetting the loss of active workers.",
+      "It reflects a structural 'discouraged-worker' effect where the optical drop in unemployment masks underlying economic weakness.",
+      "It indicates an economy operating above its potential output, signaling immediate demand-pull inflation.",
+      "It suggests that wage-push inflation will automatically subside as the pool of active job seekers contracts."
+    ],
+    "answerIndex": 1,
+    "explanation": "A decline in the unemployment rate caused by a shrinking workforce (rather than net job creation) is typically a sign of labor market weakness, not strength. When individuals stop looking for work, they are no longer counted as unemployed, which artificially lowers the unemployment rate. This is known as the discouraged-worker effect. Options A and C are incorrect because shedding jobs and a shrinking workforce do not indicate health or operating above potential. Option D is incorrect because a contracting labor pool can actually exacerbate labor shortages and maintain upward pressure on wages. Concept tested: Labor market metrics and labor force participation. Exam Takeaway: A falling unemployment rate accompanied by job losses indicates a shrinking labor force, masking economic deceleration.",
+    "type": "news"
+  },
+  {
+    "question": "The Government of India is considering maintaining a Rs 7,500 crore outlay for IT hardware manufacturing under the Production Linked Incentive (PLI) scheme, with foreign firms required to invest Rs 500 crore over four years and domestic firms Rs 20 crore over five years. What is the primary strategic objective of setting such asymmetric investment thresholds?",
+    "options": [
+      "To restrict foreign direct investment in sensitive IT infrastructure to protect national security.",
+      "To offset the capital-access disadvantages of local players while leveraging the global supply chain scale of multinational corporations.",
+      "To force foreign corporations to form joint ventures with domestic firms to meet the investment target.",
+      "To reduce the fiscal burden of the subsidy payout by disqualifying domestic firms from the larger incentive pool."
+    ],
+    "answerIndex": 1,
+    "explanation": "Setting a lower investment threshold for domestic firms (Rs 20 crore) compared to foreign firms (Rs 500 crore) is a strategic policy tool designed to foster domestic entrepreneurship. Local firms often face a higher cost of capital and smaller balance sheets, while multinational corporations have global scale and deep capital reserves. This asymmetry allows local players to participate and build capabilities without being shut out by prohibitive capital requirements. Option A is incorrect because the PLI scheme aims to attract, not restrict, foreign investment. Option C is incorrect as joint ventures are not mandated by these thresholds. Option D is incorrect because the thresholds aim to include domestic firms, not disqualify them. Concept tested: Industrial policy and entry barriers. Exam Takeaway: Asymmetric regulatory thresholds in industrial policies balance domestic capacity building with foreign capital attraction.",
+    "type": "news"
+  },
+  {
+    "question": "The SEBI is unlikely to review the newly introduced Closing Auction System despite market volatility concerns. From a market microstructure perspective, what is the primary theoretical advantage of using a multi-lateral call auction rather than continuous trading to determine closing prices?",
+    "options": [
+      "It guarantees continuous liquidity and immediate execution for all retail market orders.",
+      "It maximizes price discovery and reduces susceptibility to price manipulation by aggregating buy and sell interest at a single point in time.",
+      "It eliminates bid-ask spreads entirely for the final thirty minutes of the trading day.",
+      "It allows institutional traders to execute large blocks of shares anonymously without any price impact."
+    ],
+    "answerIndex": 1,
+    "explanation": "A closing auction aggregates all buy and sell orders during a specific window to calculate a single equilibrium price that maximizes the tradable volume. This process improves price discovery and makes it significantly harder for individual traders to manipulate the closing price (e.g., 'marking the close' via small trades in the final seconds of continuous trading). Option A is incorrect because auctions do not offer continuous execution. Option C is incorrect because bid-ask spreads are not eliminated. Option D is incorrect because while auctions reduce price impact compared to continuous books, they do not guarantee zero price impact for large block trades. Concept tested: Market microstructure and price discovery. Exam Takeaway: Closing call auctions mitigate price manipulation and enhance price discovery by pooling liquidity to find a single market-clearing price.",
+    "type": "news"
+  },
+  {
+    "question": "The Reserve Bank of India (RBI) Monetary Policy Committee (MPC) is expected to keep the policy repo rate on hold and retain its neutral stance. If inflation remains sticky but economic growth shows signs of slowing, what risk does the RBI face if it decides to cut rates prematurely?",
+    "options": [
+      "A rapid appreciation of the Indian Rupee against major global currencies.",
+      "De-anchoring of inflation expectations and potential capital flight due to narrowing interest rate differentials.",
+      "An immediate contraction in the aggregate monetary base (M0).",
+      "An increase in the real cost of borrowing for domestic commercial banks."
+    ],
+    "answerIndex": 1,
+    "explanation": "Cutting rates prematurely while inflation is sticky can de-anchor inflation expectations, causing inflation to rise further. Additionally, a rate cut narrows the interest rate differential between India and developed markets (like the US), which can trigger capital flight by foreign portfolio investors (FPIs), putting depreciary pressure on the Rupee. Option A is incorrect because capital outflows would depreciate, not appreciate, the currency. Option C is incorrect because rate cuts typically expand liquidity and the money supply. Option D is incorrect because a policy rate cut lowers nominal borrowing costs. Concept tested: Monetary policy transmission and macroeconomic trade-offs. Exam Takeaway: Premature monetary easing during sticky inflation risks de-anchoring inflation expectations and triggering capital outflows.",
+    "type": "news"
+  },
+  {
+    "question": "Dabur obtained a stay from the Delhi High Court against an FSSAI order banning the sale of products labeled as '100%'. From a brand equity and marketing strategy perspective, why do consumer goods firms aggressively defend absolute claims like '100% natural' in court?",
+    "options": [
+      "Absolute claims completely eliminate the need for ongoing product quality control and testing.",
+      "Such claims act as powerful positioning heuristics that justify premium pricing and lower customer acquisition costs in crowded markets.",
+      "The term '100% natural' legally immunizes a firm from any future consumer liability or product recalls.",
+      "Defending these claims is a statutory requirement to maintain trademark protection over the brand name."
+    ],
+    "answerIndex": 1,
+    "explanation": "Absolute claims like '100% natural' serve as powerful cognitive shortcuts (heuristics) for consumers, signaling purity and quality in a crowded market. This strong positioning allows firms to command premium pricing and build brand equity. Losing the right to use these claims forces costly rebranding and weakens competitive differentiation. Option A is incorrect because regulatory compliance and quality control remain mandatory. Option C is incorrect because marketing claims do not provide legal immunity against product defects. Option D is incorrect because trademark protection is independent of specific product advertising claims. Concept tested: Brand positioning and regulatory risk. Exam Takeaway: Absolute product claims are critical strategic assets that drive premium brand positioning and consumer trust.",
+    "type": "news"
+  },
+  {
+    "question": "A leading automotive components manufacturer, Samvardhana Motherson, reported a 70.1% YoY jump in profit after tax for Q1 FY27, largely driven by inorganic growth through recent acquisitions such as Shenzhen Autocruis and Yutaka Giken. From an M&A and corporate strategy perspective, what is the primary integration risk associated with rapidly scaling consolidated revenues through such geographically diverse acquisitions?",
+    "options": [
+      "Immediate dilution of the parent company's standalone operating margin due to mandatory equity restructuring.",
+      "Post-merger integration friction arising from cultural, regulatory, and operational misalignment across different jurisdictions.",
+      "An automatic reduction in the consolidated order book as legacy clients cancel contracts due to ownership changes.",
+      "The inability to use debt financing for future organic expansion due to global cross-border antitrust restrictions."
+    ],
+    "answerIndex": 1,
+    "explanation": "When a firm expands rapidly through cross-border acquisitions (e.g., in China, Germany, and Japan), the primary operational and strategic risk is post-merger integration (PMI) friction. Misalignment in corporate culture, local labor laws, supply chain logistics, and regulatory compliance across diverse jurisdictions can delay synergies, inflate integration costs, and disrupt existing operations. While financial consolidation increases top-line revenue, failing to align these systems can erode long-term profitability. Other options are incorrect because equity restructuring is not mandatory, clients do not automatically cancel contracts, and antitrust laws do not restrict future debt usage. Concept tested: Cross-border M&A Integration Risk. Exam Takeaway: Geographically diverse acquisitions require robust post-merger integration to realize synergies and mitigate operational friction.",
+    "type": "news"
+  },
+  {
+    "question": "The Reserve Bank of India (RBI) MPC has signaled a long pause on policy rates, keeping the repo rate at 6.50% (as economists predicted a pause at 6.50% or elevated levels). From a macroeconomic and corporate treasury perspective, how does a prolonged 'higher-for-longer' interest rate environment typically impact a highly leveraged firm's interest coverage ratio and capital budgeting decisions?",
+    "options": [
+      "It improves the interest coverage ratio and encourages aggressive debt-funded capital expenditures.",
+      "It has no impact on interest coverage but forces the firm to shorten its accounts payable cycle.",
+      "It depresses the interest coverage ratio as refinancing costs rise, leading to a higher hurdle rate for new projects.",
+      "It lowers the firm's weighted average cost of capital (WACC), making previously unviable projects highly profitable."
+    ],
+    "answerIndex": 2,
+    "explanation": "A prolonged period of high interest rates increases interest expenses as existing floating-rate debt reprices and maturing fixed-rate debt is refinanced at higher yields. This depresses the Interest Coverage Ratio (EBIT / Interest Expense), signaling higher default risk. Concurrently, a higher cost of debt increases the firm's Weighted Average Cost of Capital (WACC), which raises the hurdle rate (minimum acceptable return) for capital budgeting. Consequently, firms must become more selective, postponing marginal projects. Other options are incorrect because high rates increase (not decrease) WACC and damage (not improve) interest coverage. Concept tested: Monetary Policy Transmission & Capital Budgeting. Exam Takeaway: High policy rates elevate refinancing costs, depressing interest coverage and raising hurdle rates for corporate investments.",
+    "type": "news"
+  },
+  {
+    "question": "An online platform in Japan experienced severe losses after a buyer placed orders worth &yen;258 crore using cash on delivery (COD) and systematically cancelled them or refused delivery. From an operations and supply chain management perspective, which of the following mitigation strategies is most effective at minimizing this specific type of reverse logistics and cash-flow risk?",
+    "options": [
+      "Eliminating cash on delivery entirely and transitioning exclusively to barter-based transactions.",
+      "Implementing dynamic customer risk profiling that restricts cash on delivery options for high-frequency cancellers.",
+      "Increasing the sales prices of all products uniformly to absorb the high cost of reverse logistics.",
+      "Outsourcing the entire warehousing operations to third-party logistics (3PL) providers to transfer the risk of returns."
+    ],
+    "answerIndex": 1,
+    "explanation": "The incident highlights the vulnerability of the Cash on Delivery (COD) model to malicious order cancellations, which generate massive reverse logistics costs (shipping, handling, and blocked inventory). Implementing dynamic customer risk profiling\u2014using business analytics to track historical order-to-delivery ratios\u2014allows the seller to restrict COD privileges for high-risk accounts, forcing them to use prepaid digital methods. Eliminating COD entirely (Option A) could destroy sales in key demographics, uniform price hikes (Option C) penalize honest customers, and outsourcing logistics (Option D) does not eliminate the underlying return inventory costs. Concept tested: Supply Chain Risk Management. Exam Takeaway: Predictive analytics and customer profiling are critical to mitigating reverse logistics losses from COD abuse.",
+    "type": "news"
+  },
+  {
+    "question": "Nearly 1,500 commercial vessels are currently trapped in the Gulf of Hormuz due to regional geopolitical conflicts. Over time, these idle ships accumulate marine biofouling on their hulls, which significantly increases hydrodynamic drag. From a shipping operations and corporate finance perspective, how does this bioinvasion risk directly impact the future operating margins of these shipping fleets once they resume operations?",
+    "options": [
+      "It decreases fuel consumption because the biological mass acts as a natural streamlining lubricant.",
+      "It significantly increases fuel consumption and emissions to maintain cruising speeds, thereby elevating variable operating costs.",
+      "It lowers insurance premiums because biofouling physically reinforces the structural integrity of the hull.",
+      "It eliminates the need for dry-docking maintenance, thereby reducing capital expenditure over the vessel's lifecycle."
+    ],
+    "answerIndex": 1,
+    "explanation": "Biofouling\u2014the accumulation of microorganisms, plants, algae, or small animals on wet surfaces\u2014increases the surface roughness of a ship's hull. This increases hydrodynamic drag, requiring significantly more engine power and fuel consumption (often up to 40% more) to maintain standard cruising speeds. Fuel is the largest operating expense for shipping lines; therefore, biofouling directly compresses operating margins. Options A, C, and D are scientifically and financially incorrect, as biofouling damages hulls, increases fuel burn, and necessitates expensive dry-docking and hull cleaning. Concept tested: Operations Management & Operational Cost Drivers. Exam Takeaway: Environmental and physical degradation of operational assets directly translates to inflated variable costs and compressed operating margins.",
+    "type": "news"
+  },
+  {
+    "question": "The Securities and Exchange Board of India (SEBI) has streamlined the inspection framework for market intermediaries and reduced its FY27 physical inspection targets. From a risk management and regulatory economics perspective, what is the most likely strategic rationale behind this shift?",
+    "options": [
+      "A complete deregulation of market intermediaries to foster unchecked financial innovation.",
+      "A transition toward a risk-based supervisory model that leverages technology and off-site monitoring to optimize regulatory resources.",
+      "An admission that market intermediaries no longer pose systemic risk to the capital markets.",
+      "A strategy to force intermediaries to self-regulate without any oversight or reporting requirements."
+    ],
+    "answerIndex": 2,
+    "explanation": "Regulators globally are shifting from compliance-heavy, check-the-box physical inspections to risk-based supervision (RBS). By streamlining the framework and utilizing technology-driven off-site monitoring, SEBI can focus its intensive on-site resources on high-risk intermediaries while reducing the compliance burden on low-risk players. This optimizes regulatory efficiency without compromising systemic stability. Other options are incorrect because SEBI is not deregulating the market, eliminating oversight, or declaring intermediaries risk-free. Concept tested: Regulatory Risk Management & Supervisory Frameworks. Exam Takeaway: Risk-based supervisory frameworks optimize regulatory allocation by substituting routine physical audits with continuous off-site data monitoring.",
+    "type": "news"
+  },
+  {
+    "question": "Which of the following financial metrics is most commonly used by credit rating agencies to evaluate a firm's ability to service its interest-bearing debt obligations using its operating profits?",
+    "options": [
+      "Interest Coverage Ratio",
+      "Debt-to-Equity Ratio",
+      "Current Ratio",
+      "Return on Equity"
     ],
     "answerIndex": 0,
-    "explanation": "High-value B2B transactions are highly sensitive to percentage-based fees. A 0.25% to 0.35% ad valorem fee on a large payment translates to a substantial absolute cost compared to the flat-fee structures of RTGS (Real Time Gross Settlement) or NEFT (National Electronic Funds Transfer) in India. Therefore, corporate treasurers would route high-value payments through flat-rate channels to minimize transaction costs. Physical cash is operationally unviable and risky for large corporate transactions. Micro-payment splitting incurs high administrative overhead and is often flagged by compliance systems. Credit cards carry much higher merchant fees (typically 1% to 3%). The tested concept is transaction-cost optimization in corporate treasury.",
-    "type": "news"
+    "explanation": "The Interest Coverage Ratio (EBIT divided by Interest Expense) measures how easily a company can pay interest on its outstanding debt with its operating earnings. A higher ratio indicates stronger financial health and lower default risk, which is a primary metric for credit rating agencies like Moody's. Debt-to-Equity measures leverage rather than coverage, the Current Ratio measures short-term liquidity, and Return on Equity measures profitability relative to shareholder funds. Exam Takeaway: The Interest Coverage Ratio is the premier metric for assessing a firm's immediate debt-servicing capacity.",
+    "type": "apti"
   },
   {
-    "question": "With a massive $5.5-trillion energy capex projected for Asia, companies like BHEL and Adani are positioned as key gainers. From a project finance and risk management perspective, what is the primary risk associated with a long-term, capital-intensive energy transition project funded largely via debt?",
+    "question": "In Excel, if you want to retrieve a value from a table by matching on a specific key that is not in the leftmost column, which combination of functions is traditionally preferred over VLOOKUP for maximum flexibility?",
     "options": [
-      "Liquidation value volatility of fully depreciated legacy fossil-fuel assets.",
-      "Asset-liability mismatch and interest rate risk due to long gestation periods before cash flow generation.",
-      "The sudden elimination of working capital requirements once operational phase begins.",
-      "An immediate dilution of equity value upon securing long-term project debt."
+      "SUMIF and COUNTIF",
+      "INDEX and MATCH",
+      "IFERROR and VLOOKUP",
+      "CONCATENATE and FIND"
     ],
     "answerIndex": 1,
-    "explanation": "Energy infrastructure and capex projects have long gestation periods, requiring significant upfront capital layout before generating positive cash flows. Funding these through debt exposes the developer to asset-liability mismatches (short-to-medium term debt vs. long-term assets) and interest rate risk during the construction phase. Legacy asset liquidation is a secondary concern, not the primary risk of the new capex. Working capital requirements do not disappear; they transition from construction to operational cycles. Securing debt does not dilute equity directly, unlike issuing new shares. This tests capital budgeting and project finance risk management. Exam Takeaway: Long-gestation infrastructure projects must align debt maturity profiles with expected operational cash flows to mitigate solvency and refinancing risks.",
-    "type": "news"
+    "explanation": "VLOOKUP requires the lookup value to be in the first column of the table array. The combination of INDEX and MATCH bypasses this limitation, allowing you to look up values in any column and return data from any other column, regardless of their relative positions. It is also computationally faster in large financial models. Exam Takeaway: INDEX-MATCH is superior to VLOOKUP because it supports leftward lookups and is more robust to column insertions.",
+    "type": "apti"
   },
   {
-    "question": "Despite reporting a Rs 92-crore loss in Q1, Urban Company's shares skyrocketed by 18%. From an equity research and corporate valuation perspective, which of the following scenarios best explains this market reaction?",
+    "question": "In corporate valuation, how does an increase in the estimated growth rate during the terminal value period affect the calculated Enterprise Value (EV) of a company in a DCF model, assuming all other variables remain constant?",
     "options": [
-      "The market shifted from a discounted cash flow valuation model to a liquidation value model.",
-      "The reported loss was significantly narrower than consensus estimates, accompanied by strong unit economics and a clear path to profitability.",
-      "The company announced a major debt-fueled share buyback program to artificially inflate return on equity.",
-      "The company's cost of capital increased, which paradoxically raised the present value of its terminal cash flows."
-    ],
-    "answerIndex": 1,
-    "explanation": "In growth-stage and platform businesses, markets frequently price shares based on expectations relative to consensus estimates rather than absolute profitability. If a company reports a loss that is significantly smaller than expected (an 'earnings beat') alongside improving operational metrics (such as contribution margin or average order value), investors revise their long-term growth and margin assumptions upward, driving up the stock price. Shifting to a liquidation model implies distress, which would depress the stock. A debt-fueled buyback for a loss-making platform is highly unlikely and unsustainable. An increased cost of capital would discount future cash flows more heavily, reducing equity value. This tests market efficiency and growth-firm valuation. Exam Takeaway: Stock price movements reflect performance relative to market expectations and forward-looking guidance, not just absolute current net income.",
-    "type": "news"
-  },
-  {
-    "question": "In the new mutual fund expense ratio regime, distributor commissions are seeing a downward trend. For an asset management company (AMC), how is this regulatory shift likely to impact its distribution strategy and product positioning?",
-    "options": [
-      "AMCs will shift their marketing focus entirely to passive direct plans, which offer higher commission margins.",
-      "AMCs will increase their reliance on proprietary digital channels and direct-to-consumer (D2C) marketing to maintain net inflows.",
-      "AMCs will increase the expense ratios of direct plans to cross-subsidize regular plan commissions.",
-      "AMCs will completely phase out regular plans and offer only closed-ended institutional schemes."
-    ],
-    "answerIndex": 1,
-    "explanation": "When regulatory changes compress the commission margins paid to third-party distributors, the incentive for distributors to push regular mutual fund schemes declines. To sustain asset under management (AUM) growth, AMCs must pivot toward direct-to-consumer (D2C) channels and digital platforms where they do not have to pay intermediary commissions. Direct plans do not pay commissions, so focusing on them does not solve distributor margin issues. AMCs cannot arbitrarily raise direct plan expense ratios to cross-subsidize regular plans due to strict regulatory caps. Phasing out regular plans would cut off a major source of retail inflows. This tests channel strategy and regulatory adaptation. Exam Takeaway: Regulatory compression of distribution margins forces financial intermediaries to disintermediate and invest in direct-to-consumer digital infrastructure.",
-    "type": "news"
-  },
-  {
-    "question": "Shriram Finance is reportedly growing its profits faster than Bajaj Finance, yet it trades at a valuation discount of approximately 54% compared to its peer. From a corporate finance and risk management perspective, which of the following factors best explains this persistent valuation divergence?",
-    "options": [
-      "Shriram Finance has a lower Return on Equity (RoE) due to its heavy reliance on low-yielding government bonds.",
-      "Shriram's asset mix is heavily weighted toward used commercial vehicles, which carry higher perceived credit risk and cyclicality compared to Bajaj's diversified consumer lending portfolio.",
-      "Bajaj Finance benefits from a zero-cost deposit license from the RBI, whereas Shriram Finance is legally barred from accepting public deposits.",
-      "Shriram Finance employs a higher degree of financial leverage, which artificially inflates its short-term profit growth while compressing its interest coverage ratio."
-    ],
-    "answerIndex": 1,
-    "explanation": "This question tests the concepts of risk-adjusted return, asset mix, and valuation multiples in corporate finance. Shriram Finance's core business revolves around financing used commercial vehicles (CVs). While highly profitable, the used CV segment is highly cyclical, has higher default rates, and serves a more credit-volatile borrower base than Bajaj Finance's highly diversified, urban consumer-centric portfolio. Consequently, investors demand a higher risk premium for Shriram, leading to a lower valuation multiple (discount) despite rapid profit growth. Shriram is actually a deposit-taking NBFC, and both firms utilize leverage. Return on Equity is not structurally lower for Shriram; rather, the market discounts its earnings due to risk profile differences. Exam Takeaway: Higher growth does not translate to higher valuation multiples if the underlying assets carry disproportionately high credit risk and cyclicality.",
-    "type": "news"
-  },
-  {
-    "question": "As geopolitical conflicts in West Asia alter India's trade map\u2014increasing the prominence of alternative trade partners like Oman for energy imports and Tanzania for exports\u2014what is the primary strategic risk management challenge for Indian multinational corporations adjusting their supply chains?",
-    "options": [
-      "A complete elimination of currency risk due to the pegging of the Tanzanian Shilling to the Indian Rupee.",
-      "The transition from high-volume, low-margin sea routes to low-volume, high-margin overland rail routes across the Middle East.",
-      "Increased exposure to bilateral trade concentration, higher transaction costs of establishing new banking channels, and local regulatory compliance in non-traditional jurisdictions.",
-      "A structural decline in domestic capacity utilization as production is forced to permanently relocate to East Africa."
+      "It decreases the Enterprise Value.",
+      "It has no impact on the Enterprise Value.",
+      "It increases the Enterprise Value.",
+      "It makes the Enterprise Value negative."
     ],
     "answerIndex": 2,
-    "explanation": "This question tests supply chain strategy and international risk management. When macro factors force trade rerouting (e.g., from traditional West Asian hubs to Oman, Tanzania, or South Africa), companies must rapidly build new logistics corridors and banking relationships. This introduces operational friction, such as navigating unfamiliar local regulations, dealing with less liquid currency markets, and absorbing higher transaction costs. It does not eliminate currency risk, nor does it transition maritime trade to overland rail or force domestic production to permanently relocate. Exam Takeaway: Rerouting trade networks to non-traditional partners mitigates immediate geopolitical blockades but introduces operational complexities and compliance risks in less mature regulatory environments.",
-    "type": "news"
+    "explanation": "In a Discounted Cash Flow (DCF) model, the terminal value represents the present value of all cash flows beyond the projection period. Under the Gordon Growth Method, a higher terminal growth rate reduces the denominator (WACC - g), which increases the terminal value and consequently increases the overall Enterprise Value. Exam Takeaway: Terminal growth rate assumptions have a highly sensitive, positive correlation with the final DCF Enterprise Value.",
+    "type": "apti"
   },
   {
-    "question": "The Ministry of Housing and Urban Affairs (MoHUA) was split into two specialized departments: one focusing on capital development and the other on urban development. From an organizational design and operations management perspective, what is the primary structural benefit of this administrative split?",
+    "question": "Under SEBI's Listing Obligations and Disclosure Requirements (LODR) Regulations, what is the timeline within which a listed entity must submit its quarterly financial results to the stock exchanges after the end of each quarter?",
     "options": [
-      "It eliminates the need for inter-departmental coordination by creating completely autonomous, self-funding entities.",
-      "It reduces administrative overhead by consolidating support functions like HR and IT into a single shared service center.",
-      "It allows for task specialization and reduces cognitive load on leadership, enabling faster execution of distinct long-term infrastructure projects versus daily municipal services.",
-      "It guarantees a reduction in project execution budgets by introducing internal market competition between the two verticals."
+      "Within 15 days",
+      "Within 30 days",
+      "Within 45 days",
+      "Within 60 days"
     ],
     "answerIndex": 2,
-    "explanation": "This question tests organizational design and operations. Splitting a massive, multi-mandate ministry into two specialized verticals (capital development vs. urban development) is a structural response to high operational complexity. By segregating long-term, asset-heavy capital projects from everyday municipal and urban service delivery, the government reduces the cognitive span of control for leadership. This specialization allows each department to align its processes, metrics, and talent with its specific mission. It does not eliminate the need for coordination, nor does it guarantee budget reductions through internal competition. Exam Takeaway: Organizational splitting is an effective strategy to manage high operational complexity by aligning specialized structures with distinct strategic goals.",
-    "type": "news"
-  },
-  {
-    "question": "Swiggy's Q1 FY27 results show its net loss narrowed to Rs 791 crore while revenue rose by 6.30%. From a business analytics and strategy perspective, which of the following operational shifts is most critical for Swiggy to achieve operating leverage and reach net profitability?",
-    "options": [
-      "Increasing customer acquisition cost (CAC) to aggressively capture low-margin rural markets.",
-      "Improving the average order value (AOV) and optimizing delivery partner density to reduce the marginal cost per delivery.",
-      "Transitioning completely from a platform-fee model to a fixed monthly subscription model for all users.",
-      "Sourcing and managing its own dark store inventory directly to eliminate third-party FMCG brands from its platform."
-    ],
-    "answerIndex": 1,
-    "explanation": "This question tests operating leverage, unit economics, and business strategy. In hyper-competitive food tech and quick commerce markets, narrowing net losses while maintaining modest revenue growth requires improving unit economics. Achieving operating leverage relies heavily on increasing the Average Order Value (AOV) and optimizing route density for delivery partners, which lowers the variable cost per delivery. Capturing low-margin rural markets or eliminating popular third-party brands would hurt margins and order volumes, while a pure subscription model would alienate casual users. Exam Takeaway: For platform businesses, profitability is driven by optimizing density and transaction sizes to spread fixed delivery and technology costs over larger volumes.",
-    "type": "news"
-  },
-  {
-    "question": "A retail company wants to assess how efficiently it manages its physical stock. If the company's Inventory Turnover Ratio increases from 4.0 to 6.5 over a year, what does this change most likely indicate about the company's operational performance?",
-    "options": [
-      "The company is holding excess inventory, increasing holding costs.",
-      "The company is selling its goods faster, improving cash conversion.",
-      "The company's sales have dropped significantly while stock remained flat.",
-      "The company has loosened its credit policy for retail buyers."
-    ],
-    "answerIndex": 1,
-    "explanation": "An increase in the Inventory Turnover Ratio indicates that a company is selling and replacing its stock more frequently over a period. This generally implies stronger sales performance and highly efficient inventory management, which reduces storage costs and minimizes the risk of stock obsolescence. Exam Takeaway: A rising inventory turnover ratio signals operational efficiency and faster cash generation from stock.",
+    "explanation": "SEBI's LODR regulations mandate that listed companies must submit their quarterly financial results to the stock exchanges within 45 days from the end of the quarter. For the final quarter of the financial year, they have up to 60 days to submit audited annual results. Exam Takeaway: Timely financial reporting within 45 days of quarter-end is a critical SEBI compliance requirement to ensure market transparency.",
     "type": "apti"
   },
   {
-    "question": "In financial modeling, when an analyst wants to project future cash flows, they must distinguish between different types of cash metrics. Which of the following represents the cash generated by a business that is available for distribution to all capital providers, including both debt and equity holders?",
+    "question": "If a company decides to capitalize an R&D expense instead of expensing it immediately on the Income Statement, how does this accounting treatment affect the current period's Net Income and Cash Flow from Operations (CFO)?",
     "options": [
-      "Free Cash Flow to Equity (FCFE)",
-      "Net Cash Flow from Financing Activities",
-      "Free Cash Flow to the Firm (FCFF)",
-      "Retained Earnings"
+      "Net Income decreases; CFO increases.",
+      "Net Income increases; CFO remains unchanged.",
+      "Net Income increases; CFO increases.",
+      "Net Income decreases; CFO decreases."
     ],
     "answerIndex": 2,
-    "explanation": "Free Cash Flow to the Firm (FCFF) represents the cash available to all funding providers\u2014both bondholders (debt) and stockholders (equity)\u2014after operating expenses, taxes, and necessary capital expenditures have been met. Free Cash Flow to Equity (FCFE) only represents cash available to shareholders after debt service. Exam Takeaway: FCFF is the cash flow stream discounted by the WACC to find the enterprise value of a business.",
+    "explanation": "Capitalizing R&D means the cost is recorded as an asset on the Balance Sheet rather than an immediate expense on the Income Statement, which increases current Net Income. Since the cash outflow is now classified as an investing activity (Capital Expenditure) rather than an operating expense, Cash Flow from Operations (CFO) also increases. Exam Takeaway: Capitalizing costs shifts outflows from operating to investing cash flows, artificially boosting both Net Income and CFO in the short term.",
     "type": "apti"
   },
   {
-    "question": "An investor is reviewing a prospective corporate bond. If the market interest rates (yields) for comparable risk profiles suddenly rise, what will happen to the market price of the existing fixed-rate corporate bond?",
+    "question": "To control rising inflation in the Indian economy, which of the following quantitative monetary policy actions is the Reserve Bank of India (RBI) most likely to take?",
     "options": [
-      "The bond price will increase to match the new market yield.",
-      "The bond price will decrease to offer a yield that aligns with the new market rate.",
-      "The bond price will remain completely unchanged because the coupon rate is fixed.",
-      "The bond's face value will automatically adjust upward."
+      "Decrease the Cash Reserve Ratio (CRR)",
+      "Increase the Cash Reserve Ratio (CRR)",
+      "Purchase government securities via Open Market Operations (OMO)",
+      "Decrease the Reverse Repo Rate"
     ],
     "answerIndex": 1,
-    "explanation": "Bond prices and interest rates have an inverse relationship. When market interest rates rise, existing bonds with lower, fixed coupon rates become less attractive. To entice buyers, the market price of these existing bonds must drop so that their yield to maturity matches the new, higher market rate. Exam Takeaway: Interest rate risk means that rising rates compress the market value of fixed-income assets.",
+    "explanation": "To curb inflation, the RBI aims to reduce the money supply and liquidity in the banking system. Increasing the Cash Reserve Ratio (CRR) forces commercial banks to keep a larger portion of their deposits with the RBI, thereby reducing their lending capacity and slowing down economic demand. Decreasing CRR or purchasing securities would inject liquidity, which exacerbates inflation. Exam Takeaway: Raising the CRR is a contractionary monetary policy tool used by the RBI to absorb excess liquidity and control inflation.",
     "type": "apti"
   },
   {
-    "question": "Under SEBI's Prohibition of Insider Trading Regulations, if a designated employee of a listed company comes into possession of Un-published Price Sensitive Information (UPSI) regarding an upcoming merger, which of the following actions is legally permitted?",
+    "question": "Which of the following describes the 'DuPont Analysis' breakdown of Return on Equity (ROE)?",
     "options": [
-      "Sharing the information only with immediate family members who promise not to trade.",
-      "Trading in the company's derivatives contracts instead of equity shares.",
-      "Abstaining from trading in the company's securities until the information is made public.",
-      "Recommending the stock to a client without disclosing the specific merger details."
+      "Gross Margin x Asset Turnover x Leverage Factor",
+      "Net Profit Margin x Asset Turnover x Equity Multiplier",
+      "Operating Margin x Debt-to-Equity x Return on Assets",
+      "Net Profit Margin x Inventory Turnover x Current Ratio"
+    ],
+    "answerIndex": 1,
+    "explanation": "The classic three-step DuPont Analysis breaks down Return on Equity (ROE) into three component ratios: Net Profit Margin (profitability), Asset Turnover (efficiency), and the Equity Multiplier (financial leverage). This helps analysts identify the exact driver of a company's ROE performance. Exam Takeaway: DuPont Analysis decomposes ROE into profitability, operational efficiency, and financial leverage.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, which keyboard shortcut is used to toggle between absolute, relative, and mixed cell references (e.g., converting A1 to $A$1) while editing a formula?",
+    "options": [
+      "F2",
+      "F4",
+      "F9",
+      "F11"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pressing the F4 key while editing a cell reference in Excel cycles through absolute ($A$1), mixed row absolute (A$1), mixed column absolute ($A1), and relative (A1) references. F2 is used to edit a cell, F9 evaluates portions of a formula, and F11 creates a chart sheet. Exam Takeaway: Use the F4 shortcut to quickly lock or unlock cell references in financial models.",
+    "type": "apti"
+  },
+  {
+    "question": "What is the primary difference between a company's enterprise value (EV) and its equity value (market capitalization)?",
+    "options": [
+      "EV includes cash but excludes debt.",
+      "EV represents the value of the equity only, while equity value includes debt.",
+      "EV represents the total value of the operating business to all capital providers, while equity value represents only the value attributable to shareholders.",
+      "There is no difference; they are always equal."
     ],
     "answerIndex": 2,
-    "explanation": "SEBI's insider trading regulations strictly prohibit any individual in possession of Unpublished Price Sensitive Information (UPSI) from trading in the securities of the company or communicating such information to others. The only compliant course of action is to abstain from trading and protect the confidentiality of the information until it is officially disclosed to the public through stock exchange platforms. Exam Takeaway: Possession of UPSI mandates complete trading abstinence to maintain market integrity.",
+    "explanation": "Enterprise Value (EV) measures the total value of the active operating business and is theoretically the price an acquirer would pay to buy the entire company (incorporating both debt and equity, minus cash). Equity value is simply the market value of the outstanding common shares. Exam Takeaway: Enterprise Value is capital-structure neutral, whereas Equity Value is capital-structure dependent.",
     "type": "apti"
   },
   {
-    "question": "An analyst is building a valuation model in Excel. To calculate the present value of a series of future cash flows that occur at irregular, non-periodic intervals, which Excel function should be used?",
+    "question": "When a company issues shares of stock at a price higher than their par value, where is the excess amount recorded on the balance sheet?",
     "options": [
-      "NPV",
-      "XNPV",
-      "IRR",
-      "PV"
+      "Retained Earnings",
+      "Securities Premium (or Share Premium Account)",
+      "Other Comprehensive Income",
+      "Deferred Revenue"
     ],
     "answerIndex": 1,
-    "explanation": "While the standard NPV function assumes that cash flows occur at equal, periodic intervals (such as annually or monthly), the XNPV function allows the analyst to input specific, irregular dates for each individual cash flow, providing a highly precise present value. Exam Takeaway: Use XNPV in Excel for real-world valuation modeling where cash flows do not occur on fixed annual cycles.",
+    "explanation": "The amount received by a company over and above the face (par) value of its shares is recorded under the 'Securities Premium' or 'Share Premium' account within the Shareholders' Equity section of the Balance Sheet. Retained Earnings hold accumulated net profits that have not been distributed to shareholders. Exam Takeaway: Capital raised above par value is recorded as Securities Premium, not as operational income or retained earnings.",
     "type": "apti"
   },
   {
-    "question": "When assessing a company's profitability, an analyst notices that the Gross Profit Margin remained steady, but the Operating Profit Margin (EBIT Margin) declined over the same period. What is the most likely cause of this divergence?",
+    "question": "Under SEBI's Insider Trading regulations, what is the designated period during which insiders and connected persons are prohibited from trading in a listed company's shares before the announcement of quarterly financial results?",
     "options": [
-      "An increase in the raw material procurement costs.",
-      "An increase in selling, general, and administrative (SG&A) expenses.",
-      "An increase in interest expenses paid on long-term debt.",
-      "An increase in corporate income tax rates."
-    ],
-    "answerIndex": 1,
-    "explanation": "Gross profit margin only accounts for Cost of Goods Sold (COGS). Operating profit margin (EBIT) is calculated after subtracting operating overheads like SG&A, marketing, and administrative salaries. A decline in EBIT margin while Gross margin remains stable points directly to rising operating overheads. Interest and taxes are non-operating expenses and do not impact EBIT. Exam Takeaway: Non-production overheads like SG&A explain the gap between gross profit and operating profit trends.",
-    "type": "apti"
-  },
-  {
-    "question": "If a commercial bank in India faces a sudden liquidity squeeze due to systemic factors, the Reserve Bank of India (RBI) can inject liquidity into the banking system through which of the following policy actions?",
-    "options": [
-      "Selling government securities in the open market.",
-      "Increasing the Cash Reserve Ratio (CRR).",
-      "Buying government securities through Open Market Operations (OMOs).",
-      "Increasing the Reverse Repo rate."
-    ],
-    "answerIndex": 2,
-    "explanation": "When the RBI purchases government securities from banks through Open Market Operations (OMOs), it pays cash to the banks, thereby injecting liquidity directly into the banking system. Selling securities or raising reserve requirements would withdraw cash from the system. Exam Takeaway: RBI buys government bonds to expand systemic liquidity and sells them to contract it.",
-    "type": "apti"
-  },
-  {
-    "question": "In corporate accounting, which of the following transactions would result in an immediate increase in a company's cash balance without affecting its Net Income for that period?",
-    "options": [
-      "Selling inventory to a customer on credit.",
-      "Securing a new long-term bank loan.",
-      "Recognizing depreciation expense on factory machinery.",
-      "Paying cash dividends to existing shareholders."
-    ],
-    "answerIndex": 1,
-    "explanation": "Taking out a bank loan increases cash (an asset) and increases debt (a liability) on the balance sheet. This is a financing activity and does not impact the Income Statement (Net Income). Selling on credit increases accounts receivable, not cash. Paying dividends decreases cash. Exam Takeaway: Financing inflows like debt issuance boost liquidity immediately without impacting profitability.",
-    "type": "apti"
-  },
-  {
-    "question": "An Excel model contains a cell with the formula =A1+B1. If an analyst copies this formula and pastes it one cell to the right and one cell down, what will the new formula look like due to relative referencing?",
-    "options": [
-      "=A1+B1",
-      "=B2+C2",
-      "=$A$1+$B$1",
-      "=A2+B2"
-    ],
-    "answerIndex": 1,
-    "explanation": "Because there are no dollar signs ($) to lock the references, Excel uses relative referencing. Moving one cell to the right shifts the columns from A and B to B and C. Moving one cell down shifts the rows from 1 to 2. Thus, the formula becomes =B2+C2. Exam Takeaway: Relative references automatically adjust their column and row coordinates based on the destination cell.",
-    "type": "apti"
-  },
-  {
-    "question": "If a company has a high operating leverage, how will a 10% increase in its sales revenue impact its Operating Income (EBIT)?",
-    "options": [
-      "EBIT will increase by exactly 10%.",
-      "EBIT will increase by more than 10%.",
-      "EBIT will increase by less than 10%.",
-      "EBIT will remain unchanged because operating leverage only affects net income."
-    ],
-    "answerIndex": 1,
-    "explanation": "Operating leverage is a measure of how sensitive a company's operating income is to changes in sales revenue, determined by the proportion of fixed costs to variable costs. A company with high operating leverage has high fixed costs; once these are covered, any increase in sales flows directly to operating income, causing EBIT to rise by a larger percentage than the revenue growth. Exam Takeaway: High fixed-cost structures amplify both gains in up-cycles and losses in down-cycles.",
-    "type": "apti"
-  },
-  {
-    "question": "A firm is considering a new capital project with an initial cash outflow followed by positive cash inflows. If the project's Internal Rate of Return (IRR) is greater than the company's cost of capital, what does this imply about the project's Net Present Value (NPV)?",
-    "options": [
-      "The NPV is negative.",
-      "The NPV is equal to zero.",
-      "The NPV is positive.",
-      "The NPV cannot be determined without knowing the exact project lifespan."
-    ],
-    "answerIndex": 2,
-    "explanation": "The IRR is the discount rate that sets a project's NPV to zero. If the project's IRR is higher than the company's required rate of return (cost of capital), discounting the cash flows at that lower cost of capital will yield a positive NPV. Exam Takeaway: Accept projects where IRR exceeds the hurdle rate, as they generate positive NPV and create shareholder value.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following financial metrics is most appropriate for comparing the operating profitability of two companies operating in the same industry but subject to different corporate tax rates and capital structures?",
-    "options": [
-      "Net Income",
-      "Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)",
-      "Earnings Per Share (EPS)",
-      "Return on Equity (ROE)"
-    ],
-    "answerIndex": 1,
-    "explanation": "EBITDA strips out the effects of capital structure (interest expenses), government tax regimes (taxes), and non-cash accounting policies (depreciation and amortization). This makes it the cleanest metric for comparing core operational performance across different firms. Exam Takeaway: EBITDA serves as a proxy for operating cash flow, neutralizing financing and tax differences.",
-    "type": "apti"
-  },
-  {
-    "question": "What does a negative Working Capital balance typically indicate about a company's short-term financial position?",
-    "options": [
-      "The company is highly profitable and has excess cash to invest.",
-      "The company's current liabilities exceed its current assets, indicating potential liquidity risk.",
-      "The company has zero long-term debt obligations.",
-      "The company's capital expenditures are greater than its depreciation."
+      "Trading Window Closure",
+      "Silent Period",
+      "Lock-in Period",
+      "Cooling-off Period"
     ],
     "answerIndex": 0,
-    "explanation": "Working Capital is calculated as Current Assets minus Current Liabilities. A negative balance means current liabilities exceed current assets, indicating that the company may struggle to meet its short-term obligations as they fall due. However, some highly efficient retailers with rapid inventory turnover and immediate cash collection can operate with negative working capital. Exam Takeaway: Negative working capital generally signals liquidity stress, unless justified by an extremely fast cash conversion cycle.",
+    "explanation": "SEBI mandates the closure of the 'Trading Window' for designated persons during the period when unpublished price-sensitive information (like quarterly financial results) is being finalized. Typically, the window closes from the end of the quarter until 48 hours after the results are made public. Exam Takeaway: The Trading Window Closure prevents insider trading during critical information-asymmetry windows.",
     "type": "apti"
   },
   {
-    "question": "In Excel, which of the following features is specifically designed to find the input value required to achieve a specific target formula outcome (e.g., finding the sales volume needed to reach a target net profit)?",
+    "question": "Which of the following macroeconomic indicators measures the total market value of all final goods and services produced within a country's borders during a specific period, regardless of the nationality of the producers?",
     "options": [
-      "PivotTable",
-      "Conditional Formatting",
-      "Goal Seek",
-      "Data Validation"
+      "Gross National Product (GNP)",
+      "Gross Domestic Product (GDP)",
+      "Net National Product (NNP)",
+      "National Income"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gross Domestic Product (GDP) is the standard metric used to measure the value of economic output within a country's geographic borders. Gross National Product (GNP), on the other hand, measures the output produced by the citizens and businesses of a nation, regardless of where they are located. Exam Takeaway: GDP focuses on geographic location of production, whereas GNP focuses on ownership of production.",
+    "type": "apti"
+  },
+  {
+    "question": "An analyst wants to quickly find the standard deviation of a sample of historical stock returns in Excel. Which formula should they use?",
+    "options": [
+      "=STDEV.P()",
+      "=STDEV.S()",
+      "=VAR.S()",
+      "=AVEDEV()"
+    ],
+    "answerIndex": 1,
+    "explanation": "=STDEV.S() calculates the standard deviation based on a sample, which is the standard practice for analyzing historical asset returns. =STDEV.P() is used when you have the entire population of data, while =VAR.S() calculates variance. Exam Takeaway: Use STDEV.S for sample data sets like historical stock returns to avoid underestimating volatility.",
+    "type": "apti"
+  },
+  {
+    "question": "If the Reserve Bank of India (RBI) wants to signal an expansionary monetary policy stance to encourage economic growth, which of the following interest rate adjustments is it most likely to make?",
+    "options": [
+      "Increase the Policy Repo Rate",
+      "Decrease the Policy Repo Rate",
+      "Increase the Marginal Standing Facility (MSF) Rate",
+      "Increase the Statutory Liquidity Ratio (SLR)"
+    ],
+    "answerIndex": 1,
+    "explanation": "To stimulate economic growth, the RBI lowers the policy repo rate (the rate at which it lends to commercial banks). This reduces the borrowing costs for banks, which they pass on to consumers and businesses as lower lending rates, boosting investment and consumption. Exam Takeaway: Decreasing the Repo Rate is the primary tool used by the RBI to implement an expansionary monetary policy.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following financial instruments is a short-term, unsecured debt instrument issued by highly rated corporations to meet their working capital requirements?",
+    "options": [
+      "Treasury Bill",
+      "Commercial Paper",
+      "Certificate of Deposit",
+      "Corporate Bond"
+    ],
+    "answerIndex": 1,
+    "explanation": "Commercial Paper (CP) is an unsecured, short-term debt instrument issued by creditworthy corporations, typically with maturities ranging from several days up to one year, to fund short-term liabilities such as inventory and payroll. Treasury Bills are issued by governments, and Certificates of Deposit are issued by banks. Exam Takeaway: Commercial Paper is a vital money market instrument for corporate short-term funding.",
+    "type": "apti"
+  },
+  {
+    "question": "What does a Debt Service Coverage Ratio (DSCR) of less than 1.0 typically signify to a commercial lender?",
+    "options": [
+      "The firm has ample cash to pay its debt obligations.",
+      "The firm does not generate enough operating income to cover its principal and interest payments.",
+      "The firm is highly profitable and should be given more loans.",
+      "The firm's equity value is higher than its debt value."
+    ],
+    "answerIndex": 1,
+    "explanation": "A DSCR of less than 1.0 (e.g., 0.8) means the company's operating income (net operating income or EBITDA) is insufficient to cover its annual debt service obligations (principal + interest). This represents a high credit risk for lenders. Exam Takeaway: A DSCR below 1.0 indicates a cash flow deficit relative to mandatory debt obligations.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, if you have a list of messy text strings with irregular leading, trailing, and consecutive spaces, which function should you use to clean them up?",
+    "options": [
+      "=CLEAN()",
+      "=TRIM()",
+      "=REPLACE()",
+      "=SUBSTITUTE()"
+    ],
+    "answerIndex": 1,
+    "explanation": "The =TRIM() function in Excel removes all leading and trailing spaces from a text string, and replaces multiple consecutive spaces between words with a single space. The =CLEAN() function is used to remove non-printable characters. Exam Takeaway: Use TRIM to standardize text data and eliminate spacing discrepancies in financial datasets.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following financial transactions will cause a company's Debt-to-Equity ratio to decrease, assuming all other variables remain constant?",
+    "options": [
+      "The company issues new long-term bonds to buy back shares.",
+      "The company buys back its own stock using surplus cash.",
+      "The company issues new equity shares to pay off an existing bank loan.",
+      "The company purchases new machinery on credit."
     ],
     "answerIndex": 2,
-    "explanation": "Goal Seek is a built-in Excel What-If Analysis tool that allows you to find the exact input value needed to achieve a desired formula result. It back-solves the variable based on your target. Exam Takeaway: Use Goal Seek for single-variable back-solving when you know the target output but not the required input.",
+    "explanation": "Issuing new equity shares increases the denominator (Equity) of the Debt-to-Equity ratio, while using the proceeds to pay off a bank loan decreases the numerator (Debt). This dual effect significantly lowers the Debt-to-Equity ratio. Exam Takeaway: Issuing equity to retire debt deleverages the balance sheet, lowering the Debt-to-Equity ratio.",
     "type": "apti"
   },
   {
-    "question": "Under SEBI's guidelines for Mutual Funds, what is the primary structural purpose of segregating a portion of a mutual fund portfolio's assets into a 'side pocket'?",
+    "question": "Under SEBI's regulations, what is the minimum public shareholding (MPS) percentage that a promoter group must maintain in a listed company in India, excluding specific public sector undertakings?",
     "options": [
-      "To allocate capital to high-risk equity derivatives for extra returns.",
-      "To separate illiquid or defaulted debt assets from the liquid portion of the portfolio to protect existing investors.",
-      "To reduce the fund's total expense ratio (TER) for retail investors.",
-      "To guarantee a minimum return on the liquid assets of the scheme."
-    ],
-    "answerIndex": 1,
-    "explanation": "Side pocketing is a regulatory mechanism allowed by SEBI that permits mutual funds to segregate distressed, illiquid, or defaulted debt securities from the healthy assets of a scheme. This ensures that panic redemptions by some investors do not force the distress sale of good assets, protecting the remaining unit holders. Exam Takeaway: Side pocketing isolates bad debt to preserve liquidity and fair pricing for remaining investors.",
-    "type": "apti"
-  },
-  {
-    "question": "If a firm has an Asset Turnover Ratio of 2.0 and a Net Profit Margin of 10%, what is the company's Return on Assets (ROA) according to the DuPont Analysis framework?",
-    "options": [
-      "5%",
-      "12%",
-      "20%",
-      "8%"
+      "10%",
+      "15%",
+      "25%",
+      "50%"
     ],
     "answerIndex": 2,
-    "explanation": "According to the DuPont framework, Return on Assets (ROA) is calculated by multiplying the Net Profit Margin by the Asset Turnover Ratio (10% * 2.0 = 20%). Exam Takeaway: DuPont analysis shows that ROA can be driven either by high profit margins or highly efficient asset utilization.",
+    "explanation": "SEBI rules mandate that all listed companies in India (with some exceptions like certain PSUs) must maintain a minimum public shareholding (MPS) of 25% to ensure adequate market liquidity and prevent price manipulation by promoters. Exam Takeaway: SEBI's 25% MPS rule protects minority shareholders and ensures market liquidity.",
     "type": "apti"
   },
   {
-    "question": "When the Reserve Bank of India (RBI) conducts its bi-monthly monetary policy review and decides to increase the Policy Repo Rate, what is the primary macroeconomic objective of this policy tightening?",
+    "question": "In a corporate cash flow statement prepared under the indirect method, how is an increase in Accounts Receivable treated when calculating Cash Flow from Operating Activities?",
     "options": [
-      "To increase the supply of cheap credit to commercial real estate developers.",
-      "To curb inflationary pressures in the economy by making borrowing more expensive.",
-      "To devalue the Indian Rupee against major global currencies.",
-      "To reduce the capital adequacy ratio requirements for public sector banks."
+      "It is added back to Net Income.",
+      "It is subtracted from Net Income.",
+      "It is classified under Cash Flow from Investing Activities.",
+      "It is ignored entirely."
     ],
     "answerIndex": 1,
-    "explanation": "An increase in the Repo Rate\u2014the rate at which the RBI lends money to commercial banks\u2014increases the cost of funds for banks. This rise is passed on to corporate and retail borrowers, cooling down consumption and investment demand to control inflation. Exam Takeaway: RBI raises the repo rate to tame inflation by contracting credit demand in the economy.",
-    "type": "apti"
-  },
-  {
-    "question": "An analyst wants to combine text from two different cells (e.g., First Name in A1 and Last Name in B1) into a single cell with a space in between. Which Excel formula achieves this correctly?",
-    "options": [
-      "=A1+B1",
-      "=A1 & \" \" & B1",
-      "=MERGE(A1, B1)",
-      "=A1 AND B1"
-    ],
-    "answerIndex": 1,
-    "explanation": "In Excel, the ampersand (&) symbol is the concatenation operator used to join text strings together. To include a space between the two cell values, you must concatenate a space character enclosed in double quotation marks (\" \"). Exam Takeaway: Use the ampersand (&) operator or CONCATENATE function to merge text strings in Excel models.",
-    "type": "apti"
-  },
-  {
-    "question": "In a corporate balance sheet, where are unpaid expenses that have been incurred during the current accounting period (such as unpaid employee salaries or utility bills) recorded?",
-    "options": [
-      "Prepaid Expenses under Current Assets",
-      "Accrued Liabilities under Current Liabilities",
-      "Retained Earnings under Shareholder Equity",
-      "Operating Cash Outflows on the Cash Flow Statement"
-    ],
-    "answerIndex": 1,
-    "explanation": "Under the accrual basis of accounting, expenses are recognized when they are incurred, not when cash is paid. Unpaid expenses that have been incurred are recorded as Accrued Liabilities (or Accrued Expenses) under Current Liabilities on the balance sheet. Exam Takeaway: Accrued liabilities represent services or benefits already received by the firm that are yet to be paid for.",
-    "type": "apti"
-  },
-  {
-    "question": "When conducting a Discounted Cash Flow (DCF) valuation, what is the primary reason for using the Weighted Average Cost of Capital (WACC) as the discount rate for Free Cash Flows to the Firm (FCFF)?",
-    "options": [
-      "WACC represents the cost of equity, which is the only capital that matters to shareholders.",
-      "WACC reflects the blended, opportunity cost of capital to all financing providers proportional to the firm's capital structure.",
-      "WACC is always lower than the cost of debt, which maximizes the calculated enterprise value.",
-      "WACC is a risk-free rate mandated by accounting standards for all valuations."
-    ],
-    "answerIndex": 1,
-    "explanation": "Because FCFF represents cash flows available to both debt and equity holders, the discount rate applied must reflect the risk and return expectations of both groups. WACC calculates this by weighting the cost of equity and the after-tax cost of debt based on their respective proportions in the firm's capital structure. Exam Takeaway: Match the cash flow stream with the appropriate discount rate; use WACC for FCFF and Cost of Equity for FCFE.",
+    "explanation": "An increase in Accounts Receivable means the company has recorded revenue on credit but has not yet collected the cash. Since this revenue is included in Net Income but does not represent actual cash inflow, it must be subtracted from Net Income to arrive at Cash Flow from Operating Activities. Exam Takeaway: An increase in working capital assets like Accounts Receivable represents a cash outflow (or use of cash).",
     "type": "apti"
   }
 ]

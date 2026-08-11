@@ -1,338 +1,326 @@
 [
   {
-    "question": "With the Strait of Hormuz facing potential disruption and crude oil projected to rise toward $150 per barrel, how would this supply-side shock most likely impact India's macroeconomic balance, specifically regarding the 'twin deficits'?",
+    "question": "The Bankers' Books Evidence Bill 2026 replaces the 1891 Act by legally recognizing electronic, digital, and cloud-based banking records as primary evidence. From a bank operations and risk management perspective, what is the most significant operational control challenge this transition poses?",
     "options": [
-      "It would narrow the current account deficit due to lower import volumes, while widening the fiscal deficit due to increased fuel subsidies.",
-      "It would widen the current account deficit due to a higher oil import bill, and widen the fiscal deficit due to government absorption of under-recoveries or increased subsidy burdens.",
-      "It would narrow both the current account and fiscal deficits as domestic consumption shifts rapidly to renewable energy alternatives.",
-      "It would widen the current account deficit but narrow the fiscal deficit as higher petroleum tax collections offset import costs."
+      "Establishing immutable audit trails and tamper-proof digital custody chains that satisfy the statutory standards of electronic certification.",
+      "Managing the physical space required to store legacy paper records alongside new server racks.",
+      "Retraining bank tellers to manually input paper records into legacy mainframes.",
+      "Eliminating all cloud-based hosting to comply with the physical evidence requirements of the old 1891 Act."
     ],
-    "answerIndex": 1,
-    "explanation": "A massive surge in crude oil prices acts as a severe stagflationary shock for India, which imports over 80% of its crude. The current account deficit (CAD) widens because the value of imports surges immediately. Simultaneously, the fiscal deficit widens because the government either has to absorb the price shock by cutting excise duties (reducing revenue) or increase subsidies to state-run oil marketing companies to prevent retail inflation from spiraling. Other options are incorrect because a rapid shift to renewables cannot happen overnight, and petroleum tax cuts to cushion retail consumers actually reduce net tax revenue. Exam Takeaway: Supply-side energy shocks simultaneously deteriorate both the current account and fiscal balances in import-dependent emerging markets.",
+    "answerIndex": 0,
+    "explanation": "The Bankers' Books Evidence Bill 2026 modernizes the legal framework by recognizing digital and cloud-based records. However, the primary operational risk shifts from physical security to digital integrity. To present these digital records as valid court evidence, banks must ensure robust, tamper-proof digital custody chains and automated, immutable audit trails. Option B is incorrect because digital transition reduces physical space needs. Option C is incorrect as manual mainframe entry is a step backward, not a control challenge of digital transformation. Option D is incorrect because the new law explicitly embraces cloud hosting. **Exam Takeaway: Transitioning to digital-first legal frameworks requires robust technological controls to prove data integrity and custody in court.**",
     "type": "news"
   },
   {
-    "question": "Public Sector Banks (PSBs) in India are targeting nearly $30 billion under the RBI's concessional foreign exchange swap window. From a treasury and balance sheet perspective, what is the primary structural risk these banks must manage when utilizing this window?",
+    "question": "The India-UK Comprehensive Economic and Trade Agreement (CETA) has taken effect, resulting in zero-duty Indian coffee and jewellery consignments reaching the UK. For an Indian jewellery exporter, how does this tariff elimination impact their strategic positioning and financial metrics?",
     "options": [
-      "Credit risk of the central bank defaulting on the swap contract",
-      "Currency mismatch and forward premium volatility if the foreign currency liabilities are not appropriately matched with high-yielding domestic assets",
-      "An immediate drop in the bank's Common Equity Tier 1 (CET1) capital ratio due to asset expansion",
-      "A complete loss of domestic deposit franchise as customers migrate to foreign banks"
+      "It decreases their operating leverage by converting fixed manufacturing overheads into variable import duties.",
+      "It lowers the landed cost of their products in the UK, allowing them to either improve gross margins or pass savings to customers to gain market share.",
+      "It forces them to adopt a focus-differentiation strategy because cost leadership is no longer viable under zero-tariff regimes.",
+      "It shifts their revenue recognition timing from the point of shipment (FOB) to the point of retail sale."
     ],
     "answerIndex": 1,
-    "explanation": "When PSBs tap the RBI's foreign exchange swap window, they exchange foreign currency for domestic currency (or vice versa) with an agreement to reverse the transaction later. The primary risk is currency mismatch and the cost of hedging. If the bank cannot deploy the swapped rupee liquidity into high-yielding, high-quality domestic assets that exceed the swap cost (forward premium/concessional rate), they face net interest margin compression. Central bank default is negligible, CET1 is not directly depleted by liquid swaps, and domestic deposit franchises are unaffected. Exam Takeaway: FX swap windows provide liquidity but require precise asset-liability matching to mitigate currency and interest rate mismatch risks.",
+    "explanation": "Eliminating import tariffs directly reduces the landed cost of goods in the destination market. This gives exporters a strategic choice: maintain their retail price point to capture higher gross margins, or reduce prices to boost sales volume and market share. Option A is incorrect because tariffs are variable costs, not fixed overheads. Option C is incorrect because lower tariffs actually make cost leadership easier to execute. Option D is incorrect because tariff changes do not dictate accounting rules for revenue recognition under IFRS/Ind AS. **Exam Takeaway: Trade agreements with tariff eliminations enhance international competitiveness by lowering landed costs, expanding strategic pricing flexibility.**",
     "type": "news"
   },
   {
-    "question": "As Dixon Technologies prepares to close its joint venture with Vivo within two months, what is the primary strategic driver for Indian Electronics Manufacturing Services (EMS) companies entering into joint ventures with established global smartphone brands?",
+    "question": "Under the US visa rule changes, employers with 50 or more employees in the US must bear substantial fee hikes (\u20b93.7 lakh for H-1B, \u20b94.2 lakh for L-1 extensions) if over 50% of their workforce is on nonimmigrant status. For a major Indian IT services exporter, which strategic and operational response is most appropriate to mitigate this margin pressure?",
     "options": [
-      "To completely bypass local regulatory compliance and tax audits in India",
-      "To transition from low-margin contract manufacturing to high-margin global brand ownership",
-      "To secure guaranteed volume commitments, localize supply chains, and leverage the partner's proprietary design and technical capabilities",
-      "To eliminate the need for working capital management and capital expenditures"
+      "Accelerating local US hiring and expanding nearshore delivery centers in regions like Canada or Latin America.",
+      "Increasing the proportion of onsite junior developers relative to offshore teams to spread the fixed visa costs.",
+      "Shifting all client-facing project management roles to offshore centers in India to eliminate US visa requirements entirely.",
+      "Capitalizing the visa fees as intangible assets on the balance sheet to avoid impacting the operating margin."
+    ],
+    "answerIndex": 0,
+    "explanation": "The steep fee hikes target the classic 'offshore-onsite' model of Indian IT firms where a large portion of the US workforce is on H-1B/L-1 visas. To mitigate this, firms must reduce their reliance on these visas by hiring locally in the US and utilizing nearshore centers (e.g., Canada or Mexico), which offer geographic proximity without the same visa constraints. Option B is incorrect because bringing more visa-dependent junior staff onsite would escalate costs. Option C is incorrect because client-facing roles generally require physical proximity to build trust and manage projects. Option D is incorrect because visa fees are operational expenses and cannot be capitalized. **Exam Takeaway: Regulatory cost hikes on foreign labor force firms to localize talent acquisition and reconfigure global delivery networks.**",
+    "type": "news"
+  },
+  {
+    "question": "The Reserve Bank of India (RBI) has introduced new rules governing loan recovery, including guidelines on recovery calls, agent visits, and remote phone locks. From a risk management and consumer protection standpoint, what is the primary structural objective of these regulations?",
+    "options": [
+      "To encourage digital lenders to completely bypass third-party agents and rely solely on automated legal filings.",
+      "To standardize the interest rate caps across all microfinance and digital lending platforms in India.",
+      "To curb coercive collection practices and protect borrower privacy, thereby mitigating reputational and conduct risk in the financial system.",
+      "To mandate that all recovery calls be routed through public sector telecom providers to ensure transparency."
     ],
     "answerIndex": 2,
-    "explanation": "For Indian EMS companies like Dixon, joint ventures with global smartphone giants (like Vivo) help secure large, predictable production volumes, facilitate technology transfer, and build local supply chain ecosystems. JVs do not bypass local regulations or taxes, nor do they instantly transition the contract manufacturer into a global brand owner. Working capital and capital expenditures remain substantial operational requirements. Exam Takeaway: Joint ventures in the EMS sector are strategic vehicles to secure volume predictability, technical know-how, and domestic supply chain integration.",
+    "explanation": "The RBI's regulations on recovery agents and methods target the harsh, invasive tactics used by some lenders (especially digital apps). By establishing boundaries on calls, visits, and digital locks, the RBI aims to protect consumer rights and privacy, which directly mitigates conduct and reputational risks for the financial sector. Option A is incorrect because the RBI does not ban third-party agents outright. Option B is incorrect because these rules focus on recovery conduct, not pricing caps. Option D is incorrect because the routing of calls is not restricted to public sector telecom providers. **Exam Takeaway: Consumer protection guidelines on debt recovery protect the stability and reputation of the financial system by minimizing conduct risk.**",
     "type": "news"
   },
   {
-    "question": "A financial analyst is evaluating two AI-related stocks that have recently declined by 50% from their peaks. To determine whether these companies are classic 'value traps' or genuine 'hidden bargains', which of the following analytical approaches is most effective under the Resource-Based View (RBV) of strategic management?",
+    "question": "Delhi International Airport (DIAL) plans to issue Rs 3,550 crore in 15-year bonds to refinance existing dollar-denominated debt. Given that the expected coupon rate is near 9%, what is the primary corporate finance rationale and risk trade-off for executing this refinancing strategy?",
     "options": [
-      "Assessing if their current low Price-to-Earnings (P/E) ratios are below their historical 5-year averages.",
-      "Evaluating whether the decline was driven by temporary macroeconomic headwinds or a fundamental erosion of proprietary data assets and switching costs.",
-      "Calculating the current ratio to ensure they have sufficient short-term assets to cover immediate liabilities.",
-      "Comparing their current EV/EBITDA multiples directly with those of industry leaders that are still trading at peak valuations."
+      "It eliminates currency risk and extends maturity, but likely increases the immediate nominal interest expense if the dollar debt had a lower coupon rate.",
+      "It reduces the nominal interest expense by taking advantage of lower domestic interest rates compared to the US, but introduces refinancing risk.",
+      "It qualifies the company for sovereign tax exemptions on infrastructure bonds, but increases the overall debt-to-equity ratio.",
+      "It improves the company's interest coverage ratio immediately, but subjects the firm to strict domestic capital control restrictions."
+    ],
+    "answerIndex": 0,
+    "explanation": "By replacing US dollar-denominated debt with rupee-denominated bonds, DIAL completely eliminates the foreign exchange risk associated with servicing dollar debt from rupee-dominated airport revenues. Additionally, issuing 15-year bonds secures long-term funding and extends maturity. However, because US dollar interest rates are historically lower than Indian rupee rates, transitioning to a domestic coupon near 9% likely increases the nominal interest expense in the short term. This is a classic risk management trade-off: paying a higher nominal interest rate to eliminate structural currency risk. The other options are incorrect because domestic rates are not lower than US rates, it does not alter the debt-to-equity ratio since it is a refinancing of existing debt, and a higher coupon rate does not improve the interest coverage ratio. This tests the concept of currency risk hedging and debt refinancing dynamics. Exam Takeaway: Refinancing foreign debt with domestic debt eliminates currency risk at the expense of paying a higher nominal interest rate.",
+    "type": "news"
+  },
+  {
+    "question": "According to a report, data centers and nuclear power are driving Rs 26.75 trillion in investment plans. From a strategic capital budgeting perspective, which of the following represents the most critical risk profile characteristic common to both of these infrastructure sectors?",
+    "options": [
+      "Extremely short payback periods coupled with high sensitivity to consumer discretionary spending.",
+      "High upfront capital intensity, long gestation periods, and high sensitivity to the weighted average cost of capital (WACC).",
+      "Low operating leverage due to the highly variable nature of fuel and technology licensing costs.",
+      "High liquidity of assets allowing for easy disinvestment and capital reallocation in economic downturns."
     ],
     "answerIndex": 1,
-    "explanation": "To distinguish a value trap from a bargain, an analyst must look beyond simple valuation multiples. Under the Resource-Based View (RBV), a company's competitive advantage stems from resources that are valuable, rare, inimitable, and non-substitutable (VRIN). If the 50% drop is due to temporary macro factors while the firm retains its VRIN resources (such as proprietary data pipelines, high customer switching costs, or unique algorithms), it is likely a bargain. If the drop is due to structural erosion of these assets, it is a value trap. Simple historical P/E or peer EV/EBITDA comparisons fail to capture this strategic health. Exam Takeaway: A value trap is identified by assessing structural erosion of competitive advantages rather than relying solely on low valuation multiples.",
+    "explanation": "Both data centers and nuclear power plants are highly capital-intensive projects that require massive upfront capital expenditures (CapEx) and experience long gestation periods before generating cash flows. Because of the prolonged timeline and high initial investment, their Net Present Value (NPV) is extremely sensitive to the discount rate or the Weighted Average Cost of Capital (WACC). A minor increase in WACC can render these projects unviable. The other options are incorrect because these sectors have very long (not short) payback periods, high (not low) operating leverage due to fixed costs, and highly illiquid, specialized physical assets that cannot be easily liquidated. This tests capital budgeting and infrastructure risk management. Exam Takeaway: Mega-infrastructure projects are highly sensitive to WACC fluctuations due to their high upfront capital intensity and long gestation periods.",
     "type": "news"
   },
   {
-    "question": "The ongoing conflict in West Asia has forced India to redraw its trade map, with Oman emerging as a critical import partner and Singapore becoming its third-largest export destination. From a global supply chain and risk management perspective, what is the primary strategic trade-off of this geographic diversification?",
+    "question": "A financial analyst observes that Jefferies projects FCNR-B (Foreign Currency Non-Resident - Banks) deposits to potentially rise, alongside an 18% credit growth rate that could shield the Indian economy. From a bank balance sheet and monetary perspective, how do FCNR-B deposits impact a commercial bank's liquidity and risk profile?",
     "options": [
-      "It completely eliminates geopolitical risk by distributing trade evenly across multiple sovereign entities.",
-      "It minimizes transaction costs through standardizing bilateral trade agreements across all new partners.",
-      "It reduces reliance on volatile transit chokepoints but increases operational complexity and tariff coordination costs across fragmented jurisdictions.",
-      "It guarantees lower shipping insurance premiums due to the utilization of longer, alternative maritime routes."
+      "They increase domestic rupee liquidity directly without any foreign exchange risk to the depositor or the bank.",
+      "They provide foreign currency funding that eliminates the bank's liability-side currency risk, as the depositors bear all exchange rate fluctuations.",
+      "They bolster the bank's foreign currency resources, but require the bank to manage the mismatch between foreign currency liabilities and domestic rupee assets if funds are swapped.",
+      "They are exempt from the Reserve Bank of India's Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) requirements under all circumstances."
     ],
     "answerIndex": 2,
-    "explanation": "Geographic diversification of trade routes, such as shifting trade toward Oman, Tanzania, and Singapore, is a strategic response to mitigate risks associated with volatile transit zones like the Red Sea. However, the trade-off is that managing trade across more diverse, fragmented jurisdictions increases operational complexity, compliance burdens, and tariff coordination costs. It does not completely eliminate geopolitical risk, nor does it guarantee lower insurance premiums (longer routes often increase fuel and insurance costs). Exam Takeaway: Supply chain diversification mitigates localized geopolitical bottlenecks but introduces higher operational and regulatory complexity.",
+    "explanation": "FCNR-B deposits are foreign currency-denominated deposits held by non-resident Indians in Indian banks. While they bolster the banking system's foreign currency reserves, they introduce currency and asset-liability mismatch (ALM) risks. If banks swap these foreign currencies into rupees to fund domestic credit growth (such as the projected 18% credit growth), they must hedge the exchange rate risk to avoid losses when the deposits mature. The other options are incorrect because depositors do not bear the risk (the bank guarantees the foreign currency return), they do not directly increase rupee liquidity without exchange risk, and they are subject to RBI's regulatory reserve requirements. This tests commercial banking, liquidity risk, and ALM. Exam Takeaway: FCNR-B deposits provide valuable foreign currency funding but require active hedging to manage asset-liability currency mismatches.",
     "type": "news"
   },
   {
-    "question": "Several Indian shipyards are currently sitting on a collective pipeline of Rs 2.5 lakh crore and an active order book of Rs 31,800 crore. If you are conducting a credit risk analysis of these shipyards, which of the following operational metrics is most critical to evaluate their ability to service debt?",
+    "question": "A financial analyst is comparing two companies in the same industry. Company A has a Net Profit Margin of 15% and an Asset Turnover of 1.2, while Company B has a Net Profit Margin of 10% and an Asset Turnover of 1.8. Assuming both companies have the same Equity Multiplier, which company has a higher Return on Equity (ROE)?",
     "options": [
-      "The historical growth rate of the order book over the last ten years.",
-      "The ratio of book-to-bill and the historical average cash conversion cycle (CCC) of their projects.",
-      "The total headcount of engineering graduates employed relative to administrative staff.",
-      "The percentage of revenue allocated to marketing and international brand-building activities."
-    ],
-    "answerIndex": 1,
-    "explanation": "For capital-intensive industries like shipbuilding with long gestation periods, a massive order book (high book-to-bill ratio) does not guarantee liquid cash flow. Credit analysts must focus on the cash conversion cycle (CCC)\u2014specifically how long it takes to turn raw materials into cash inflows from milestone payments. A long or delayed CCC can lead to severe working capital crunches, making it difficult to service short-term debt despite a robust pipeline. Historical growth rates do not reflect current liquidity, and headcount or marketing spend are secondary metrics. Exam Takeaway: In heavy engineering, cash flow timing and cash conversion cycles are more critical for debt servicing than the nominal size of the order book.",
-    "type": "news"
-  },
-  {
-    "question": "A major Indian technology services firm is experiencing public criticism regarding a 'leadership vacuum' and strategic stagnation. From a corporate governance and agency theory perspective, which of the following measures is most appropriate to align executive incentives with long-term shareholder wealth creation during a leadership transition?",
-    "options": [
-      "Increasing the proportion of fixed cash salary relative to variable performance bonuses for the incoming CEO.",
-      "Implementing clawback provisions and performance-vested stock options (RSUs) tied to multi-year Return on Invested Capital (ROIC) targets.",
-      "Restricting the board of directors from appointing any independent directors to ensure quick decision-making.",
-      "Ensuring that the incoming CEO receives guaranteed golden parachute payments regardless of performance metrics."
-    ],
-    "answerIndex": 1,
-    "explanation": "Agency theory suggests that executives may prioritize short-term gains or personal security over long-term shareholder value. To align incentives during a leadership transition, boards should use performance-vested restricted stock units (RSUs) tied to robust metrics like Return on Invested Capital (ROIC), alongside clawback provisions for financial misstatements. Increasing fixed cash salaries or guaranteeing golden parachutes exacerbates agency problems, while eliminating independent directors weakens corporate governance oversight. Exam Takeaway: Executive incentive alignment is best achieved through performance-vested equity compensation tied to long-term capital efficiency metrics.",
-    "type": "news"
-  },
-  {
-    "question": "As Indian banks aggressively beef up their technology systems to combat rising cybercrime and digital fraud, how should these capital expenditures (CapEx) and subsequent operational expenditures (OpEx) be reflected in their financial statements under Indian Accounting Standards (Ind AS)?",
-    "options": [
-      "All cybersecurity outlays must be fully expensed in the year they are incurred to maintain conservative accounting practices.",
-      "Hardware and proprietary software licenses are capitalized as tangible/intangible assets and depreciated/amortized, while routine system maintenance and cloud subscription fees are expensed as incurred.",
-      "The entire technology spend must be capitalized as Goodwill on the balance sheet and tested annually for impairment.",
-      "Cybersecurity investments are treated as deferred revenue expenditures and amortized over a fixed period of 20 years."
-    ],
-    "answerIndex": 1,
-    "explanation": "Under Ind AS, capital expenditures that provide enduring economic benefits\u2014such as physical servers (tangible assets) or acquired proprietary software licenses (intangible assets)\u2014must be capitalized on the balance sheet and systematically depreciated or amortized over their useful lives. Conversely, ongoing operational expenses like cloud subscription SaaS fees, routine software patches, and security monitoring personnel costs must be expensed immediately in the profit and loss statement. Capitalizing everything as Goodwill or using arbitrary 20-year amortization periods violates accounting standards. Exam Takeaway: Technology investments must be bifurcated into capitalized assets and immediate operating expenses based on the nature of the economic benefit.",
-    "type": "news"
-  },
-  {
-    "question": "An analyst is building a financial model in Excel and wants to calculate the present value of a series of unequal cash flows occurring at regular annual intervals. Which Excel function is most appropriate for this task?",
-    "options": [
-      "PV",
-      "NPV",
-      "XNPV",
-      "PMT"
-    ],
-    "answerIndex": 1,
-    "explanation": "The NPV function in Excel is designed to calculate the net present value of a series of periodic, unequal cash flows. The PV function is only suitable for constant, equal payments (an annuity). XNPV would be used if the cash flows occurred at irregular calendar dates rather than regular annual intervals, and PMT calculates the payment for a loan based on constant payments and a constant interest rate. Exam Takeaway: Use NPV for unequal cash flows at regular intervals, and XNPV when specific calendar dates are involved.",
-    "type": "apti"
-  },
-  {
-    "question": "If a company's Days Sales Outstanding (DSO) increases significantly from 30 days to 65 days, while its industry peers remain at an average of 35 days, what is the most immediate operational concern for a financial analyst?",
-    "options": [
-      "The company's inventory is becoming obsolete.",
-      "The company is facing deteriorating credit collection efficiency and potential cash flow strain.",
-      "The company's cost of goods sold is rising rapidly.",
-      "The company is experiencing a sudden surge in customer demand."
-    ],
-    "answerIndex": 1,
-    "explanation": "Days Sales Outstanding (DSO) measures the average number of days it takes a company to collect payment after a sale has been made. A sharp increase in DSO indicates that the company is taking much longer to collect its receivables, which ties up cash in working capital and can lead to liquidity issues. It does not directly relate to inventory obsolescence or cost of goods sold. Exam Takeaway: A rising DSO signals deteriorating collection efficiency and potential working capital bottlenecks.",
-    "type": "apti"
-  },
-  {
-    "question": "A retail bank is evaluating its compliance with the Reserve Bank of India's (RBI) Marginal Cost of Funds Based Lending Rate (MCLR) framework. If the RBI decides to lower the policy Repo Rate, how does this directly affect a bank's newly priced loans under the MCLR system?",
-    "options": [
-      "The bank must immediately increase its fixed deposit rates to offset the repo cut.",
-      "The bank's marginal cost of funds will likely decrease, leading to a downward revision of its MCLR and cheaper new loans.",
-      "The bank will automatically shift all existing long-term home loans to the savings deposit rate.",
-      "The RBI will directly set the exact lending rate for each individual customer of the bank."
-    ],
-    "answerIndex": 1,
-    "explanation": "Under the RBI's MCLR framework, lending rates are linked to the bank's marginal cost of funds, which is highly sensitive to policy rate changes like the Repo Rate. When the RBI cuts the Repo Rate, the cost of borrowing for banks from the RBI decreases, which lowers their marginal cost of funds and allows them to reduce their MCLR, making new floating-rate loans cheaper. Exam Takeaway: Changes in the RBI Repo Rate transmit to the economy by directly influencing a bank's marginal cost of funds and subsequent MCLR pricing.",
-    "type": "apti"
-  },
-  {
-    "question": "Which of the following describes the correct accounting treatment and financial statement impact when a company purchases a piece of manufacturing machinery using cash?",
-    "options": [
-      "Total assets increase, and net income decreases immediately.",
-      "Total assets remain unchanged, and cash flow from investing activities decreases.",
-      "Total liabilities increase, and cash flow from operating activities decreases.",
-      "Shareholders' equity decreases, and cash flow from financing activities decreases."
-    ],
-    "answerIndex": 1,
-    "explanation": "Buying machinery with cash is an asset swap: Cash (an asset) decreases, and Property, Plant, and Equipment (an asset) increases by the exact same amount, leaving total assets unchanged on the balance sheet. The cash outflow is classified under Cash Flow from Investing Activities. Net income is only impacted later through gradual depreciation, not at the moment of purchase. Exam Takeaway: Capital expenditures represent an asset swap on the balance sheet and are reflected as outflows in investing activities.",
-    "type": "apti"
-  },
-  {
-    "question": "In corporate valuation, how is the Terminal Value typically calculated in a multi-stage Discounted Cash Flow (DCF) model?",
-    "options": [
-      "By summing all the projected free cash flows of the explicit forecast period.",
-      "By multiplying the first year's revenue by the industry average price-to-sales ratio.",
-      "By using either the Gordon Growth Method (perpetual growth) or the Exit Multiple Method.",
-      "By subtracting the company's net debt from its enterprise value."
+      "Company A, because its net profit margin is 50% higher than Company B's.",
+      "Company B, because its higher asset turnover more than compensates for its lower profit margin.",
+      "Both companies have the exact same Return on Equity.",
+      "It is impossible to determine without knowing the exact value of the Equity Multiplier."
     ],
     "answerIndex": 2,
-    "explanation": "Terminal Value represents the value of a business beyond the explicit forecast period (usually 5-10 years). It is standard industry practice to calculate it using either the Gordon Growth Method (which assumes the business will grow at a constant rate forever) or the Exit Multiple Method (which applies an industry-standard multiple like EV/EBITDA to the terminal year's financial metric). Exam Takeaway: Terminal Value captures the remaining value of a business in perpetuity and relies on either stable growth assumptions or exit multiples.",
+    "explanation": "According to the DuPont Analysis framework, Return on Equity (ROE) is calculated as Net Profit Margin multiplied by Asset Turnover multiplied by the Equity Multiplier. For Company A, the product of margin and turnover is 15% * 1.2 = 18%. For Company B, the product is 10% * 1.8 = 18%. Since their Equity Multipliers are identical, both companies will yield the exact same ROE of 18% multiplied by the leverage factor. Exam Takeaway: DuPont analysis helps break down ROE into operational efficiency, asset efficiency, and financial leverage to see what drives profitability.",
     "type": "apti"
   },
   {
-    "question": "Under the Securities and Exchange Board of India (SEBI) Prohibition of Insider Trading regulations, which of the following scenarios would most clearly constitute a violation?",
+    "question": "In Microsoft Excel, if you are using the VLOOKUP function to find an exact match, what value should you input for the 'range_lookup' argument, and what happens if the lookup value is not found?",
     "options": [
-      "A retail investor buys shares of a company after reading a positive recommendation in a widely circulated national business newspaper.",
-      "A company's Chief Financial Officer shares unpublished, price-sensitive quarterly earnings data with a relative who then purchases the company's stock before the public announcement.",
-      "An institutional fund manager sells a stock after the company publishes its annual report showing a decline in profits.",
-      "A research analyst upgrades a stock from 'Hold' to 'Buy' based on their own proprietary financial modeling of public data."
+      "Input TRUE or 1; Excel will return the closest match smaller than the lookup value.",
+      "Input FALSE or 0; Excel will return an #N/A error.",
+      "Input TRUE or 1; Excel will return a #VALUE! error.",
+      "Input FALSE or 0; Excel will return a blank cell."
     ],
     "answerIndex": 1,
-    "explanation": "SEBI's insider trading regulations strictly prohibit any person who has access to Unpublished Price Sensitive Information (UPSI) from trading in those securities or communicating such information to others who might trade. The CFO sharing unreleased earnings data with a relative who trades on it is a classic violation. The other scenarios involve public information or independent analysis, which are perfectly legal. Exam Takeaway: SEBI strictly penalizes the sharing or trading on Unpublished Price Sensitive Information (UPSI) to maintain market integrity.",
+    "explanation": "To perform an exact match in VLOOKUP, the fourth argument (range_lookup) must be set to FALSE or 0. If Excel cannot find an exact match for the lookup value in the first column of the table array, it returns the #N/A (Not Available) error. Using TRUE or 1 is for approximate matches and requires the lookup column to be sorted in ascending order. Exam Takeaway: Always use FALSE or 0 for exact matches in VLOOKUP to prevent incorrect data retrieval when an exact match is missing.",
     "type": "apti"
   },
   {
-    "question": "In Microsoft Excel, what is the key difference between the formulas '=ROUND(A1, 2)' and changing the cell formatting of A1 to display only two decimal places?",
+    "question": "An analyst wants to project the future terminal value of a firm using the Gordon Growth Model. If the projected Free Cash Flow to the Firm (FCFF) for the first terminal year is $10 million, the Weighted Average Cost of Capital (WACC) is 10%, and the expected perpetual growth rate is 3%, what is the estimated Terminal Value?",
     "options": [
-      "There is no difference; both alter the actual underlying value stored in Excel's memory.",
-      "The ROUND formula actually changes the underlying numerical value stored in the cell, whereas cell formatting only changes how the number is visually displayed.",
-      "Cell formatting changes the underlying value, while the ROUND formula only changes the visual appearance.",
-      "The ROUND formula can only be used on text strings, while formatting is used for numbers."
+      "$100.0 million",
+      "$142.8 million",
+      "$333.3 million",
+      "$103.0 million"
     ],
     "answerIndex": 1,
-    "explanation": "Cell formatting (such as showing only two decimal places) is purely cosmetic; the underlying cell value remains unrounded in Excel's memory and is used in subsequent calculations. The ROUND formula actually alters the precision of the number in Excel's memory to the specified decimal places, which prevents rounding discrepancies in large financial models. Exam Takeaway: Use the ROUND function when you want to change the actual value for calculations, and cell formatting when you only want to change the visual presentation.",
+    "explanation": "The Gordon Growth Model formula for Terminal Value is TV = FCFF_t1 / (WACC - g). Substituting the given values: TV = $10 million / (0.10 - 0.03) = $10 million / 0.07 = $142.86 million. Option B is the closest approximation. Exam Takeaway: Terminal value represents the present value of all cash flows beyond the explicit forecast period and is highly sensitive to changes in the discount and growth rates.",
     "type": "apti"
   },
   {
-    "question": "Which of the following is the most accurate definition of the Debt-Service Coverage Ratio (DSCR), and how is it used by commercial lenders?",
+    "question": "Which of the following transaction types would lead to an increase in a company's Cash Flow from Operations (CFO) under the indirect method, assuming all other factors remain constant?",
     "options": [
-      "It measures a company's total assets relative to its total liabilities to assess long-term solvency.",
-      "It measures the cash flow available to pay current debt obligations and is used to assess the borrower's ability to service its debt.",
-      "It compares a company's stock price to its earnings per share to determine if the stock is undervalued.",
-      "It measures the speed at which a company can convert its inventory into cash."
+      "An increase in Accounts Receivable during the fiscal year.",
+      "An increase in Accounts Payable during the fiscal year.",
+      "A decrease in Accrued Liabilities during the fiscal year.",
+      "An increase in Inventory levels during the fiscal year."
     ],
     "answerIndex": 1,
-    "explanation": "The Debt-Service Coverage Ratio (DSCR) is calculated as Net Operating Income divided by Total Debt Service (interest and principal payments). Lenders use it to determine if a borrowing company generates enough operating cash flow to comfortably cover its debt obligations. A ratio of less than 1.0x indicates that the company has insufficient cash flow to pay its debts without drawing on other resources. Exam Takeaway: Lenders rely on DSCR to evaluate a borrower's immediate ability to repay loans using operational cash flow.",
+    "explanation": "Under the indirect method, we start with Net Income and adjust for non-cash items and changes in working capital. An increase in Accounts Payable means the company has delayed cash payments to its suppliers, thereby preserving cash. This increase is added back to Net Income, increasing Cash Flow from Operations. Conversely, increases in receivables or inventory, or decreases in payables/liabilities, represent cash outflows. Exam Takeaway: Delaying payments to suppliers (increasing Accounts Payable) acts as a short-term source of cash, boosting operating cash flow.",
     "type": "apti"
   },
   {
-    "question": "When a country's central bank, such as the Reserve Bank of India (RBI), decides to increase the Repo Rate, what is the typical macroeconomic objective?",
+    "question": "Under the Reserve Bank of India's (RBI) prompt corrective action (PCA) framework, which of the following key financial metrics is NOT used as a primary risk threshold trigger for commercial banks?",
     "options": [
-      "To encourage commercial banks to lend more aggressively to risky sectors.",
-      "To curb inflationary pressures by making borrowing more expensive and slowing down aggregate demand.",
-      "To deliberately devalue the domestic currency against the US Dollar.",
-      "To reduce the government's cost of borrowing in the bond market."
+      "Capital to Risk-Weighted Assets Ratio (CRAR)",
+      "Net Non-Performing Assets (Net NPA) Ratio",
+      "Leverage Ratio",
+      "Credit-to-Deposit (CD) Ratio"
     ],
-    "answerIndex": 1,
-    "explanation": "The Repo Rate is the rate at which the central bank lends money to commercial banks. Increasing the Repo Rate makes borrowing more expensive for banks, which pass this cost on to consumers and businesses. This dampens spending and investment, helping to cool down an overheating economy and curb inflation. Exam Takeaway: Raising the policy repo rate is a contractionary monetary tool used primarily to combat inflation.",
+    "answerIndex": 3,
+    "explanation": "The RBI's Prompt Corrective Action (PCA) framework monitors banks based on three key areas/metrics: Capital (CRAR and Common Equity Tier 1 ratio), Asset Quality (Net NPA ratio), and Leverage (Leverage Ratio). The Credit-to-Deposit (CD) ratio, while an important liquidity and credit metric, is not one of the official PCA trigger pillars. Exam Takeaway: The PCA framework acts as an early intervention tool for RBI, focusing strictly on capital adequacy, asset quality, and leverage thresholds.",
     "type": "apti"
   },
   {
-    "question": "In a corporate balance sheet, what does the 'Goodwill' asset item represent?",
+    "question": "A manufacturing firm is deciding whether to buy a machine for $100,000 that will generate $30,000 in cash inflows annually for 5 years. If the firm's required hurdle rate is 12%, which of the following statements is true regarding the project's NPV and IRR?",
     "options": [
-      "The estimated monetary value of a company's brand reputation among its retail customers.",
-      "The premium paid by an acquiring company over the fair value of the net identifiable assets of an acquired business.",
-      "The total value of a company's intellectual property, patents, and trademarks developed internally.",
-      "The cash reserves set aside specifically for corporate social responsibility (CSR) activities."
+      "The NPV is negative, and the IRR is less than 12%.",
+      "The NPV is positive, and the IRR is greater than 12%.",
+      "The NPV is positive, but the IRR is less than 12%.",
+      "The NPV is negative, but the IRR is greater than 12%."
     ],
     "answerIndex": 1,
-    "explanation": "Goodwill is an intangible asset that is created on the balance sheet only when one company acquires another. It represents the excess of the purchase price over the fair market value of the net identifiable assets acquired (such as physical assets, patents, and customer lists). Internally generated brand value or reputation cannot be recorded as goodwill. Exam Takeaway: Goodwill is an acquisition-specific intangible asset representing the premium paid over net identifiable assets.",
+    "explanation": "At a 12% discount rate, the present value of an annuity of $30,000 for 5 years is calculated as $30,000 * 3.6048 (PV annuity factor) = $108,144. Subtracting the initial investment of $100,000 yields a positive NPV of $8,144. Because the NPV is positive at a 12% discount rate, the Internal Rate of Return (IRR) must be greater than 12%. Exam Takeaway: A project is financially viable and adds value to the firm whenever its NPV is positive and its IRR exceeds the hurdle rate.",
     "type": "apti"
   },
   {
-    "question": "If a company has a negative Free Cash Flow to Equity (FCFE) but a positive Net Income, which of the following is the most likely explanation?",
+    "question": "To protect retail investors from extreme market volatility, the Securities and Exchange Board of India (SEBI) mandates circuit breakers for stock indices. What happens when the 10% market-wide circuit limit is triggered in the Indian stock market before 1:00 PM?",
     "options": [
-      "The company has paid out a massive dividend to its equity shareholders.",
-      "The company has high capital expenditures and significant increases in working capital that exceeded its net income and non-cash charges.",
-      "The company has stopped depreciating its physical assets.",
-      "The company has issued a large amount of new equity shares during the year."
+      "Trading in both equity and equity derivatives markets is halted for 45 minutes.",
+      "Trading is halted for the entire remainder of the day.",
+      "Only the cash market is halted for 15 minutes, while derivatives continue trading.",
+      "Trading is halted for 1 hour, followed by a 15-minute pre-open session."
     ],
-    "answerIndex": 1,
-    "explanation": "FCFE is calculated by taking Net Income, adding back non-cash charges (like depreciation), subtracting capital expenditures (CapEx), subtracting changes in working capital, and adding net borrowing. If a company is investing heavily in growth (high CapEx) or has cash tied up in inventory and receivables (working capital increase), these cash outflows can easily exceed Net Income, resulting in negative FCFE. Exam Takeaway: High growth investments (CapEx and working capital) can make a highly profitable company cash-flow negative.",
+    "answerIndex": 0,
+    "explanation": "According to SEBI regulations, if the market-wide circuit breaker (based on the Nifty 50 or BSE Sensex) is triggered at 10% before 1:00 PM, there is a market-wide trading halt of 45 minutes in both equity and equity derivatives markets, followed by a 15-minute pre-open session. Exam Takeaway: SEBI uses coordinated, time-based cooling-off periods across all equity segments to prevent panic selling and allow price discovery during major market shocks.",
     "type": "apti"
   },
   {
-    "question": "Under SEBI guidelines, what is the primary structural difference between an Initial Public Offering (IPO) and a Follow-on Public Offer (FPO)?",
+    "question": "What does a low Current Ratio paired with a very high Quick Ratio typically indicate about a company's working capital structure?",
     "options": [
-      "An IPO is for debt instruments, whereas an FPO is exclusively for equity shares.",
-      "An IPO is the first time a company offers its shares to the public to become listed, while an FPO is an issuance of shares by an already listed company.",
-      "An IPO does not require a prospectus, whereas an FPO requires a draft red herring prospectus.",
-      "An IPO is open only to foreign institutional investors, while an FPO is open only to retail investors."
+      "The company holds a massive amount of inventory relative to its current liabilities.",
+      "The company has virtually no cash or receivables.",
+      "This scenario is mathematically impossible because the Quick Ratio is always less than or equal to the Current Ratio.",
+      "The company has a high collection period for its accounts receivable."
     ],
-    "answerIndex": 1,
-    "explanation": "An Initial Public Offering (IPO) is the landmark event where an unlisted company issues shares to the public for the first time to list on the stock exchanges. A Follow-on Public Offer (FPO) is when an already listed company goes back to the public market to raise additional equity capital. Both require strict regulatory filings with SEBI. Exam Takeaway: IPOs mark a company's transition from private to public, whereas FPOs are subsequent capital raises by already listed firms.",
+    "answerIndex": 2,
+    "explanation": "The Current Ratio is calculated as Current Assets / Current Liabilities. The Quick Ratio is calculated as (Current Assets - Inventory) / Current Liabilities. Because inventory is subtracted from current assets to calculate the quick assets, the Quick Ratio can never be greater than the Current Ratio. Therefore, a low Current Ratio paired with a very high Quick Ratio is mathematically impossible. Exam Takeaway: Always verify the mathematical relationships of financial ratios; quick assets are a subset of current assets, making the quick ratio inherently smaller than or equal to the current ratio.",
     "type": "apti"
   },
   {
-    "question": "Which of the following Excel keyboard shortcuts is used to toggle between absolute, relative, and mixed cell referencing (adding or removing the '$' sign) when writing a formula?",
+    "question": "In financial modeling, if you want to find the exact interest payment portion of a specific loan payment period (e.g., month 12 of a 5-year loan), which Excel function should you use?",
     "options": [
-      "F2",
-      "F4",
-      "F9",
-      "Ctrl + Shift + L"
+      "PMT",
+      "PPMT",
+      "IPMT",
+      "RATE"
     ],
-    "answerIndex": 1,
-    "explanation": "In Excel, pressing the F4 key while editing a cell reference in a formula cycles through the different referencing modes: absolute ($A$1), mixed row ($A1), mixed column (A$1), and relative (A1). F2 is used to edit a cell, F9 recalculates the workbook, and Ctrl + Shift + L toggles filters. Exam Takeaway: The F4 key is the standard shortcut to quickly lock and unlock cell references in financial models.",
+    "answerIndex": 2,
+    "explanation": "The IPMT function in Excel calculates the interest payment for a given period of an investment or loan based on periodic, constant payments and a constant interest rate. PMT calculates the total periodic payment, PPMT calculates the principal payment portion, and RATE calculates the interest rate per period. Exam Takeaway: Use IPMT to isolate the interest expense portion of debt service for specific periods when building detailed debt schedules.",
     "type": "apti"
   },
   {
-    "question": "What does a high Inventory Turnover Ratio relative to the industry average typically suggest about a company's operations?",
+    "question": "Under the indirect method of preparing a Cash Flow Statement, how is a gain on the sale of land treated, and what is the reason for this treatment?",
     "options": [
-      "The company is holding too much obsolete inventory that it cannot sell.",
-      "The company has strong sales or highly efficient inventory management practices.",
-      "The company is using a LIFO accounting method to artificially inflate its profits.",
-      "The company has a very long cash conversion cycle."
+      "It is added to Net Income in Operating Activities because it represents a cash inflow.",
+      "It is subtracted from Net Income in Operating Activities because the entire cash proceeds from the sale are classified under Investing Activities.",
+      "It is ignored in Operating Activities because land is a non-current asset.",
+      "It is subtracted from Net Income in Operating Activities because it is a non-cash transaction."
     ],
     "answerIndex": 1,
-    "explanation": "Inventory Turnover Ratio is calculated as Cost of Goods Sold (COGS) divided by Average Inventory. A higher ratio indicates that inventory is sold and replaced quickly, which is generally a sign of strong sales performance and efficient inventory management, minimizing storage costs. Exam Takeaway: A high inventory turnover ratio indicates operational efficiency and strong demand for a company's products.",
+    "explanation": "When land is sold, the entire cash proceeds (book value plus the gain) are reported under Cash Flow from Investing Activities. Because the gain is already included in Net Income, leaving it there would double-count the effect in Operating Activities. Therefore, the gain is subtracted from Net Income in the Operating section to remove its non-operating impact. Exam Takeaway: Non-operating gains are deducted from Net Income in the operating section to avoid double-counting and to isolate true operational cash flows.",
     "type": "apti"
   },
   {
-    "question": "In macroeconomic analysis, what is the primary difference between Real GDP and Nominal GDP?",
+    "question": "Which of the following best describes the economic concept of 'crowding out' in the context of government fiscal policy?",
     "options": [
-      "Nominal GDP includes services, while Real GDP only includes physical manufacturing output.",
-      "Real GDP is adjusted for inflation using a base year's prices, whereas Nominal GDP is calculated using current-year market prices.",
-      "Nominal GDP is calculated by the central bank, while Real GDP is calculated by private rating agencies.",
-      "Real GDP excludes government spending, while Nominal GDP includes it."
+      "An increase in private sector investment that forces the government to reduce its spending.",
+      "An increase in government borrowing that leads to higher interest rates, reducing private sector investment.",
+      "A reduction in tax rates that leads to a decline in public infrastructure spending.",
+      "High inflation rates that force retail investors to withdraw money from the stock market."
     ],
     "answerIndex": 1,
-    "explanation": "Nominal GDP measures a country's economic output using current market prices without adjusting for inflation. Real GDP adjusts for inflation by using constant prices from a designated base year, allowing economists to see actual growth in the physical volume of goods and services produced. Exam Takeaway: Real GDP isolates actual economic growth by removing the distorting effects of price inflation.",
+    "explanation": "Crowding out occurs when heavy government borrowing to fund fiscal deficits increases the demand for loanable funds. This drives up interest rates in the economy, making borrowing more expensive for private businesses, which ultimately reduces (or 'crowds out') private sector investment. Exam Takeaway: Expansionary fiscal policy funded by heavy borrowing can inadvertently hamper private capital expenditure by raising the cost of capital.",
     "type": "apti"
   },
   {
-    "question": "If a company has a negative working capital, what does this always imply about its balance sheet?",
+    "question": "Which Excel error code indicates that a formula refers to a cell that has been deleted or overwritten during a sheet modification?",
     "options": [
-      "The company is insolvent and will go bankrupt immediately.",
-      "The company's current liabilities exceed its current assets.",
-      "The company has no cash reserves whatsoever.",
-      "The company's long-term debt is greater than its equity."
+      "#VALUE!",
+      "#NAME?",
+      "#REF!",
+      "#DIV/0!"
     ],
-    "answerIndex": 1,
-    "explanation": "Working capital is calculated as Current Assets minus Current Liabilities. Therefore, negative working capital simply means that current liabilities are greater than current assets. While this can sometimes indicate liquidity stress, some highly efficient businesses (like supermarkets with fast inventory turnover and immediate cash collection) operate successfully with negative working capital. Exam Takeaway: Negative working capital means short-term obligations exceed short-term assets, which requires careful liquidity management.",
+    "answerIndex": 2,
+    "explanation": "The #REF! error occurs when a formula refers to a cell that is not valid. This frequently happens when cells, rows, or columns that were referenced in formulas are deleted, or when a formula is copied to a location where the relative reference becomes invalid. Exam Takeaway: Always trace and update dependent formulas before deleting sheets, rows, or columns to prevent broken #REF! links.",
     "type": "apti"
   },
   {
-    "question": "Which of the following best describes the concept of 'Operating Leverage' in business analysis?",
+    "question": "If a corporate borrower is looking to raise short-term, unsecured debt directly from the money market to meet working capital needs, which instrument would they typically issue in the Indian financial market?",
     "options": [
-      "The proportion of debt a company uses to finance its total assets.",
-      "The sensitivity of a company's operating income (EBIT) to changes in its sales volume, driven by the proportion of fixed vs. variable costs.",
-      "The speed at which a company can liquidate its fixed assets to pay off short-term creditors.",
-      "The ratio of credit sales to total cash sales in a given financial year."
+      "Certificate of Deposit (CD)",
+      "Commercial Paper (CP)",
+      "Treasury Bills (T-Bills)",
+      "Debentures"
     ],
     "answerIndex": 1,
-    "explanation": "Operating leverage is a measure of how a change in sales volume translates into a change in operating income. A company with high operating leverage has a high proportion of fixed costs relative to variable costs; once fixed costs are covered, a small increase in sales results in a disproportionately large increase in EBIT. Exam Takeaway: High fixed-cost business models exhibit high operating leverage, making profits highly sensitive to sales fluctuations.",
+    "explanation": "Commercial Paper (CP) is an unsecured, short-term money market instrument issued by highly rated corporations to meet working capital requirements. Certificates of Deposit are issued by banks, Treasury Bills are issued by the government, and Debentures are long-term debt instruments. Exam Takeaway: Commercial Paper serves as an efficient, lower-cost alternative to short-term bank loans for creditworthy corporate borrowers.",
     "type": "apti"
   },
   {
-    "question": "When building a financial model, what is the purpose of using the 'Sensitivity Analysis' (Data Tables) tool in Excel?",
+    "question": "When analyzing a company's leverage, what is the primary difference between the Interest Coverage Ratio and the Debt Service Coverage Ratio (DSCR)?",
     "options": [
-      "To automatically find and correct formula errors in a sheet.",
-      "To see how changing one or two key input variables impacts a target output variable, such as the project's IRR.",
-      "To secure the spreadsheet with password protection for sensitive financial data.",
-      "To translate the spreadsheet into different international currencies."
+      "Interest Coverage only considers EBIT relative to interest, while DSCR includes both interest and principal repayments.",
+      "Interest Coverage is used for long-term solvency, while DSCR is only used for short-term liquidity.",
+      "DSCR is calculated using Net Income, whereas Interest Coverage is calculated using Gross Profit.",
+      "There is no difference; both ratios measure the exact same debt-servicing capacity."
     ],
-    "answerIndex": 1,
-    "explanation": "Excel's Data Tables tool (found under What-If Analysis) allows analysts to perform sensitivity analysis by showing how changing specific inputs (like growth rate or discount rate) affects a final output metric (like NPV or IRR) without having to manually recalculate the model for every scenario. Exam Takeaway: Data Tables are essential for evaluating financial models under varying assumptions and risk scenarios.",
+    "answerIndex": 0,
+    "explanation": "The Interest Coverage Ratio (EBIT / Interest Expense) measures a firm's ability to pay the interest on its outstanding debt. The Debt Service Coverage Ratio (DSCR), typically used by commercial lenders, is broader because it compares operating income to total debt service obligations, which include both interest and scheduled principal repayments. Exam Takeaway: DSCR provides a more comprehensive view of debt sustainability because it accounts for the cash required to repay the principal, not just the interest.",
     "type": "apti"
   },
   {
-    "question": "Which of the following represents a key difference between a commercial bank and a non-banking financial company (NBFC) in India?",
+    "question": "Under SEBI's Listing Obligations and Disclosure Requirements (LODR) regulations, what is the timeline within which a listed entity must submit its quarterly financial results to the stock exchanges?",
     "options": [
-      "NBFCs are not allowed to lend money or provide credit facilities to corporate borrowers.",
-      "Commercial banks can accept demand deposits (like savings and current accounts), whereas NBFCs cannot accept demand deposits.",
-      "NBFCs are regulated by the Ministry of Agriculture, while banks are regulated by the RBI.",
-      "Only NBFCs are allowed to invest in government securities."
+      "Within 30 days from the end of the quarter",
+      "Within 45 days from the end of the quarter",
+      "Within 60 days from the end of the quarter",
+      "Within 15 days from the end of the quarter"
     ],
     "answerIndex": 1,
-    "explanation": "While both commercial banks and NBFCs provide credit and financial services, a major structural difference under Indian regulations is that NBFCs cannot accept demand deposits (which can be withdrawn on demand via cheques or ATM cards). NBFCs also do not form part of the payment and settlement system and cannot issue cheques drawn on themselves. Exam Takeaway: NBFCs cannot accept demand deposits or issue cheques, distinguishing them from traditional commercial banks.",
+    "explanation": "SEBI's LODR regulations mandate that listed companies must submit their quarterly financial results (along with the limited review report or audit report) to the stock exchanges within 45 days from the end of each quarter (except for the last quarter of the financial year, which has a 60-day limit for audited annual results). Exam Takeaway: Strict disclosure timelines mandated by SEBI ensure that price-sensitive financial information is disseminated to public shareholders in a timely manner.",
     "type": "apti"
   },
   {
-    "question": "In financial accounting, why is depreciation added back to Net Income when preparing the Operating Cash Flow section of the Cash Flow Statement under the indirect method?",
+    "question": "If a central bank decides to implement an expansionary monetary policy, which of the following actions is it most likely to take?",
     "options": [
-      "Because depreciation represents a real cash inflow from the sale of fixed assets.",
-      "Because depreciation is a non-cash expense that reduced Net Income but did not actually involve a cash outflow during the period.",
-      "To artificially inflate the company's reported profitability to satisfy investors.",
-      "Because the tax authorities require depreciation to be added back to calculate taxable income."
+      "Increase the Cash Reserve Ratio (CRR)",
+      "Sell government securities in the open market",
+      "Decrease the Repo Rate",
+      "Increase the Statutory Liquidity Ratio (SLR)"
+    ],
+    "answerIndex": 2,
+    "explanation": "An expansionary monetary policy aims to increase liquidity and stimulate economic activity. Decreasing the Repo Rate lowers the cost of borrowing for commercial banks, encouraging them to lend more to businesses and consumers. Increasing CRR/SLR or selling government securities would absorb liquidity from the system, which represents contractionary policy. Exam Takeaway: Lowering policy rates is the primary tool used by central banks to boost credit growth and economic consumption.",
+    "type": "apti"
+  },
+  {
+    "question": "In Excel, what is the primary structural difference between the functions NPV and XNPV?",
+    "options": [
+      "NPV assumes cash flows occur at irregular intervals, while XNPV assumes they occur at regular intervals.",
+      "NPV assumes cash flows occur at the end of regular periods, while XNPV allows for cash flows at irregular, specific dates.",
+      "XNPV does not require a discount rate, whereas NPV does.",
+      "NPV is used only for positive cash flows, while XNPV can handle both positive and negative cash flows."
     ],
     "answerIndex": 1,
-    "explanation": "Depreciation is an accounting allocation of the cost of an asset over its useful life. It reduces Net Income on the Income Statement, but it does not involve an actual outflow of cash. Therefore, when reconciling Net Income to actual cash generated from operations, non-cash expenses like depreciation must be added back. Exam Takeaway: Under the indirect method, non-cash expenses must be added back to Net Income to accurately reflect operating cash flows.",
+    "explanation": "The standard NPV function in Excel assumes that all cash flows occur at equal time intervals (e.g., annually or monthly) at the end of each period. The XNPV function is more precise for real-world financial modeling because it allows you to assign specific dates to each individual cash flow, accommodating irregular payment intervals. Exam Takeaway: Use XNPV in financial models to accurately discount cash flows that occur on specific calendar dates rather than arbitrary annual intervals.",
+    "type": "apti"
+  },
+  {
+    "question": "Which of the following best describes the accounting concept of 'Prudence' (or Conservatism)?",
+    "options": [
+      "Anticipate all future profits and record them immediately, but delay recording expenses.",
+      "Record revenues only when they are realized or realizable, and recognize liabilities and expenses as soon as they are probable.",
+      "Keep transaction records simple by ignoring minor expenses that do not impact the overall balance sheet.",
+      "Value all assets at their replacement cost rather than their historical cost."
+    ],
+    "answerIndex": 1,
+    "explanation": "The prudence concept states that assets and income should not be overstated, and liabilities and expenses should not be understated. Under this principle, a business should not anticipate profits but should provide for all known and probable losses. Exam Takeaway: The conservatism principle ensures financial statements do not paint an overly optimistic view of a firm's financial health.",
+    "type": "apti"
+  },
+  {
+    "question": "When using a Discounted Cash Flow (DCF) model to value a firm, what is the correct discount rate to use when discounting Free Cash Flow to Equity (FCFE) to find the equity value?",
+    "options": [
+      "Weighted Average Cost of Capital (WACC)",
+      "Cost of Debt (Kd)",
+      "Cost of Equity (Ke)",
+      "Risk-Free Rate (Rf)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Free Cash Flow to Equity (FCFE) represents the cash available to equity shareholders after all operating expenses, reinvestment needs, and debt service (interest and principal payments) have been met. Because these cash flows belong strictly to equity holders, they must be discounted using the Cost of Equity (Ke). Discounting Free Cash Flow to the Firm (FCFF) requires using the WACC. Exam Takeaway: Match the cash flow to the appropriate risk-adjusted discount rate: FCFE is discounted by the Cost of Equity, while FCFF is discounted by the WACC.",
+    "type": "apti"
+  },
+  {
+    "question": "If a company's Operating Leverage is high, what does this imply about the relationship between its sales revenue and its operating income (EBIT)?",
+    "options": [
+      "A small percentage change in sales will lead to a disproportionately larger percentage change in operating income.",
+      "The company has a high proportion of variable costs compared to fixed costs.",
+      "Operating income will remain constant regardless of changes in sales volume.",
+      "The company relies heavily on debt financing to fund its operations."
+    ],
+    "answerIndex": 0,
+    "explanation": "Operating leverage is driven by the proportion of fixed costs in a company's cost structure. When operating leverage is high, a large portion of costs are fixed. Once the company covers these fixed costs, a high percentage of every additional dollar of sales flows directly to operating income, causing EBIT to be highly sensitive to sales fluctuations. Exam Takeaway: High operating leverage amplifies both the upside potential and downside risk of operating profits in response to changes in sales volume.",
     "type": "apti"
   }
 ]

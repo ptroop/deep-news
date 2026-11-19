@@ -1,374 +1,374 @@
 [
   {
-    "question": "Nvidia\u2019s strong quarterly earnings report triggered a 5% rally in Indian optical fiber and telecom equipment producers such as HFCL and Sterlite Technologies, reversing a 10% decline caused by AI valuation concerns. From a global supply chain and valuation perspective, what dynamic explains this market reaction?",
+    "question": "The Employees' Provident Fund Organisation (EPFO) is considering allocating fresh cash inflows into Alternative Investment Funds (AIFs), including venture capital and startup funds. From a portfolio management and fiduciary standpoint, what primary structural risk dynamic does this shift introduce to a public pension fund?",
     "options": [
-      "The rally reflects market expectation of a direct, short-term reduction in capital expenditure budgets for traditional data center infrastructure.",
-      "Upstream semiconductor revenue growth acts as a leading indicator confirming sustained capital expenditure in physical network infrastructure.",
-      "Optical fiber producers experience an immediate expansion in operating margins due to lower raw material input costs driven by semiconductor surpluses.",
-      "The stock price movement is driven entirely by short-covering mechanisms with zero link to long-term enterprise demand fundamentals."
+      "An immediate decline in nominal yield due to high statutory liquidity requirements.",
+      "An asset-liability duration mismatch coupled with illiquidity and high J-curve visual drag.",
+      "A complete loss of sovereign guarantee status on the entire fixed-income portfolio.",
+      "An increase in foreign exchange risk due to global venture capital currency conversions."
     ],
     "answerIndex": 1,
-    "explanation": "Strong earnings from chipmakers like Nvidia validate that hyper-scalers are continuing massive capital deployments in AI data centers. Because AI infrastructure requires ultra-high bandwidth, low-latency interconnectivity, sustained spending on GPUs serves as a leading demand indicator for critical physical layers like optical fiber and telecom hardware. Option A is incorrect as capex is expanding, not contracting. Option C falsely links chip revenue to lower fiber raw material costs. Option D ignores the fundamental demand linkage between compute capacity and networking hardware. Strategic investment in high-performance compute directly drives upstream and adjacent infrastructure spending.\n\nExam Takeaway: Capex commitments by semiconductor leaders act as a leading demand indicator for adjacent infrastructure providers across global supply chains failure.",
+    "explanation": "Pensions have predictable, long-term liability profiles requiring stable liquidity for redemptions. AIFs and venture capital investments are highly illiquid, lock up capital for 7-10 years, and exhibit a 'J-curve' effect where early capital calls and fees yield negative returns before potential capital gains materialize. This creates illiquidity risk and short-to-medium term income variability. Option A is incorrect because AIFs seek higher yields, not lower. Option C is incorrect as investing a fraction of incremental flows in AIFs does not alter the sovereign backing of underlying government bonds. Option D is incorrect because domestic AIFs operate in local currency. The concept tested is pension asset-liability management (ALM) and liquidity risk in alternative assets. Exam Takeaway: Allocating pension capital to private equity/VC trades liquidity and immediate yield for long-term equity risk premiums, introducing structural illiquidity and J-curve dynamics to fund cash flows control.",
     "type": "news"
   },
   {
-    "question": "With Indian CPI inflation reaching 6.1% driven by El Ni\u00f1o-related agricultural supply disruptions, financial markets are evaluating the Reserve Bank of India's (RBI) potential monetary policy response. If the RBI chooses to raise the repo rate in this supply-shock environment, what primary economic trade-off is the central bank navigating?",
+    "question": "Tata Steel's leadership noted that the ongoing global green transition\u2014specifically moving from blast furnaces to hydrogen-based direct reduced iron (DRI) and electric arc furnaces (EAF)\u2014could drastically reshape future steel plant locations. What primary supply chain and economic geography principle explains this relocation shift?",
     "options": [
-      "Anchoring medium-term inflation expectations at the risk of dampening domestic aggregate demand and economic growth.",
-      "Directly lowering agricultural input costs while simultaneously expanding commercial bank net interest margins.",
-      "Increasing foreign direct investment inflows while automatically eliminating supply-side food bottlenecks.",
-      "Boosting immediate consumer purchasing power by strengthening the credit transmission speed of commercial banks."
-    ],
-    "answerIndex": 0,
-    "explanation": "Monetary policy tools like the repo rate primarily influence aggregate demand and inflation expectations rather than immediately fixing supply-side shocks like drought or bad harvests. Raising interest rates curbs demand to prevent supply-driven inflation from broadening into core inflation (second-round effects), but it risks slowing economic growth. Option B is wrong because repo rate hikes do not reduce food production costs. Option C is wrong because monetary policy cannot resolve physical agricultural shortages. Option D is incorrect as higher interest rates increase borrowing costs, suppressing rather than boosting consumer spending.\n\nExam Takeaway: Central banks raising policy rates during supply shocks prioritize anchoring inflation expectations over short-term growth considerations.",
-    "type": "news"
-  },
-  {
-    "question": "Indian electronic component exports surged by 57% in the first half of the fiscal year, while smartphone exports reached $18.2 billion. Simultaneously, domestic industry bodies are requesting targeted tax breaks and an expanded Production Linked Incentive (PLI) scheme in pre-budget consultations to raise manufacturing's share of GDP to 25%. What structural corporate risk is created if manufacturing scaling relies heavily on temporary PLI subsidies?",
-    "options": [
-      "The sudden appreciation of local currency leading to automatic structural deflation across domestic retail markets.",
-      "Fiscal dependency where firms experience margin compression or operational unviability once subsidy windows expire if ecosystem competitiveness isn't built.",
-      "A complete breakdown of vertical integration because subsidized firms are legally prohibited from sourcing components locally.",
-      "An immediate decline in total factor productivity caused by mandatory allocation of capital into low-yield sovereign bonds."
+      "Proximity to urban retail consumption centers becomes more critical than raw material sites.",
+      "Production shifts from weight-losing raw material sites (coking coal) to regions with cheap, abundant renewable energy and hydrogen infrastructure.",
+      "Steel mills will move exclusively to coastal locations to minimize maritime export tariffs.",
+      "Labor arbitrage becomes the dominant driver as green technology requires high-density manual assembly."
     ],
     "answerIndex": 1,
-    "explanation": "PLI schemes are designed as short-to-medium term fiscal catalysts to compensate for initial cost-of-doing-business handicaps while ecosystems build scale. If manufacturing firms do not achieve underlying operational efficiencies, component localization, and global scale during the subsidy phase, they face severe margin compression when fiscal incentives sunset. Option A is unrelated to subsidy reliance. Option C is false because PLI actively encourages local sourcing and vertical integration. Option D is incorrect as subsidies aim to boost private capex, not mandate sovereign bond purchases.\n\nExam Takeaway: Industrial subsidies boost short-term manufacturing output, but sustainable competitive advantage requires establishing deep supply chain ecosystems before incentives expire.",
+    "explanation": "Traditional blast-furnace steelmaking is tied to iron ore and coking coal deposits due to massive material weight loss during production. In green steel production, power and clean energy (green hydrogen/renewable electricity for EAFs) represent the dominant cost input. Consequently, location economics shift toward regions with low-cost renewable power and hydrogen grids. Option A is wrong because bulk industrial commodities prioritize input resource access over market proximity. Option C is wrong because coastal access reduces shipping costs but does not solve energy input constraints. Option D is wrong because green EAF steelmaking is capital- and energy-intensive, not labor-intensive. The core concept is Weber's Location Theory and industrial supply chain re-configuration. Exam Takeaway: Energy transition changes primary cost structures, shifting industrial manufacturing sites from legacy raw material hubs to low-cost clean energy zones.",
     "type": "news"
   },
   {
-    "question": "Following a data leak that renewed public scrutiny over past corporate transactions, Deutsche Bank saw its share price drop by 6.4%. From a corporate governance and enterprise risk management (ERM) perspective, why do legacy legal and compliance issues cause disproportionate equity valuation hits for systemic banking institutions?",
+    "question": "Caplin Point Laboratories saw its market value drop 13% in three sessions following an official US FDA observation flagging manufacturing compliance issues at one of its plants. From a corporate valuation perspective, why does regulatory enforcement at a single plant trigger disproportionate equity market value destruction?",
     "options": [
-      "Legacy issues automatically trigger immediate write-downs of Tier-1 equity capital under Basel III regulations.",
-      "Unresolved compliance failures increase capital allocation requirements, raise funding costs, and create unpredictable tail-risk liabilities.",
-      "Data leaks invalidate all past audited financial statements, forcing the bank to restate historical revenue to zero.",
-      "Regulators require banks facing scrutiny to cease all commercial lending operations until internal investigations finish."
+      "FDA actions immediately cancel all existing debt covenants across domestic public banks.",
+      "Regulatory flags threaten approval timelines, trigger potential import alerts, and introduce operational freeze risks on high-margin export markets.",
+      "US FDA non-compliance automatically forfeits the firm's intellectual property patents globally.",
+      "The firm is mandated to reclassify all historic revenues from that plant as deferred liabilities."
     ],
     "answerIndex": 1,
-    "explanation": "For major commercial and investment banks, governance and regulatory scrutiny increase litigation risk, regulatory compliance costs, potential fines, and reputational damage. This operational and legal uncertainty inflates the bank\u2019s cost of capital (both equity and debt) and requires greater regulatory capital buffers, directly depressing Return on Equity (ROE). Option A is incorrect as Basel III write-downs apply under specific capital inadequacy triggers, not automatically upon news leaks. Option C is hyperbole; leaks do not automatically reset historical balance sheets to zero. Option D is false as operations continue under regulatory monitoring.\n\nExam Takeaway: Governance lapses and regulatory tail-risks depress financial institution valuations by raising cost of capital and dampening future return on equity.",
+    "explanation": "For pharmaceutical exporters, US FDA compliance flags (such as Warning Letters or Import Alerts) jeopardize access to the lucrative US market, halt new drug approval pipelines, and require expensive remediations. The market discounts these risks immediately, expecting margin compression and revenue loss. Option A is incorrect as FDA notices do not automatically trigger bank default covenants, though credit ratings may be reviewed. Option C is false because regulatory compliance is separate from patent ownership rights. Option D is false as past recognized revenues are unaffected under accounting rules. The core concept tested is operational risk and regulatory tail-risk pricing in corporate valuation. Exam Takeaway: In highly regulated industries, asset-specific compliance failures present systemic revenue blockages, causing stock prices to price in catastrophic downside scenarios.",
     "type": "news"
   },
   {
-    "question": "OpenAI recently appointed a former executive to lead business development in India and South Asia ahead of its planned Initial Public Offering (IPO). From a corporate growth strategy perspective, why are leading AI platforms prioritizing localized business development leadership in emerging markets prior to going public?",
+    "question": "Nvidia co-founder and CEO Jensen Huang and his wife transferred 59 million shares (worth approximately $10.7 billion) into a family trust. In wealth management and estate planning, what is the strategic corporate benefit of executing such transfers via irrevocable family trusts?",
     "options": [
-      "To shift software development costs off income statements by capitalizing all market expansion expenses directly to balance sheet reserves.",
-      "To secure local enterprise partnerships, navigate regional regulatory frameworks, and demonstrate total addressable market (TAM) monetization to public market investors.",
-      "To comply with global stock exchange listing mandates requiring operating revenues to be evenly split across every geographic continent.",
-      "To eliminate the need for global data center compute power by outsourcing all model inference to local telecom service providers."
+      "It allows the founder to completely bypass corporate insider trading reporting requirements under SEC rules.",
+      "It locks in current valuation for gift tax purposes, shielding future equity appreciation from estate taxes while retaining structural voting/administrative control.",
+      "It automatically converts ordinary common equity into preferred non-voting shares with guaranteed dividends.",
+      "It enables the corporation to deduct the market value of transferred shares as an operating expense."
     ],
     "answerIndex": 1,
-    "explanation": "Prior to an IPO, growth-stage technology firms must demonstrate to institutional investors that their TAM expansion strategy is executable and scalable globally. Regional leadership in key high-growth markets like India helps secure local enterprise deals, manage data sovereignty and AI governance regulations, and drive monetizable active user expansion. Option A is incorrect because expansion expenses cannot be arbitrarily capitalized to bypass GAAP/IFRS income statement recognition. Option C is false as no global exchange mandates equal geographic revenue splits. Option D is technically and operational inaccurate regarding AI model hosting.\n\nExam Takeaway: Pre-IPO international expansion strategies focus on establishing local enterprise distribution and regulatory alignment to validate growth metrics for public market investors.",
+    "explanation": "Transferring appreciating equity assets into an irrevocable trust allows high-net-worth individuals to freeze the asset's gift tax valuation at the time of transfer. Any future capital appreciation accrues to the trust beneficiaries tax-free relative to the estate, while the grantor can retain operational control as trustee. Option A is incorrect because insider disclosure rules (e.g., SEC Form 4 filings) still apply to trust transfers. Option C is incorrect as personal transfers do not alter the underlying share class properties. Option D is incorrect because personal shareholder estate moves do not create corporate-level tax deductions. The concept tested is estate tax planning, liquidity management, and wealth structure. Exam Takeaway: Trust transfers of high-growth equity freeze tax bases for wealth preservation while maintaining strategic voting rights.",
     "type": "news"
   },
   {
-    "question": "A sharp drop in global gold prices triggers a 5% decline in the stock prices of specialized gold loan Non-Banking Financial Companies (NBFCs). Which structural balance sheet metric represents the primary channel through which falling collateral values increase credit risk for these lenders?",
+    "question": "PVR Inox has rallied 93% from its annual low to reach a 2-year high. From an operations and corporate financial turnaround perspective, which operational metric is the most critical driver of operating leverage and profitability for a multiplex theater operator?",
     "options": [
-      "Interest Coverage Ratio (ICR)",
-      "Loan-to-Value (LTV) ratio headroom",
-      "Net Interest Margin (NIM)",
-      "Capital Adequacy Ratio (CAR)"
+      "Average screen construction cost amortized over 30 years.",
+      "Occupancy rate paired with Food & Beverage (F&B) spend per head.",
+      "The total ratio of foreign content to regional content screened.",
+      "Working capital expansion derived from extended distributor payment terms."
     ],
     "answerIndex": 1,
-    "explanation": "When asset values fall, the market value of pledged gold collateral drops relative to the outstanding loan principal, eroding the lender's Loan-to-Value (LTV) safety margin. If LTV exceeds regulatory or risk thresholds, the loan becomes under-collateralized, increasing default and recovery risk. Option A measures debt service capability from earnings, not collateral value. Option C reflects yield spreads rather than credit loss exposure. Option D reflects regulatory capital adequacy, which is an outcome rather than the direct driver of collateral risk. The core concept tested is collateral risk management in asset-backed lending. Exam Takeaway: Falling asset values shrink LTV buffers, increasing credit risk and potential principal loss on asset-backed loans under stress conditions.",
+    "explanation": "Multiplex operations feature high fixed operating costs (lease rentals, energy, staff, screen maintenance). Once box office collections cover these fixed overheads, incremental revenues\u2014driven by seat occupancy and high-margin Food & Beverage (F&B) spend per head\u2014translate directly into disproportionately higher operating profit due to high fixed-cost operating leverage. Option A represents capex depreciation, which does not drive tactical operating leverage rallies. Option C affects content availability but is not the underlying mathematical leverage mechanism. Option D relates to payables management, not unit-level operating profitability. The concept tested is high operating leverage in service and entertainment operations. Exam Takeaway: Fixed-cost intensive businesses experience dramatic margin expansion when occupancy crosses baseline fixed-cost break-even thresholds.",
     "type": "news"
   },
   {
-    "question": "ACME Solar's subsidiary signed a 150 MW hybrid power purchase agreement (PPA) with NTPC at a fixed tariff of \u20b93.21 per unit, integrating solar, wind, and battery storage. In long-term project finance valuation, how does adding energy storage to a renewable project primarily alter its risk-return profile?",
+    "question": "A singer-investor acquired commercial office space for \u20b917 crore and immediately entered into a sale-and-leaseback agreement with the tenant for \u20b912 lakh per month. What is the gross annual rental yield on this real estate transaction?",
     "options": [
-      "It reduces off-taker credit risk by shifting payment obligations directly to sovereign funds.",
-      "It lowers capacity utilization factors (CUF) by creating operational downtime during battery charging cycles.",
-      "It mitigates intermittent dispatch risk and reduces imbalance penalties, yielding more predictable cash flow profiles.",
-      "It eliminates long-term reinvestment risk by guaranteeing fixed capital expenditure costs over 25 years."
+      "1.41%",
+      "7.06%",
+      "8.47%",
+      "14.17%"
     ],
     "answerIndex": 2,
-    "explanation": "Integrating energy storage allows hybrid projects to dispatch power consistently and meet grid commitments during non-peak generation hours (e.g., when the sun is not shining or wind is low). This reduces grid imbalance penalties and dispatch curtailment, making project cash flows more stable and predictable. Option A is incorrect because off-taker credit risk depends on NTPC's balance sheet, not battery integration. Option B is incorrect because hybrid pairing increases total plant availability. Option D is incorrect because batteries incur battery degradation and replacement expenditure (reinvestment risk). The core concept tested is project finance risk mitigation in infrastructure investments. Exam Takeaway: Adding storage to renewable PPAs reduces cash flow volatility by mitigating generation intermittency and grid imbalance penalties.",
+    "explanation": "Gross Annual Rental Yield = (Annual Rental Income / Total Purchase Price) * 100. Monthly rent = \u20b912 lakh. Annual rent = \u20b912 lakh * 12 months = \u20b9144 lakh (or \u20b91.44 crore). Purchase price = \u20b917 crore. Yield = (1.44 / 17) * 100 \u2248 8.47%. Option A (1.41%) incorrectly computes monthly yield. Option B (7.06%) represents incorrect arithmetic division. Option D (14.17%) miscalculates the yield base. The core concept tested is basic financial math and real estate yield evaluation. Exam Takeaway: Gross rental yield measures the annual cash income generated by an asset relative to its acquisition price before accounting for operating expenses and taxes.",
     "type": "news"
   },
   {
-    "question": "The US government initiated an investigation into a Singapore-based intermediary accused of facilitating the indirect transfer of restricted high-end Nvidia AI semiconductors to Chinese technology firms. In global supply chain strategy, which phenomenon best explains why regulatory export controls struggle to prevent tech leakages across multi-tier networks?",
+    "question": "A financial report indicates that investors relying exclusively on the Price-to-Earnings (P/E) ratio are missing critical market dynamics, as high-valuation multiples do not always signify overvalued assets. From an equity research and corporate valuation perspective, in which scenario is a high P/E ratio fully justified by underlying fundamentals?",
     "options": [
-      "Bullwhip effect",
-      "Transshipment and multi-tier channel arbitrage",
-      "Single-sourcing concentration vulnerability",
-      "Vertical integration disintegration"
-    ],
-    "answerIndex": 1,
-    "explanation": "High-value advanced technology often flows through complex, multi-tiered international distributor networks. Intermediaries in third-party jurisdictions can exploit regulatory arbitrage by purchasing items legitimately and re-routing them via secondary channels (transshipment) to restricted end-users. Option A refers to demand distortion signals propagating upstream in supply chains. Option C refers to over-reliance on a single supplier. Option D describes breaking down vertical corporate structures into independent firms. The core concept tested is multi-tier supply chain compliance and trade arbitrage. Exam Takeaway: International supply chain oversight must police indirect channel intermediaries to prevent trade-compliance leakage via transshipment.",
-    "type": "news"
-  },
-  {
-    "question": "A major domestic zinc producer announces an \u20b980,000 crore capital expenditure program for long-term capacity expansion, yet its stock price falls immediately following the announcement. Under corporate capital allocation principles, what is the most likely reason equity markets react negatively to a large capex plan?",
-    "options": [
-      "Investors anticipate immediate execution of share repurchases that dilutive net income per share.",
-      "Markets price in execution risk, near-term free cash flow contraction, and return on invested capital (ROIC) dilution.",
-      "Regulatory bodies automatically suspend cash dividend distributions when capital expenditures exceed historical earnings.",
-      "Capex expansion automatically triggers asset impairment charges under International Financial Reporting Standards (IFRS)."
-    ],
-    "answerIndex": 1,
-    "explanation": "Large-scale capex commitments deplete near-term Free Cash Flow to Firm (FCFF) and raise execution and delay risks. If investors fear that future returns from the project will fall below the firm's Weighted Average Cost of Capital (WACC), or that earnings will be diluted before revenues materialize, the stock re-rates downward. Option A is incorrect as capex is capital deployment, not share repurchasing. Option C is factually wrong; dividends are determined by board discretion, not automatic regulatory halts. Option D is incorrect; standard capital additions are capitalized on the balance sheet, not written down as immediate impairments. The core concept tested is market reaction to capital allocation decisions. Exam Takeaway: Large capital expenditures depress short-term free cash flow and lower stock prices if markets doubt long-term ROIC generation.",
-    "type": "news"
-  },
-  {
-    "question": "Research from economic institutes suggests that in India, a higher rate of growth in broad money supply (M3) does not reliably translate into higher headline inflation. Which macroeconomic mechanism best explains this breakdown in the classical Quantity Theory of Money (MV = PQ)?",
-    "options": [
-      "Velocity of money (V) is constant while real output (Q) shrinks perpetually.",
-      "Financial deepening and shifting velocity of money offset expansionary monetary volume.",
-      "Commercial banks maintain zero cash reserves, locking money inside central bank facilities.",
-      "Imports automatically absorb 100% of excess domestic currency growth instantaneously."
-    ],
-    "answerIndex": 1,
-    "explanation": "The Quantity Theory of Money relies on money velocity (V) remaining stable. In developing economies experiencing financial deepening (greater banking penetration, monetization of rural transactions, and digital payment adoption), the velocity of money can decline or fluctuate significantly. Combined with rising real economic output (Q), monetary growth is absorbed without accelerating consumer prices (P). Option A is incorrect because persistent shrinkage of real output would cause inflation under high money growth. Option C is false as reserve requirements exist. Option D is an unrealistically extreme assumption. The core concept tested is the monetary transmission mechanism and money demand stability. Exam Takeaway: Declining velocity of money and structural financial deepening prevent money supply expansion from automatically generating proportionate consumer price inflation.",
-    "type": "news"
-  },
-  {
-    "question": "The Central Government divided the Ministry of Housing and Urban Affairs into two specialized verticals: Capital Development and Urban Development. From an organizational design and public sector governance perspective, what is the primary operational trade-off associated with creating specialized divisional structures?",
-    "options": [
-      "Enhanced focus and domain specialization versus increased inter-departmental coordination costs and potential silos.",
-      "Higher economy of scale versus reduction in administrative headcount requirements.",
-      "Elimination of executive oversight roles in favor of decentralized regional market nodes.",
-      "Immediate reduction in project lead times paired with total elimination of regulatory reporting redundancies."
-    ],
-    "answerIndex": 0,
-    "explanation": "Splitting a conglomerate or public ministry into focused functional/divisional departments improves domain expertise, speed of localized execution, and accountability within each specific unit. However, the trade-off is increased administrative friction, potential duplication of back-office overhead, and coordination challenges across intersecting mandates (silos). Option B is incorrect; specialization usually increases overhead costs, reducing economies of scale in corporate management. Option C is incorrect as structural splits reallocate, rather than eliminate, executive roles. Option D is incorrect because structural divisions rarely eliminate regulatory overlap immediately. The core concept tested is organizational design trade-offs in structural specialization. Exam Takeaway: Structural division enhances operational focus within domains but increases structural coordination costs between units.",
-    "type": "news"
-  },
-  {
-    "question": "A retail bank experiences a sudden influx of short-term demand deposits. To manage interest rate risk and preserve liquidity, the bank wants to assess how much cash it receives purely from core business activities before any financing or debt repayments. Which section of the Cash Flow Statement provides this measure?",
-    "options": [
-      "Cash Flow from Operating Activities",
-      "Cash Flow from Investing Activities",
-      "Cash Flow from Financing Activities",
-      "Net Free Cash Flow to Equity"
-    ],
-    "answerIndex": 0,
-    "explanation": "Cash Flow from Operating Activities (CFO) tracks the actual cash generated or consumed by a firm's primary business operations, excluding capital expenditure and financial structuring. Investing cash flows deal with long-term assets, while financing cash flows handle equity and borrowing operations.\n\nExam Takeaway: Operating Cash Flow reflects the raw liquidity generated directly by core business operations.",
-    "type": "apti"
-  },
-  {
-    "question": "An equity analyst is building a Discounted Cash Flow (DCF) model for a mature FMCG company. When estimating the Terminal Value using the Perpetuity Growth Method, what assumption must always hold true regarding the terminal growth rate (g) relative to the discount rate (WACC)?",
-    "options": [
-      "The terminal growth rate must equal WACC",
-      "The terminal growth rate must be less than WACC",
-      "The terminal growth rate must be greater than WACC",
-      "The terminal growth rate must equal the inflation rate plus WACC"
-    ],
-    "answerIndex": 1,
-    "explanation": "In the Perpetuity Growth formula, Terminal Value = Final Cash Flow * (1 + g) / (WACC - g). If g is greater than or equal to WACC, the denominator becomes zero or negative, resulting in a mathematically impossible or infinite valuation. Economically, a company cannot grow faster than the overall economy indefinitely.\n\nExam Takeaway: For valid DCF terminal calculations, the perpetual growth rate must strictly be lower than WACC.",
-    "type": "apti"
-  },
-  {
-    "question": "Suppose a company increases its credit sales terms from 30 days to 90 days to boost revenue. If sales volume increases but collections stall, how will this change affect the company's Working Capital and Cash Conversion Cycle (CCC)?",
-    "options": [
-      "Working capital decreases and CCC shortens",
-      "Working capital stays flat and CCC shortens",
-      "Accounts receivable increases and CCC lengthens",
-      "Accounts payable increases and CCC lengthens"
+      "When a firm lowers its capital expenditure to artificially boost current net income",
+      "When a firm operates in a mature industry with low Return on Invested Capital (ROIC) and stable revenue growth",
+      "When a company generates high Return on Invested Capital (ROIC) and reinvests a large portion of earnings at those superior rates",
+      "When a company's Cost of Capital (WACC) significantly increases due to macroeconomic volatility"
     ],
     "answerIndex": 2,
-    "explanation": "Extending credit terms increases Accounts Receivable. Days Sales Outstanding (DSO) rises, which directly lengthens the Cash Conversion Cycle (CCC = DIO + DSO - DPO). This ties up liquidity in working capital for a longer duration.\n\nExam Takeaway: Relaxing customer credit terms increases Accounts Receivable and lengthens the Cash Conversion Cycle.",
-    "type": "apti"
+    "explanation": "A high P/E ratio reflects market expectations of high future cash flow growth. Under the Gordon Growth Model / EV-to-Earnings framework, value creation occurs only when a company's Return on Invested Capital (ROIC) exceeds its Weighted Average Cost of Capital (WACC). When ROIC > WACC and the company reinvests heavily, earnings growth directly translates into disproportionate economic value creation, justifying a high P/E ratio. Option A describes earnings manipulation that degrades quality. Option B represents low-growth stability that commands lower multiples. Option D increases WACC, which reduces equity value and lowers justifiable P/E multiples. Exam Takeaway: P/E multiples are driven by the spread between ROIC and WACC paired with profitable reinvestment opportunities, not growth alone.",
+    "type": "news"
   },
   {
-    "question": "A credit rating agency evaluates a corporate borrower's immediate ability to clear short-term liabilities without needing to liquidate inventory. Which liquidity metric is the strictest measure for this evaluation?",
+    "question": "Dating apps and premium subscription services in India are reporting faster paying-user growth in Tier-2 and Tier-3 cities compared to major metropolitan markets. From a strategic marketing and market development standpoint, what underlying economic factor best explains this shifting monetization pattern?",
     "options": [
-      "Current Ratio",
-      "Quick Ratio (Acid-Test)",
-      "Cash Ratio",
-      "Debt-to-Equity Ratio"
+      "Saturation of customer lifetime value (LTV) in metro markets alongside lower marginal acquisition costs in smaller cities",
+      "Lower operational costs for regional infrastructure leading to immediate price discounting in small cities",
+      "Mandatory regulatory price caps on subscription services implemented in Tier-1 metros",
+      "Complete exhaustion of target demographics in Tier-1 cities requiring pivot strategies"
     ],
-    "answerIndex": 2,
-    "explanation": "The Cash Ratio (Cash & Cash Equivalents / Current Liabilities) is the most conservative liquidity metric because it considers only absolute liquid cash and marketable securities, entirely ignoring inventory and accounts receivable.\n\nExam Takeaway: The Cash Ratio is the strictest measure of ultra-short-term solvency.",
-    "type": "apti"
+    "answerIndex": 0,
+    "explanation": "Expanding into smaller cities represents market penetration into under-indexed segments where digital adoption is growing rapidly. In Tier-1 cities, Customer Acquisition Cost (CAC) rises due to market saturation and ad fatigue, while Customer Lifetime Value (LTV) stabilizes. Tier-2/3 cities offer lower CAC and untapped willingness to pay for specialized value propositions, raising overall LTV/CAC efficiency. Option B is incorrect because digital app infrastructure cost does not vary regionally by city tier. Option C is factually incorrect as no such caps exist. Option D is false as metro markets remain lucrative, though high-growth percentage gains shift to smaller cities. Exam Takeaway: Geographic expansion drives unit economics when user acquisition costs in mature segments erode marginal profit margins.",
+    "type": "news"
   },
   {
-    "question": "In a corporate valuation report, an analyst notices that a firm's Enterprise Value (EV) remains unchanged after the company issues $50 million in new debt to hold as pure cash on its balance sheet. Why does EV remain unaffected?",
+    "question": "In response to market dynamics, SEBI Chairman stated that extending stock market trading hours is currently not a priority for Indian financial markets. From a market microstructure and risk management perspective, what is the primary operational risk associated with lengthening equity trading hours?",
     "options": [
-      "Enterprise Value excludes debt entirely",
-      "Net Debt remains unchanged because the increase in total debt is offset by an equal increase in cash",
-      "Cash additions increase Market Capitalization by the exact debt amount",
-      "Enterprise Value only measures equity value"
-    ],
-    "answerIndex": 1,
-    "explanation": "Enterprise Value is calculated as Market Cap + Total Debt - Cash. Adding $50 million of debt (+50) while holding it as cash (-50) nets out to zero change in Net Debt, leaving Enterprise Value unchanged.\n\nExam Takeaway: Raising debt to hold as cash leaves Net Debt and Enterprise Value neutral.",
-    "type": "apti"
-  },
-  {
-    "question": "To curb persistent demand-pull inflation, the Reserve Bank of India (RBI) decides to conduct an Repo Rate hike during its Monetary Policy Committee (MPC) meeting. What is the immediate expected effect on commercial bank lending rates and economic output?",
-    "options": [
-      "Commercial bank lending rates decrease, boosting aggregate demand",
-      "Commercial bank lending rates rise, cooling credit expansion and economic activity",
-      "Commercial bank deposit rates fall immediately while lending rates remain unchanged",
-      "Money supply expands rapidly due to cheaper borrowing from the central bank"
+      "Immediate structural collapse of clearing house settlement guarantees",
+      "Fragmentation of liquidity across extended hours leading to wider bid-ask spreads and increased operational costs for brokerages",
+      "Automatic reduction in domestic retail participation during core market hours",
+      "Inability of public companies to disclose material inside information under SEBI guidelines"
     ],
     "answerIndex": 1,
-    "explanation": "The Repo Rate is the rate at which commercial banks borrow short-term funds from the RBI. Raising it increases the cost of capital for banks, which pass this on by raising Marginal Cost of Funds Based Lending Rates (MCLR) to borrowers, suppressing consumer credit demand and inflation.\n\nExam Takeaway: Increasing the Repo Rate raises borrowing costs across the economy to tame inflation.",
+    "explanation": "Extending market hours splits a finite pool of trading volume over a longer time frame. Off-peak trading hours typically experience thinner trading volumes, which leads to liquidity fragmentation, wider bid-ask spreads, and higher execution slippage for market participants. Additionally, clearing members, brokers, and custodians face significantly increased operational, staffing, and technology costs. Option A is extreme and incorrect as risk management frameworks remain active. Option C is an unproven assumption; retail traders participate based on market structure. Option D is incorrect because material disclosures (PIT regulations) can be timed around extended sessions. Exam Takeaway: Liquidity aggregation improves market efficiency; extending trading hours risks fragmenting volume and widening execution spreads.",
+    "type": "news"
+  },
+  {
+    "question": "Nvidia elected to stop shipping its Hopper AI microprocessors to China despite obtaining regulatory permission from US authorities. From an enterprise risk management and supply chain strategy perspective, what is the most strategic driver for a company to self-impose export halts beyond legal minimums?",
+    "options": [
+      "Preempting regulatory backlash, compliance exposure, and potential secondary sanctions from unpredictable future policy shifts",
+      "Maximizing short-term gross margins by shifting lower-margin Hopper inventory exclusively to domestic consumer markets",
+      "Eliminating the cost of research and development for customized region-specific silicon designs",
+      "Fulfilling contractual obligations under international antitrust agreements"
+    ],
+    "answerIndex": 0,
+    "explanation": "Multinational tech firms often exercise caution beyond strict current regulations to manage regulatory risk and geopolitical uncertainty. Continuing shipments under volatile regulatory environments exposes the firm to sudden policy reversals, inventory write-downs, operational disruptions, and legal liabilities. Self-imposing limits mitigates long-term compliance exposure. Option B is incorrect because Hopper AI chips carry high gross margins globally. Option C is incorrect as stopping shipments does not eliminate past R&D expense. Option D is incorrect because export halts are driven by trade regulations and national security policy, not antitrust law. Exam Takeaway: Geopolitical enterprise risk management often requires corporate strategies that prioritize regulatory compliance safety over short-term international revenue.",
+    "type": "news"
+  },
+  {
+    "question": "An app-based ride-hailing company operating in Karnataka faces new state regulations mandating physical fare meters and strict adherence to government-prescribed pricing tariffs. How does this regulatory change affect the aggregator's core platform business model?",
+    "options": [
+      "It expands cross-side network effects by incentivizing unlimited driver onboarding",
+      "It severely impairs algorithmic dynamic pricing (surge pricing), neutralizing real-time market-clearing capability between supply and demand",
+      "It eliminates variable operating costs, transforming the platform into a capital-intensive fixed asset vehicle",
+      "It forces the business to convert from a two-sided platform model into a vertically integrated inventory pipeline"
+    ],
+    "answerIndex": 1,
+    "explanation": "Platform ride-hailing models rely on dynamic pricing algorithms (surge pricing) to balance real-time supply and demand. Regulating prices to fixed government tariffs prevents price signals from clearing market imbalances during high-demand periods, reducing driver availability and customer liquidity on the network. Option A is incorrect because fixed caps reduce driver surge earning potential during peak periods. Option C is incorrect as app operators do not suddenly take driver vehicles onto their balance sheets. Option D is incorrect because regulation alters pricing power, not the core asset-light broker-platform architecture. Exam Takeaway: Price controls on platform businesses undermine real-time algorithmic supply-demand balancing, impairing core unit economics.",
+    "type": "news"
+  },
+  {
+    "question": "An investor wants to calculate the exact present value of a target firm's projected Free Cash Flows over a 5-year forecast period. What specific discount rate must be applied to these cash flows to determine the aggregate Enterprise Value?",
+    "options": [
+      "Cost of Equity (Ke)",
+      "Weighted Average Cost of Capital (WACC)",
+      "Cost of Debt after tax (Kd)",
+      "Risk-Free Rate (Rf)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Free Cash Flow to Firm (FCFF) represents cash available to all capital providers (both debt and equity holders). Therefore, it must be discounted using the Weighted Average Cost of Capital (WACC), which reflects the combined required return of both debt and equity. Cost of Equity is only used when discounting Free Cash Flow to Equity (FCFE). Exam Takeaway: Discount FCFF at WACC to calculate Enterprise Value, and FCFE at Cost of Equity to calculate Equity Value.",
     "type": "apti"
   },
   {
-    "question": "A financial analyst wants to dynamically look up a product's price from a complex model matrix where the target column is located to the left of the lookup key column. Which standard Excel formula combination or function handles this without requiring data restructuring?",
+    "question": "A private equity analyst is reviewing a target company's income statement. The company reports an Operating Income (EBIT) of $10 million, Depreciation & Amortization of $2 million, Interest Expense of $1 million, and an effective tax rate of 20%. What is the company's EBITDA?",
     "options": [
-      "VLOOKUP with a positive column index",
-      "INDEX and MATCH",
+      "$11 million",
+      "$12 million",
+      "$9 million",
+      "$13 million"
+    ],
+    "answerIndex": 1,
+    "explanation": "EBITDA is calculated by taking Operating Income (EBIT) and adding back Depreciation and Amortization expenses ($10 million EBIT + $2 million D&A = $12 million). Interest and tax expenses are evaluated lower down the income statement and do not reduce EBITDA. Exam Takeaway: EBITDA measures core operating performance by adding non-cash D&A back to EBIT.",
+    "type": "apti"
+  },
+  {
+    "question": "A financial analyst in Excel needs to pull a specific product price from a price master table using the Product ID as a key. The master table contains data organized in horizontal rows rather than vertical columns. Which traditional Excel function is best suited for this task?",
+    "options": [
+      "VLOOKUP",
       "HLOOKUP",
-      "SUMIF"
+      "COUNTIF",
+      "CONCATENATE"
     ],
     "answerIndex": 1,
-    "explanation": "Standard VLOOKUP cannot look up values to the left of the lookup column. Combining INDEX (to specify the retrieval range) and MATCH (to find row numbers dynamic position) removes this direction limitation entirely. XLOOKUP also achieves this in modern Excel versions.\n\nExam Takeaway: INDEX-MATCH overcomes VLOOKUP's limitation of searching only to the right.",
+    "explanation": "HLOOKUP (Horizontal Lookup) searches for a value in the top row of a table array and returns a value in the same column from a specified row. VLOOKUP works vertically across columns, whereas HLOOKUP is designed specifically for horizontal data structures. Exam Takeaway: Use HLOOKUP for horizontal dataset layouts and VLOOKUP or XLOOKUP for vertical layouts.",
     "type": "apti"
   },
   {
-    "question": "When analyzing financial statements, an accountant notes that a manufacturing firm capitalized an interest payment related to constructing a new production facility rather than expensing it on the Income Statement. What is the impact on the current period's financial statements?",
+    "question": "A business manager observes that a company's Net Profit Margin is 8% and its Financial Leverage Ratio (Assets / Equity) is 2.0x. If the total Return on Equity (ROE) calculated via the standard DuPont Analysis is 16%, what is the company's Asset Turnover Ratio?",
     "options": [
-      "Current net income is lower and total assets are lower",
-      "Current net income is higher and total assets are higher",
-      "Operating cash flow decreases while investing cash flow increases",
-      "No impact on the balance sheet or income statement"
+      "0.5x",
+      "1.0x",
+      "1.5x",
+      "2.0x"
     ],
     "answerIndex": 1,
-    "explanation": "Capitalizing interest means including it as part of the asset's cost on the Balance Sheet rather than recognizing it as an immediate interest expense on the Income Statement. This keeps current period expenses lower (higher Net Income) and increases long-term assets.\n\nExam Takeaway: Capitalizing costs boosts short-term earnings and asset values compared to immediate expensing.",
+    "explanation": "Under the 3-step DuPont equation: ROE = Net Profit Margin x Asset Turnover x Financial Leverage. Substituting the known values: 16% = 8% x Asset Turnover x 2.0. This simplifies to 0.16 = 0.16 x Asset Turnover, which gives an Asset Turnover Ratio of 1.0x. Exam Takeaway: DuPont Analysis breaks ROE into operating efficiency (profit margin), asset efficiency (asset turnover), and financial leverage.",
     "type": "apti"
   },
   {
-    "question": "An investor purchases a 10-year Treasury bond with a face value of $1,000 carrying a fixed 5% coupon rate. If market yields rise to 7% due to inflationary pressures, what happens to the bond's market price and current yield?",
+    "question": "A retail bank receives notice from the central bank that the statutory Cash Reserve Ratio (CRR) has been increased by 50 basis points. How does this policy change directly impact the commercial bank's balance sheet operations?",
     "options": [
-      "Market price rises and current yield drops",
-      "Market price falls and current yield rises",
-      "Market price remains at $1,000 and yield remains 5%",
-      "Both market price and current yield fall proportionately"
-    ],
-    "answerIndex": 1,
-    "explanation": "Bond prices and market interest rates move inversely. When interest rates rise, existing bonds with lower coupons become less attractive, causing their market price to fall below par. As price drops, the fixed coupon yields a higher percentage relative to market price.\n\nExam Takeaway: Bond prices fall when market interest rates rise, causing effective yield to increase.",
-    "type": "apti"
-  },
-  {
-    "question": "To protect small retail investors from market manipulation in high-risk securities, SEBI places certain illiquid or highly volatile stocks under an enhanced supervisory framework that requires 100% upfront margin and restricted price bands. What is this regulatory mechanism called?",
-    "options": [
-      "Graduated Debt Framework (GDF)",
-      "Additional Surveillance Measure (ASM)",
-      "Qualified Institutional Placement (QIP)",
-      "Promoter Lock-in Waiver"
-    ],
-    "answerIndex": 1,
-    "explanation": "SEBI and Indian stock exchanges place volatile or vulnerable stocks under Additional Surveillance Measures (ASM) or Graded Surveillance Measures (GSM) to alert investors, curb speculation, and impose strict trading conditions like high margins.\n\nExam Takeaway: ASM framework is used by regulators to curb excessive volatility and protect retail market participants.",
-    "type": "apti"
-  },
-  {
-    "question": "A corporate valuation team calculates a company's Cost of Equity using the Capital Asset Pricing Model (CAPM). If the risk-free rate is 4%, the expected market return is 10%, and the stock's Beta is 1.5, what is the required Return on Equity?",
-    "options": [
-      "13.0%",
-      "15.0%",
-      "9.0%",
-      "11.0%"
+      "It reduces the volume of loanable funds available for lending.",
+      "It lowers the risk-weight on residential mortgage loans.",
+      "It forces the bank to issue fresh equity capital.",
+      "It automatically increases the yields paid on retail savings accounts."
     ],
     "answerIndex": 0,
-    "explanation": "Using CAPM: Cost of Equity = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). Plugging in numbers: 4% + 1.5 * (10% - 4%) = 4% + 1.5 * (6%) = 4% + 9% = 13.0%.\n\nExam Takeaway: CAPM calculates return by scaling the market risk premium by the asset's Beta.",
+    "explanation": "The Cash Reserve Ratio (CRR) mandates the percentage of total deposits that commercial banks must hold as mandatory cash balances with the central bank without earning interest. Raising the CRR locks up more cash with the central bank, directly reducing the funds available for banks to lend out into the economy. Exam Takeaway: Increasing CRR absorbs liquidity from the banking system and restricts credit creation.",
     "type": "apti"
   },
   {
-    "question": "In financial modeling, an analyst needs to calculate the internal rate of return for a project with irregular cash flow dates spread across multiple calendar years. Which built-in Excel function should be used?",
+    "question": "An equity researcher is building an Excel model and wants to ensure that a cell reference to a risk-free rate in cell $B$1 remains permanently fixed when copying a formula across multiple rows and columns. What Excel formatting technique is being utilized?",
     "options": [
-      "IRR",
-      "XIRR",
-      "MIRR",
-      "RATE"
+      "Relative Referencing",
+      "Absolute Referencing",
+      "Dynamic Array",
+      "Circular Referencing"
     ],
     "answerIndex": 1,
-    "explanation": "While standard IRR assumes cash flows occur at equal periodic intervals (e.g., end of every year), XIRR accepts specific dates alongside corresponding cash flow values to account for precise timing differences.\n\nExam Takeaway: Use XIRR in Excel for discounting unevenly timed cash flow schedules.",
+    "explanation": "Absolute cell referencing uses dollar signs before both the column letter and row number ($B$1) to lock the cell reference so it does not change when copied to other cells. Relative references change based on position, and dynamic arrays spill results over multiple cells. Exam Takeaway: Use dollar signs ($) in Excel formula references to lock row and column coordinates during copying.",
     "type": "apti"
   },
   {
-    "question": "If a listed Indian firm wants to raise fresh equity capital quickly from sophisticated institutional buyers without undergoing the lengthy public prospectus approval process required for a Rights Issue, which route can it utilize under SEBI norms?",
+    "question": "A manufacturing company purchases $50,000 worth of raw materials on credit from a vendor. How does this transaction immediately affect the company's balance sheet under double-entry accounting?",
     "options": [
-      "Initial Public Offer (IPO)",
-      "Qualified Institutions Placement (QIP)",
-      "Offer for Sale (OFS) via Retail Window",
-      "Indian Depository Receipt (IDR)"
-    ],
-    "answerIndex": 1,
-    "explanation": "Qualified Institutions Placement (QIP) is a regulated capital-raising tool through which listed companies in India issue equity or convertible securities exclusively to Qualified Institutional Buyers (QIBs) on a fast-track basis.\n\nExam Takeaway: QIP allows listed companies to quickly raise institutional equity capital without full public prospectuses.",
-    "type": "apti"
-  },
-  {
-    "question": "A company reports a high Return on Assets (ROA) of 14% alongside a low Asset Turnover Ratio of 0.5x. According to financial ratio analysis, what must be true about the firm's Profit Margin?",
-    "options": [
-      "The Profit Margin is equal to 7%",
-      "The Profit Margin is equal to 28%",
-      "The Profit Margin is equal to 14%",
-      "The Profit Margin cannot be determined from these metrics"
-    ],
-    "answerIndex": 1,
-    "explanation": "Return on Assets (ROA) = Net Profit Margin * Asset Turnover. Rearranging the formula: Net Profit Margin = ROA / Asset Turnover = 14% / 0.5 = 28%.\n\nExam Takeaway: ROA equals profit margin multiplied by total asset turnover.",
-    "type": "apti"
-  },
-  {
-    "question": "An analyst evaluates two investment opportunities. Project X has an NPV of $2 million and an initial outlay of $5 million. Project Y has an NPV of $1.5 million and an initial outlay of $2 million. If capital is strictly rationed, which metric helps select the most capital-efficient project?",
-    "options": [
-      "Payback Period",
-      "Profitability Index (PI)",
-      "Accounting Rate of Return (ARR)",
-      "Internal Rate of Debt"
-    ],
-    "answerIndex": 1,
-    "explanation": "The Profitability Index (PI = Present Value of Future Cash Flows / Initial Investment) measures value created per unit of capital spent. Project Y has a higher PI [(1.5 + 2) / 2 = 1.75] than Project X [(2 + 5) / 5 = 1.4], making Project Y more capital-efficient under tight capital rationing.\n\nExam Takeaway: Profitability Index identifies maximum value generated per dollar of capital spent.",
-    "type": "apti"
-  },
-  {
-    "question": "Under fundamental accounting principles, when a firm recognizes unearned (deferred) revenue after receiving an advance cash payment from a customer for services to be delivered next year, how is the balance sheet classified?",
-    "options": [
-      "Increase in Cash (Asset) and Increase in Unearned Revenue (Liability)",
-      "Increase in Cash (Asset) and Increase in Retained Earnings (Equity)",
-      "Decrease in Cash (Asset) and Increase in Accounts Receivable (Asset)",
-      "Increase in Revenues (Income Statement) and Decrease in Liabilities"
+      "Inventory increases by $50,000 and Accounts Payable increases by $50,000.",
+      "Inventory increases by $50,000 and Cash decreases by $50,000.",
+      "Retained Earnings decrease by $50,000 and Accounts Payable increases by $50,000.",
+      "Property, Plant & Equipment increases by $50,000 and Cash increases by $50,000."
     ],
     "answerIndex": 0,
-    "explanation": "Receiving cash increases current assets. Because the performance obligation has not been fulfilled yet, the revenue cannot be earned under accrual accounting; it is recorded as Unearned Revenue, a current liability.\n\nExam Takeaway: Advances received for unfulfilled services are classified as current liabilities until earned.",
+    "explanation": "Purchasing raw materials on credit increases current assets (Inventory) by $50,000 and simultaneously creates a short-term liability (Accounts Payable) for the same amount. Cash is not impacted until payment is actually remitted to the supplier. Exam Takeaway: Purchases on credit increase an asset account (Inventory) and a liability account (Accounts Payable) equally.",
     "type": "apti"
   },
   {
-    "question": "During a period of rising prices (inflation), which inventory valuation method results in the highest reported Net Income and highest ending inventory value on the balance sheet?",
+    "question": "In a formal financial modeling audit, an analyst discovers a '#NUM!' error inside a discounted cash flow spreadsheet. What is the most likely mathematical cause of this specific Excel error?",
     "options": [
-      "LIFO (Last-In, First-Out)",
-      "FIFO (First-In, First-Out)",
-      "Weighted Average Cost",
-      "Specific Identification with historic write-downs"
+      "A cell reference contains text instead of a valid number.",
+      "A formula is attempting an impossible numeric calculation, such as finding the square root of a negative number.",
+      "The referenced cell has been deleted entirely from the sheet.",
+      "The column width is too narrow to display the calculated result."
     ],
     "answerIndex": 1,
-    "explanation": "Under FIFO, older and cheaper inventory items are expensed to Cost of Goods Sold (COGS) first. Lower COGS leads to higher Net Income, while newer, higher-cost items remain in ending inventory on the balance sheet.\n\nExam Takeaway: FIFO maximizes reported profit and inventory values during inflationary periods.",
+    "explanation": "The '#NUM!' error occurs in Excel when a formula or function contains invalid numerical values or performs an mathematically impossible operation (like taking the square root of a negative number or calculating an IRR that fails to converge). Text in place of numbers causes '#VALUE!', while deleted references trigger '#REF!'. Exam Takeaway: '#NUM!' signifies invalid numerical inputs or impossible mathematical operations in an Excel formula.",
     "type": "apti"
   },
   {
-    "question": "What happens to a firm's Debt-to-Equity (D/E) ratio and Interest Coverage Ratio if it uses accumulated cash reserves to fully repay a maturing long-term corporate loan?",
+    "question": "A retail company reported annual net sales of $1,000,000 and Cost of Goods Sold (COGS) of $600,000. If its average inventory held throughout the year was $100,000, what is its Inventory Turnover Ratio?",
     "options": [
-      "D/E ratio increases and Interest Coverage Ratio decreases",
-      "D/E ratio decreases and Interest Coverage Ratio increases",
-      "D/E ratio remains flat while Interest Coverage Ratio drops to zero",
-      "D/E ratio decreases and Interest Coverage Ratio stays unchanged"
+      "4.0x",
+      "6.0x",
+      "10.0x",
+      "16.0x"
     ],
     "answerIndex": 1,
-    "explanation": "Repaying debt reduces total debt, lowering the D/E ratio. Lower interest expenses going forward increase the Interest Coverage Ratio (EBIT / Interest Expense).\n\nExam Takeaway: De-leveraging reduces financial risk, improving interest coverage and lowering debt ratios.",
+    "explanation": "The Inventory Turnover Ratio measures how efficient a company is at managing its stock and is calculated as Cost of Goods Sold divided by Average Inventory ($600,000 / $100,000 = 6.0x). Revenue is not used in the numerator because inventory is carried at cost, not retail selling price. Exam Takeaway: Inventory Turnover = COGS / Average Inventory.",
     "type": "apti"
   },
   {
-    "question": "In financial modeling, what type of Excel error occurs when a formula attempts to divide a number by a cell that contains zero or is completely blank?",
+    "question": "A retail investor notices that a listed company has filed a draft red herring prospectus for a mandatory rights issue. Under SEBI regulations, what rights do existing shareholders receive under a rights issue?",
     "options": [
-      "#VALUE!",
-      "#REF!",
-      "#DIV/0!",
-      "#N/A"
+      "The obligation to purchase new debt instruments at a discount.",
+      "The right to purchase additional shares directly from the company in proportion to their existing holding at a specified price.",
+      "An automatic entitlement to convert preferred shares into common voting equity.",
+      "The guaranteed right to sell back shares to the promoters at market price."
+    ],
+    "answerIndex": 1,
+    "explanation": "A rights issue gives existing equity shareholders the option (right, but not obligation) to subscribe to additional new shares of the company in proportion to their existing shareholding, usually at a discounted price within a specified timeframe. Exam Takeaway: Rights issues allow existing shareholders to maintain proportional ownership by purchasing additional shares at a set price.",
+    "type": "apti"
+  },
+  {
+    "question": "If the yield to maturity (YTM) of a corporate bond exceeds its fixed annual coupon rate, how is the bond currently trading in the secondary debt market?",
+    "options": [
+      "At a Premium",
+      "At Par",
+      "At a Discount",
+      "At Zero Coupon Value"
     ],
     "answerIndex": 2,
-    "explanation": "Excel returns the explicit #DIV/0! error message whenever an operation involves dividing by zero or an empty reference cell.\n\nExam Takeaway: #DIV/0! signals an invalid division operation by zero or empty cells.",
+    "explanation": "When a bond's YTM (required market return) is greater than its coupon rate, the market demands a higher yield than the bond pays. To deliver this higher market yield, the bond price must drop below its face (par) value, causing it to trade at a discount. Exam Takeaway: When Yield > Coupon Rate, the bond trades at a Discount; when Yield < Coupon Rate, it trades at a Premium.",
     "type": "apti"
   },
   {
-    "question": "In macroeconomic policy, what phenomenon occurs when heavy government borrowing raises domestic market interest rates, thereby making it more expensive for private enterprises to borrow and invest?",
+    "question": "An M&A analyst is reviewing the cash flow statement of a target company. The company recorded $15 million in Cash Flow from Operations, spent $5 million on Capital Expenditures (CapEx), paid $2 million in cash dividends, and repaid $3 million of principal on loans. What is the company's Free Cash Flow to Firm (FCFF) proxy calculated as Operating Cash Flow minus CapEx?",
     "options": [
-      "Quantitative Easing",
-      "Crowding-Out Effect",
-      "Liquidity Trap",
-      "Fiscal Multiplier Acceleration"
+      "$10 million",
+      "$8 million",
+      "$5 million",
+      "$13 million"
+    ],
+    "answerIndex": 0,
+    "explanation": "A standard simplified measure of Free Cash Flow is Cash Flow from Operations minus Capital Expenditures ($15 million - $5 million = $10 million). Dividends and debt repayments belong to financing activities and do not reduce the core operating free cash flow generated by the business operations. Exam Takeaway: Basic Free Cash Flow = Operating Cash Flow - Capital Expenditures.",
+    "type": "apti"
+  },
+  {
+    "question": "An equity analyst wants to calculate the unlevered cost of equity for a candidate firm using the Capital Asset Pricing Model (CAPM). What key market input represents the systematic risk of the company relative to the broader market index?",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Standard Deviation",
+      "Sharpe Ratio"
     ],
     "answerIndex": 1,
-    "explanation": "The Crowding-Out Effect occurs when large government budget deficits financed through debt issuance consume domestic capital supply, raising interest rates and reducing private sector investment spending.\n\nExam Takeaway: Excessive public sector debt borrowing can crowd out private investment by increasing interest rates.",
+    "explanation": "In CAPM, Beta measures a security's sensitivity and systematic risk relative to the overall market portfolio. Alpha measures excess return above a benchmark, standard deviation measures total risk, and the Sharpe Ratio measures risk-adjusted return. Exam Takeaway: Beta measures systematic market risk in the CAPM equation.",
+    "type": "apti"
+  },
+  {
+    "question": "A financial manager notices that the firm's Quick Ratio is 0.8x, while its Current Ratio is 2.1x. What primary factor accounts for this wide gap between the two liquidity metrics?",
+    "options": [
+      "Large holdings of cash equivalents",
+      "High levels of inventory included in current assets",
+      "Significant long-term debt maturing next year",
+      "Unpaid corporate tax liabilities"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Current Ratio includes all current assets (Cash + Receivables + Inventory + Prepaid Expenses), whereas the Quick Ratio (Acid-Test) excludes Inventory and Prepaid Expenses because they are less liquid. A large gap between the two ratios indicates that inventory forms a major portion of total current assets. Exam Takeaway: The Quick Ratio isolates liquid assets by removing inventory from current assets.",
+    "type": "apti"
+  },
+  {
+    "question": "In financial modeling, an analyst wants to quickly evaluate five different revenue growth scenarios (e.g., -10%, 0%, 5%, 10%, 15%) and display the resulting Net Income output in a structured table without writing separate formulas for each. Which built-in Excel Sensitivity Analysis tool should be used?",
+    "options": [
+      "Goal Seek",
+      "Data Table",
+      "Solver",
+      "Consolidate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Excel's 'Data Table' tool (found under What-If Analysis) allows analysts to build 1-variable or 2-variable sensitivity tables that automatically compute multiple scenario outputs from varying inputs simultaneously. Goal Seek finds an input for a single target output, while Solver handles complex multi-constraint optimization. Exam Takeaway: Data Tables are standard tools in Excel financial models for running scenario sensitivity analysis.",
+    "type": "apti"
+  },
+  {
+    "question": "When a central bank sells government bonds directly to commercial banks through Open Market Operations (OMO), what is the immediate intended effect on system-wide monetary conditions?",
+    "options": [
+      "To expand liquidity and lower short-term market interest rates.",
+      "To absorb excess cash liquidity from the banking system and tighten money supply.",
+      "To directly decrease government fiscal deficit.",
+      "To lower the capital adequacy ratio required for private sector lenders."
+    ],
+    "answerIndex": 1,
+    "explanation": "When the central bank sells government securities via Open Market Operations (OMO), commercial banks pay for them with cash. This transfers cash out of bank reserves to the central bank, absorbing excess liquidity from the market and placing upward pressure on interest rates. Exam Takeaway: Selling securities in OMO absorbs excess market liquidity; buying securities injects liquidity.",
+    "type": "apti"
+  },
+  {
+    "question": "Under fundamental corporate accounting, how does a non-cash expense like Depreciation affect a profitable firm's Net Income and Cash Balance?",
+    "options": [
+      "It decreases Net Income and decreases Cash Balance by the exact same amount.",
+      "It decreases Net Income, but increases Net Cash Flow due to tax shield benefits.",
+      "It has zero impact on Net Income, but increases Cash from Financing.",
+      "It increases Net Income, but decreases Cash from Operations."
+    ],
+    "answerIndex": 1,
+    "explanation": "Depreciation is a non-cash expense that reduces taxable Net Income on the Income Statement. Because it lowers pre-tax income without requiring a cash payout, it reduces income tax liabilities (tax shield), which preserves actual cash flow. On the Cash Flow Statement, depreciation is added back to Net Income. Exam Takeaway: Depreciation reduces reported earnings without consuming cash, creating a tax shield that benefits cash flow.",
+    "type": "apti"
+  },
+  {
+    "question": "A stock market investor wants to check if a listed company's management is misusing shareholder money by taking on excessive financial leverage. Which ratio provides the best measure of financial risk related to debt obligations?",
+    "options": [
+      "Operating Profit Margin",
+      "Debt-to-Equity Ratio",
+      "Current Ratio",
+      "Price-to-Earnings Ratio"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Debt-to-Equity (D/E) ratio compares a company's total liabilities to its total shareholder equity, measuring financial leverage and long-term solvency risk. Current Ratio measures short-term liquidity, Operating Profit Margin reflects operational efficiency, and P/E ratio indicates market valuation multiples. Exam Takeaway: The Debt-to-Equity ratio measures long-term leverage and financial capital structure risk.",
+    "type": "apti"
+  },
+  {
+    "question": "To enhance market transparency and curb front-running or insider misconduct, SEBI mandates that key personnel of asset management companies submit disclosures regarding their personal securities transactions. What is the core rationale for these regulatory compliance checks?",
+    "options": [
+      "To ensure investment managers pay appropriate capital gains taxes.",
+      "To prevent conflicts of interest and protect retail investors from unfair trading practices.",
+      "To guarantee minimum annual returns on mutual fund schemes.",
+      "To mandate minimum capital allocation into government treasury bills."
+    ],
+    "answerIndex": 1,
+    "explanation": "SEBI's disclosure and insider trading regulations require asset managers and key executives to report personal trades to eliminate conflicts of interest, prevent front-running client orders, and ensure fair market operation for retail investors. Exam Takeaway: Insider transaction rules are designed to align manager interests with investors and prevent misuse of privileged information.",
+    "type": "apti"
+  },
+  {
+    "question": "A valuation team is analyzing a software company with negative earnings due to heavy early-stage R&D investments. Which relative valuation multiple is most appropriate for comparing this firm against its industry peers?",
+    "options": [
+      "Price-to-Earnings (P/E)",
+      "Enterprise Value-to-Sales (EV/Sales)",
+      "Price-to-Earnings Growth (PEG)",
+      "Dividend Yield"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a company has negative net income, net-earnings-based multiples like P/E or PEG become undefined or meaningless. Enterprise Value-to-Sales (EV/Sales) uses top-line revenue, which remains positive, allowing meaningful peer group comparison regardless of current bottom-line profitability. Exam Takeaway: Revenue-based multiples like EV/Sales are preferred for valuing unprofitable or early-stage growth companies.",
     "type": "apti"
   }
 ]

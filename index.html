@@ -290,12 +290,7 @@
             min-height: 200px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2); text-align: center;
         }
         .paper img { max-width: 100%; height: auto; object-fit: contain; border: 2px solid #333; }
-        .market-table { width: 100%; border-collapse: collapse; text-align: left; font-family: 'Courier New', monospace; font-size: 13px; }
-        .market-table th, .market-table td { padding: 8px 5px; border-bottom: 1px solid #ddd; }
-        .market-table th { font-size: 11px; text-transform: uppercase; color: #555; }
-        .market-table td:nth-child(n+2), .market-table th:nth-child(n+2) { text-align: right; }
-        .market-up { color: #16803c; }
-        .market-down { color: #c62828; }
+        .market-source-link { display: inline-block; margin: 12px 0; padding: 10px 14px; border: 2px solid var(--black); background: #fff8b0; color: var(--black); font-weight: bold; text-decoration: none; box-shadow: 3px 3px 0 var(--black); }
         .modal-close {
             position: absolute; top: -20px; right: -20px;
             width: 40px; height: 40px; background: var(--magenta); color: #fff;
@@ -545,12 +540,10 @@
             <div class="clip"></div>
             <button class="modal-close" onclick="closeModal(event)">X</button>
             <div class="paper">
-                <h2>Market snapshot</h2>
-                <p id="market-updated" style="font-size:12px;color:#666;">Loading current market data…</p>
-                <table class="market-table">
-                    <thead><tr><th>Index</th><th>Value</th><th>Change</th></tr></thead>
-                    <tbody id="market-table-body"><tr><td colspan="3">Loading…</td></tr></tbody>
-                </table>
+                <h2>Live market indices</h2>
+                <p>See the current index values, daily change, and update time from Moneycontrol.</p>
+                <a class="market-source-link" href="https://www.moneycontrol.com/markets/indian-indices/live-markets" target="_blank" rel="noopener noreferrer">Open live index table ↗</a>
+                <p style="font-size:12px;color:#666;">Source: Moneycontrol · Values update during market hours.</p>
                 <div id="gold-rate-display" class="gold-sticker">Loading Gold Rate...</div>
             </div>
         </div>
@@ -767,34 +760,7 @@
                     if (cols.length >= 5) rows.push({ id: cols[0], price: cols[2], change: cols[3], changePct: cols[4] });
                 }
                 updateTickerUI(rows);
-                window.marketRows = rows;
-                renderMarketTable();
             }).catch(() => {});
-        }
-        function renderMarketTable() {
-            const body = document.getElementById('market-table-body');
-            if (!body) return;
-            const rows = window.marketRows || [];
-            const wanted = ['NSEI', 'BSESN', 'USDINR', 'BZF', 'GSPC', 'TNX', 'VIX', 'GCF'];
-            const names = { NSEI: 'Nifty 50', BSESN: 'Sensex', USDINR: 'USD / INR', BZF: 'Brent crude', GSPC: 'S&P 500', TNX: 'US 10Y yield', VIX: 'VIX', GCF: 'Gold futures' };
-            const byId = new Map(rows.map(row => [row.id, row]));
-            const visible = wanted.map(id => byId.get(id)).filter(row => row && !row.price.includes('Loading'));
-            body.replaceChildren();
-            visible.forEach(row => {
-                const tr = document.createElement('tr');
-                const change = Number.parseFloat(row.change.replace(/[^\d.-]/g, ''));
-                const cells = [names[row.id] || row.id, row.price, `${row.change} (${row.changePct})`];
-                cells.forEach((value, index) => {
-                    const td = document.createElement('td');
-                    td.textContent = value;
-                    if (index === 2) td.className = change < 0 ? 'market-down' : 'market-up';
-                    tr.appendChild(td);
-                });
-                body.appendChild(tr);
-            });
-            document.getElementById('market-updated').textContent = visible.length
-                ? `Updated ${new Date().toLocaleTimeString()}`
-                : 'Live market data is unavailable right now.';
         }
         pollLiveMarketData();
         setInterval(pollLiveMarketData, 5 * 60 * 1000);
